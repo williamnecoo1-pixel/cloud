@@ -2,30 +2,11 @@ const fs = require('fs/promises');
 
 // الليستة ديال الروابط ديالك
 const sourceUrls = [
-  "https://github.com/rtwo2/FastNodes/raw/refs/heads/main/sub/ipv4_only.txt",
-  "https://github.com/crackbest/V2ray-Config/raw/refs/heads/main/config.txt",
-  "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/all_configs.txt",
-  "https://github.com/10Dream/sub-mod/raw/refs/heads/main/sub/normal/10ium-V2Hub3-vless",
-  "https://github.com/10Dream/sub-mod/raw/refs/heads/main/sub/normal/10ium-V2Hub3-trojan",
-  "https://github.com/10Dream/sub-mod/raw/refs/heads/main/sub/normal/10Dream-VpnClashFaCollector-mixed.txt",
-  "https://github.com/MustafaBaqer/VestraNet-Nodes/raw/refs/heads/main/subscriptions/mix-normal.txt",
-  "https://github.com/Firmfox/Proxify/raw/refs/heads/main/v2ray_configs/separated_by_protocol/trojan.txt",
-  "https://github.com/Firmfox/Proxify/raw/refs/heads/main/v2ray_configs/separated_by_protocol/vless.txt",
-  "https://github.com/Firmfox/Proxify/raw/refs/heads/main/v2ray_configs/separated_by_protocol/vmess.txt",
-  "https://github.com/miladtahanian/V2RayCFGDumper/raw/refs/heads/main/sub.txt",
-  "https://github.com/ShatakVPN/ConfigForge-V2Ray/raw/refs/heads/main/configs/all.txt",
-  "https://github.com/0xRadikal/Free-v2ray-Configs/raw/refs/heads/main/all/configs.txt",
-  "https://github.com/roosterkid/openproxylist/raw/refs/heads/main/V2RAY_RAW.txt",
-  "https://github.com/miladtahanian/V2RayScrapeByCountry/raw/refs/heads/main/output_configs/Trojan.txt",
-  "https://github.com/miladtahanian/V2RayScrapeByCountry/raw/refs/heads/main/output_configs/Vless.txt",
-  "https://github.com/miladtahanian/V2RayScrapeByCountry/raw/refs/heads/main/output_configs/Vmess.txt",
-  "https://github.com/MhdiTaheri/V2rayCollector/raw/refs/heads/main/sub/mix",
-  "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/trojan.txt",
-  "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/vless.txt",
-  "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/vmess.txt",
-  "https://github.com/iboxz/free-v2ray-collector/raw/refs/heads/main/main/mix.txt",
-  "https://github.com/iboxz/free-v2ray-collector/raw/refs/heads/main/main/mix",
   "https://github.com/williamnecoo1-pixel/reality/raw/refs/heads/main/working_configs.txt",
+  "https://github.com/williamnecoo1-pixel/reality-2/raw/refs/heads/main/working_configs.txt",
+  "https://github.com/williamnecoo1-pixel/-testeur-X/raw/refs/heads/main/working.txt",
+  "https://github.com/Mohamedhnini-a/testeur/raw/refs/heads/main/working_configs.txt",
+  "https://github.com/Mohamedhnini-a/testeur-2/raw/refs/heads/main/working_configs.txt",
 ];
 
 // 🆕 الـ IP الجديد اللي غادي نبدلو بيه
