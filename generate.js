@@ -2,11 +2,8 @@ const fs = require('fs/promises');
 
 // الليستة ديال الروابط ديالك
 const sourceUrls = [
-  "https://github.com/williamnecoo1-pixel/reality/raw/refs/heads/main/working_configs.txt",
-  "https://github.com/williamnecoo1-pixel/reality-2/raw/refs/heads/main/working_configs.txt",
-  "https://github.com/williamnecoo1-pixel/-testeur-X/raw/refs/heads/main/working.txt",
-  "https://github.com/Mohamedhnini-a/testeur/raw/refs/heads/main/working_configs.txt",
-  "https://github.com/Mohamedhnini-a/testeur-2/raw/refs/heads/main/working_configs.txt",
+  "https://github.com/williamnecoo1-pixel/testrw/raw/refs/heads/main/reality_configs.txt",
+  
 ];
 
 // 🆕 الـ IP الجديد اللي غادي نبدلو بيه
