@@ -3,11 +3,13 @@ const fs = require('fs/promises');
 // الليستة ديال الروابط ديالك
 const sourceUrls = [
   "https://github.com/williamnecoo1-pixel/testrw/raw/refs/heads/main/reality_configs.txt",
-  
 ];
 
 // 🆕 الـ IP الجديد اللي غادي نبدلو بيه
 const REPLACE_HOST = '216.239.38.126';
+
+// 🆕 اللائحة ديال الأنواع المسموحة (زدت xhttp و splithttp)
+const ALLOWED_NETWORKS = ['ws', 'xhttp', 'splithttp', 'grpc'];
 
 const FETCH_TIMEOUT_MS = 30_000;
 const CONCURRENCY_LIMIT = 30;
@@ -139,8 +141,11 @@ async function main() {
 
           const config = JSON.parse(jsonStr);
 
+          // 🆕 هنا رديناها كتشيك على اللائحة المسموحة (ws, xhttp...) عوض ws بوحدها
+          const netType = String(config.net || '').toLowerCase();
+          
           if (
-            String(config.net || '').toLowerCase() !== 'ws' ||
+            !ALLOWED_NETWORKS.includes(netType) ||
             String(config.tls || '').toLowerCase() !== 'tls' ||
             parseInt(config.port, 10) !== 443
           ) {
@@ -178,10 +183,12 @@ async function main() {
         const url = new URL(cleanLine);
         const protocol = url.protocol.replace(':', '').toLowerCase();
         const port = url.port === '' ? 443 : parseInt(url.port, 10);
+        const netType = String(url.searchParams.get('type') || '').toLowerCase(); // 🆕
 
+        // 🆕 هنا تا هوما رديناهم كتشيك على اللائحة المسموحة
         if (
           (protocol !== 'vless' && protocol !== 'trojan') ||
-          url.searchParams.get('type') !== 'ws' ||
+          !ALLOWED_NETWORKS.includes(netType) ||
           url.searchParams.get('security') !== 'tls' ||
           port !== 443
         ) {
