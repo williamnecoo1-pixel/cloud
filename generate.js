@@ -4,7 +4,7 @@ const fs = require('fs/promises');
 const sourceUrls = [
   "https://github.com/williamnecoo1-pixel/testrw/raw/refs/heads/main/reality_configs.txt",
   "https://github.com/williamnecoo1-pixel/Neverstops/raw/refs/heads/main/sub.txt",
-  "https://github.com/williamnecoo1-pixel/ss/raw/refs/heads/main/sub.txt',
+  "https://github.com/williamnecoo1-pixel/ss/raw/refs/heads/main/sub.txt",
   
 ];
 
