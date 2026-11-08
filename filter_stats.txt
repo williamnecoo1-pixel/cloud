@@ -1,9 +1,14 @@
-Google IP Config Collector
-===========================
-Total configs: 23968
-Google matched: 48
-Unique Google IPs: 69
-Unresolved: 359
-Invalid configs: 0
-Google IP ranges: 148
-Finished: 2026-11-08T15:08:16.209Z
+GOOGLE ECOSYSTEM COLLECTOR
+==========================
+Total configs: 26430
+Google ecosystem: 57
+Google Frontend: 57
+Google Cloud: 41
+Unique Frontend IPs: 59
+Unique Cloud IPs: 11
+Unresolved: 587
+Invalid: 0
+DNS cache: 2491
+Workers: 80
+Duration: 446.96 seconds
+Finished: 2026-11-08T15:45:01.411Z
