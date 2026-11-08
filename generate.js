@@ -1,247 +1,245 @@
-const fs = require('fs/promises');
+const fs = require("fs");
+const dns = require("dns").promises;
+const net = require("net");
 
-// الليستة ديال الروابط ديالك
-const sourceUrls = [
-  "https://github.com/williamnecoo1-pixel/testrw/raw/refs/heads/main/reality_configs.txt",
-  "https://github.com/williamnecoo1-pixel/Neverstops/raw/refs/heads/main/sub.txt",
-  "https://github.com/williamnecoo1-pixel/ss/raw/refs/heads/main/sub.txt",
-  
-];
+const SOURCE_FILE = "sub.txt";
+const GOOGLE_RANGES_URL = "https://www.gstatic.com/ipranges/goog.json";
 
-// 🆕 الـ IP الجديد اللي غادي نبدلو بيه
-const REPLACE_HOST = '216.239.38.126';
+function decodeContent(text) {
+  if (/vless:\/\//i.test(text)) return text;
 
-// 🆕 اللائحة ديال الأنواع المسموحة (زدت xhttp و splithttp)
-const ALLOWED_NETWORKS = ['ws', 'xhttp', 'splithttp', 'grpc'];
-
-const FETCH_TIMEOUT_MS = 30_000;
-const CONCURRENCY_LIMIT = 30;
-
-function timeoutSignal(ms) {
-  if (typeof AbortSignal !== 'undefined' && typeof AbortSignal.timeout === 'function') {
-    return AbortSignal.timeout(ms);
-  }
-  const controller = new AbortController();
-  setTimeout(() => controller.abort(), ms);
-  return controller.signal;
-}
-
-function isPrintableText(text) {
-  if (!text) return false;
-  const cleaned = text.replace(/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]/g, '');
-  return cleaned.length / text.length > 0.9;
-}
-
-function decodeIfBase64(text) {
   try {
-    const cleaned = text.trim().replace(/\s+/g, '');
-    const normalized = cleaned.replace(/-/g, '+').replace(/_/g, '/');
-    const padded = normalized.padEnd(Math.ceil(normalized.length / 4) * 4, '=');
-    const decoded = Buffer.from(padded, 'base64').toString('utf8');
+    const decoded = Buffer.from(
+      text.replace(/\s/g, ""),
+      "base64"
+    ).toString("utf8");
 
-    if (!isPrintableText(decoded)) return text;
-
-    if (
-      decoded.includes('vless://') ||
-      decoded.includes('trojan://') ||
-      decoded.includes('vmess://')
-    ) {
-      return decoded;
-    }
-  } catch (_) {}
+    if (/vless:\/\//i.test(decoded)) return decoded;
+  } catch {}
 
   return text;
 }
 
-function b64DecodeUtf8(b64) {
+function extractConfigs(text) {
+  return [...new Set(
+    decodeContent(text).match(/vless:\/\/[^\s"'<>]+/gi) || []
+  )];
+}
+
+function ipv4ToBigInt(ip) {
+  return ip.split(".").reduce(
+    (n, part) => (n << 8n) | BigInt(part), 0n
+  );
+}
+
+function ipv6ToBigInt(ip) {
+  let value = ip.toLowerCase();
+
+  if (value.includes(".")) {
+    const lastColon = value.lastIndexOf(":");
+    const ipv4 = value.slice(lastColon + 1);
+    const n = ipv4ToBigInt(ipv4);
+
+    const first = Number((n >> 16n) & 0xffffn).toString(16);
+    const second = Number(n & 0xffffn).toString(16);
+
+    value = value.slice(0, lastColon) + ":" + first + ":" + second;
+  }
+
+  const halves = value.split("::");
+  let left = halves[0] ? halves[0].split(":") : [];
+  let right = halves[1] ? halves[1].split(":") : [];
+
+  const missing = 8 - left.length - right.length;
+  const groups = [...left, ...Array(missing).fill("0"), ...right];
+
+  return groups.reduce(
+    (n, part) => (n << 16n) | BigInt("0x" + (part || "0")),
+    0n
+  );
+}
+
+function inRange(ip, prefix) {
+  const [network, bitsText] = prefix.split("/");
+  const version = net.isIP(ip);
+
+  if (!version || net.isIP(network) !== version) return false;
+
+  const bits = Number(bitsText);
+  const width = version === 4 ? 32 : 128;
+
+  if (!Number.isInteger(bits) || bits < 0 || bits > width) {
+    return false;
+  }
+
+  const address = version === 4
+    ? ipv4ToBigInt(ip)
+    : ipv6ToBigInt(ip);
+
+  const base = version === 4
+    ? ipv4ToBigInt(network)
+    : ipv6ToBigInt(network);
+
+  const shift = BigInt(width - bits);
+
+  return (address >> shift) === (base >> shift);
+}
+
+function isGoogleIP(ip, ranges) {
+  return ranges.some(prefix => inRange(ip, prefix));
+}
+
+async function getGoogleRanges() {
+  const response = await fetch(GOOGLE_RANGES_URL);
+
+  if (!response.ok) {
+    throw new Error("Google IP ranges download failed: " + response.status);
+  }
+
+  const data = await response.json();
+
+  return data.prefixes.flatMap(item => [
+    item.ipv4Prefix,
+    item.ipv6Prefix
+  ].filter(Boolean));
+}
+
+async function resolveIPs(host) {
+  if (net.isIP(host)) return [host];
+
   try {
-    b64 = b64.trim().replace(/\s/g, '');
-    b64 += '='.repeat((4 - (b64.length % 4)) % 4);
-    return Buffer.from(b64, 'base64').toString('utf8');
+    const records = await dns.lookup(host, { all: true });
+    return [...new Set(records.map(record => record.address))];
   } catch {
-    return null;
+    return [];
   }
 }
 
-function b64EncodeUtf8(str) {
-  return Buffer.from(str, 'utf8').toString('base64');
-}
-
-async function fetchWithLimit(urls, limit) {
-  const results = [];
-  for (let i = 0; i < urls.length; i += limit) {
-    const batch = urls.slice(i, i + limit);
-    const batchResults = await Promise.allSettled(
-      batch.map((url) =>
-        fetch(url, {
-          headers: { 'user-agent': 'Mozilla/5.0' },
-          signal: timeoutSignal(FETCH_TIMEOUT_MS),
-        })
-          .then((res) => {
-            if (!res.ok) {
-              console.warn(`[FAIL ${res.status}] ${url}`);
-              return '';
-            }
-            return res.text();
-          })
-          .catch((err) => {
-            console.warn(`[ERR] ${url} — ${err?.message ?? String(err)}`);
-            return '';
-          })
-      )
-    );
-    results.push(...batchResults);
+async function getConfigs() {
+  if (!fs.existsSync(SOURCE_FILE)) {
+    throw new Error("sub.txt not found");
   }
-  return results;
+
+  const sources = fs.readFileSync(SOURCE_FILE, "utf8")
+    .split(/\r?\n/)
+    .map(line => line.trim())
+    .filter(line => line && !line.startsWith("#"));
+
+  const configs = [];
+
+  for (const source of sources) {
+    if (/^vless:\/\//i.test(source)) {
+      configs.push(source);
+      continue;
+    }
+
+    if (!/^https?:\/\//i.test(source)) continue;
+
+    try {
+      console.log("[FETCH] " + source);
+
+      const response = await fetch(source, {
+        signal: AbortSignal.timeout(30000)
+      });
+
+      if (!response.ok) {
+        console.log("[SOURCE FAILED] HTTP " + response.status);
+        continue;
+      }
+
+      const content = await response.text();
+      configs.push(...extractConfigs(content));
+
+    } catch (error) {
+      console.log("[SOURCE FAILED] " + error.message);
+    }
+  }
+
+  return [...new Set(configs)];
 }
 
 async function main() {
-  const results = await fetchWithLimit(sourceUrls, CONCURRENCY_LIMIT);
+  console.log("================================");
+  console.log("     GOOGLE IP CONFIG FILTER");
+  console.log("================================");
 
-  const texts = results
-    .filter((r) => r.status === 'fulfilled' && r.value)
-    .map((r) => r.value);
+  const ranges = await getGoogleRanges();
+  console.log("[GOOGLE] Loaded ranges: " + ranges.length);
 
-  if (texts.length === 0) {
-    console.error('⚠️ All sources failed to fetch.');
-  }
+  const configs = await getConfigs();
 
-  const filteredConfigs = [];
+  console.log("[TOTAL] Configs: " + configs.length);
 
-  // ============================================================
-  // Sets ديال الفلترة (Dedupe)
-  // ============================================================
-  const seenVless = new Set();
-  const seenVmess = new Set();
-  const seenTrojan = new Set();
+  const results = [];
+  const googleIPs = new Set();
 
-  for (const text of texts) {
-    let decodedText = text;
+  let invalid = 0;
+  let unresolved = 0;
 
-    if (
-      !text.includes('vless://') &&
-      !text.includes('trojan://') &&
-      !text.includes('vmess://')
-    ) {
-      decodedText = decodeIfBase64(text);
-    }
+  for (let i = 0; i < configs.length; i++) {
+    const config = configs[i];
 
-    const lines = decodedText.split(/\r?\n/);
-
-    for (let line of lines) {
-      line = line.trim();
-      if (!line) continue;
-
-      // ==========================================
-      // 1. VMess
-      // ==========================================
-      if (line.startsWith('vmess://')) {
-        try {
-          const cleanLine = line.split('#')[0];
-          const b64 = cleanLine.slice(8).trim();
-          const jsonStr = b64DecodeUtf8(b64);
-          if (!jsonStr) continue;
-
-          const config = JSON.parse(jsonStr);
-
-          // 🆕 هنا رديناها كتشيك على اللائحة المسموحة (ws, xhttp...) عوض ws بوحدها
-          const netType = String(config.net || '').toLowerCase();
-          
-          if (
-            !ALLOWED_NETWORKS.includes(netType) ||
-            String(config.tls || '').toLowerCase() !== 'tls' ||
-            parseInt(config.port, 10) !== 443
-          ) {
-            continue;
-          }
-
-          // ✅ فلترة التكرار حسب الـ ID فقط
-          const vmessId = String(config.id || '').toLowerCase().trim();
-          if (!vmessId || seenVmess.has(vmessId)) continue;
-          seenVmess.add(vmessId);
-
-          const server = String(config.add || '').toLowerCase().trim();
-          if (!server) continue;
-
-          // 🆕 تبديل الـ host بـ 216.239.38.126
-          config.add = REPLACE_HOST;
-
-          filteredConfigs.push('vmess://' + b64EncodeUtf8(JSON.stringify(config)));
-        } catch (_) {}
-        continue;
-      }
-
-      // ==========================================
-      // 2. VLESS / Trojan
-      // ==========================================
-      const cleanLine = line.split('#')[0].trim();
-      if (
-        !cleanLine.startsWith('vless://') &&
-        !cleanLine.startsWith('trojan://')
-      ) {
-        continue;
-      }
-
-      try {
-        const url = new URL(cleanLine);
-        const protocol = url.protocol.replace(':', '').toLowerCase();
-        const port = url.port === '' ? 443 : parseInt(url.port, 10);
-        const netType = String(url.searchParams.get('type') || '').toLowerCase(); // 🆕
-
-        // 🆕 هنا تا هوما رديناهم كتشيك على اللائحة المسموحة
-        if (
-          (protocol !== 'vless' && protocol !== 'trojan') ||
-          !ALLOWED_NETWORKS.includes(netType) ||
-          url.searchParams.get('security') !== 'tls' ||
-          port !== 443
-        ) {
-          continue;
-        }
-
-        const username = url.username.toLowerCase().trim();
-        if (!username) continue;
-
-        // ✅ فلترة VLESS حسب الـ UUID فقط
-        if (protocol === 'vless') {
-          if (seenVless.has(username)) continue;
-          seenVless.add(username);
-        }
-
-        // ✅ فلترة Trojan حسب الـ Password فقط
-        if (protocol === 'trojan') {
-          if (seenTrojan.has(username)) continue;
-          seenTrojan.add(username);
-        }
-
-        // 🆕 تبديل الـ hostname بـ 216.239.38.126
-        url.hostname = REPLACE_HOST;
-
-        let finalConfig = url.toString();
-        const originalRemark = line.split('#')[1];
-        if (originalRemark) finalConfig += `#${originalRemark}`;
-
-        filteredConfigs.push(finalConfig);
-      } catch (_) {}
-    }
-  }
-
-  if (filteredConfigs.length === 0) {
-    console.error('⚠️ No configs found! All sources failed or filter too strict.');
     try {
-      const old = await fs.readFile('sub.txt', 'utf8');
-      if (old.trim().length > 0) {
-        console.warn('ℹ️ Keeping existing sub.txt to avoid wiping the subscription.');
-        return;
+      const url = new URL(config);
+      const host = url.hostname.replace(/^\[|\]$/g, "");
+
+      const ips = await resolveIPs(host);
+
+      if (!ips.length) {
+        unresolved++;
+        continue;
       }
-    } catch (_) {}
-    process.exit(1);
+
+      const matched = ips.filter(ip => isGoogleIP(ip, ranges));
+
+      if (matched.length) {
+        results.push(config);
+        matched.forEach(ip => googleIPs.add(ip));
+
+        console.log(
+          `[GOOGLE ${results.length}] ${host} -> ${matched.join(", ")}`
+        );
+      }
+
+    } catch {
+      invalid++;
+    }
+
+    if ((i + 1) % 500 === 0) {
+      console.log(`[PROGRESS] ${i + 1}/${configs.length}`);
+    }
   }
 
-  await fs.writeFile('sub.txt', filteredConfigs.join('\n'), 'utf8');
-  console.log(`✅ Saved ${filteredConfigs.length} configs to sub.txt (host → ${REPLACE_HOST})`);
+  fs.writeFileSync(
+    "google_configs.txt",
+    results.join("\n") + (results.length ? "\n" : "")
+  );
+
+  fs.writeFileSync(
+    "google_ips.txt",
+    [...googleIPs].sort().join("\n") +
+      (googleIPs.size ? "\n" : "")
+  );
+
+  const stats = [
+    "Google IP Config Collector",
+    "===========================",
+    `Total configs: ${configs.length}`,
+    `Google matched: ${results.length}`,
+    `Unique Google IPs: ${googleIPs.size}`,
+    `Unresolved: ${unresolved}`,
+    `Invalid configs: ${invalid}`,
+    `Google IP ranges: ${ranges.length}`,
+    `Finished: ${new Date().toISOString()}`
+  ].join("\n");
+
+  fs.writeFileSync("filter_stats.txt", stats + "\n");
+
+  console.log("\n" + stats);
 }
 
-main().catch((err) => {
-  console.error(err);
+main().catch(error => {
+  console.error("[FATAL]", error);
   process.exit(1);
 });
+ 
