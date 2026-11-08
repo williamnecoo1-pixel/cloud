@@ -1,34 +1,42 @@
-name: Update subscription
+name: Google IP Config Collector
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
 
+concurrency:
+  group: google-ip-collector
+  cancel-in-progress: true
+
 jobs:
-  update:
+  collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: 20
 
-      - name: Generate sub.txt
+      - name: Collect Google IP configs
         run: node generate.js
 
-      - name: Commit and push
+      - name: Save results
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add sub.txt
-          # ✅ كيتحقق واش كاين شي تغيير، إلا كان كيدير commit
-          git diff --cached --quiet || git commit -m "Update subscription"
-          # ✅ كيدير pull --rebase باش يتفادى أي conflict
-          git pull origin main --rebase || true
-          git push || true
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add google_configs.txt google_ips.txt filter_stats.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Google IP configs"
+            git push
+          else
+            echo "No changes to save"
+          fi
