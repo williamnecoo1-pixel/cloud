@@ -1,14 +1,14 @@
 GOOGLE ECOSYSTEM COLLECTOR
 ==========================
-Total configs: 26246
+Total configs: 26378
 Google ecosystem: 57
 Google Frontend: 57
 Google Cloud: 39
-Unique Frontend IPs: 75
+Unique Frontend IPs: 85
 Unique Cloud IPs: 9
-Unresolved: 532
+Unresolved: 539
 Invalid: 0
-DNS cache: 2485
+DNS cache: 2490
 Workers: 80
-Duration: 417.91 seconds
-Finished: 2026-11-09T07:07:26.325Z
+Duration: 330.19 seconds
+Finished: 2026-11-09T12:55:40.715Z
