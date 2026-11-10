@@ -33,9 +33,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add google_configs.txt google_ips.txt filter_stats.txt
+          git add .
           if ! git diff --cached --quiet; then
-            git commit -m "Update Google IP configs"
+            git commit -m "Update Provider IP configs"
             git push
           else
             echo "No changes to save"
