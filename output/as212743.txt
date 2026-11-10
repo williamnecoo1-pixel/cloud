@@ -1,0 +1,1 @@
+vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:443?security=tls&type=ws&path=%2F&allowInsecure=1#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20-%20Wyszk%C3%B3w%20%7C%2094.183.209.43%3A443%205

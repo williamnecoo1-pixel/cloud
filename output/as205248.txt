@@ -1,0 +1,2 @@
+vless://07d35860-e67d-455e-9d65-0bd712075be0@95.164.116.35:443?security=tls&sni=95.164.116.35&type=ws&host=95.164.116.35&path=%2Fws&fp=chrome#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20-%20Unknown%20%7C%2095.164.116.35%3A443%202
+vless://7b8400b1-d733-4226-844a-71b35214b9f7@95.164.116.35:443?security=tls&sni=tr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒

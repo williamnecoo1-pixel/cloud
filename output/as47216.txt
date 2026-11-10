@@ -1,0 +1,3 @@
+vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?security=tls&type=ws&path=%2F&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%2085.133.244.214%3A443%203
+vless://7da761e2-f954-41b7-9723-2c8a470e98ab@193.111.236.47:443?security=tls&sni=v2fars.shop&type=ws&host=v2fars.shop&path=%2Fapi&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&allowInsecure=0#🔒
+vless://fb03abb3-53d2-4d6b-bbdb-fa0da87916ea@185.84.158.197:443?security=tls&sni=ger.x2net.top&type=ws&path=/&fp=chrome&alpn=http/1.1&allowInsecure=1#🔒

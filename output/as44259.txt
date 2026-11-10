@@ -1,0 +1,1 @@
+vless://c1f5e91c-79e7-5135-b191-1056cff6e91e@38.89.142.153:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.89.142.153&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Jurong%20Town%20%7C%2038.89.142.153%3A443

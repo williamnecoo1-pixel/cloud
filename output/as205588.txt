@@ -1,0 +1,1 @@
+vless://57e089a8-0cd1-48d0-b572-105c4804f6b8@185.213.11.20:443?security=tls&sni=www.agahiya.ir&type=ws&host=soliconf-gghosin4-cell.dormhost.app&path=%2Fjx-y8179aild6rsmj&fp=android&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20185.213.11.20%3A443

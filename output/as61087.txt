@@ -1,0 +1,1 @@
+vless://d671bed2-c140-4bf9-ab17-4d1c04deb300@91.194.11.168:443?security=tls&sni=ca-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Unknown%20%7C%2091.194.11.168%3A443

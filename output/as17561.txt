@@ -1,0 +1,2 @@
+trojan://moist@154.197.121.253:443?path=%2F%3Fed%3D2560&security=tls&host=trojan.freenods.sbs&type=ws&sni=trojan.freenods.sbs#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20-%20Unknown%20%7C%20154.197.121.253%3A443%205
+trojan://moist@154.197.121.253:443?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒

@@ -1,0 +1,1 @@
+vless://e1450159-f7fc-4aef-8ca7-776603c0217c@185.27.44.20:443?security=tls&sni=www.xenhost.ir&type=ws&host=www.xenhost.ir&path=%2F&fp=chrome&alpn=http%2F1.1#🔒

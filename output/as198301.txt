@@ -1,0 +1,1 @@
+vless://00a85603-d8c6-437d-a8bd-ea521107bd87@37.0.6.46:443?encryption=none&security=tls&sni=snippet.danfeng.frii.site&alpn=h3&fp=chrome&type=ws&host=snippet.danfeng.frii.site&path=/?ed%3D2560fp%3Drandom&packetEncoding=xudp#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20-%20Unknown%20%7C%2037.0.6.46%3A443

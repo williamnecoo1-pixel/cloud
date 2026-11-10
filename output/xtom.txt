@@ -1,0 +1,2 @@
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@178.22.26.54:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=%2Fproxyip%3D3cfb8e26.tp30304.ip.090227.xyz&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%7C%20178.22.26.54%3A443
+vless://5cff74b2-7ff8-4658-a206-44c4e0ee7c44@185.49.33.34:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒

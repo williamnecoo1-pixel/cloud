@@ -1,0 +1,1 @@
+trojan://114514@103.115.108.45:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws&host=tjaaa.hhllfly.kdns.fr&path=%2F&allowInsecure=1#🔒

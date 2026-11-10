@@ -1,0 +1,1 @@
+vless://3e3396ce-d6ec-42ee-b854-1dca9fcb2749@38.76.180.144:443?security=tls&sni=www.microsoft.com&type=ws&host=www.microsoft.com&path=%2Fd4f1a9b2-ws&fp=chrome#🔒

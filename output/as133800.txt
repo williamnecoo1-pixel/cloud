@@ -1,0 +1,2 @@
+trojan://695a74ed-6095-4f5a@idbiznetvip8.rajaserver.web.id:443?path=/trojan&security=tls&host=idbiznetvip8.rajaserver.web.id&type=ws&sni=idbiznetvip8.rajaserver.web.id#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20-%20Bogor%20%7C%20idbiznetvip8.rajaserver.web.id%3A443
+trojan://695a74ed-6095-4f5a@idbiznetvip8.rajaserver.web.id:443?path=/trojan&security=tls&host=idbiznetvip8.rajaserver.web.id&type=ws&sni=idbiznetvip8.rajaserver.web.id#kacaww

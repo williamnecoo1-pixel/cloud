@@ -1,0 +1,2 @@
+vless://c7e9c591-2764-423a-afca-efbd010fd396@103.63.30.163:443?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20-%20Zurich%20%7C%20103.63.30.163%3A443
+trojan://rYuChHcwQZskq9E0zdoR@103.63.30.230:443?security=tls&sni=vpn5.rnmcnm.com&type=ws&host=vpn5.rnmcnm.com&path=%2Fws-79dffb8106db&allowInsecure=1#🔒

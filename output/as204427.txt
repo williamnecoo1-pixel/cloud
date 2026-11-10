@@ -1,0 +1,1 @@
+vless://3f054fce-df15-4f7c-8616-56a8b17e84b4@72.56.40.152:443?security=tls&sni=usa.korgivps.ru&type=ws&host=usa.korgivps.ru&path=%2Fapi%2Fuser&fp=firefox#🔒

@@ -1,0 +1,1 @@
+vless://2bb677d1-495a-4b79-bd99-01d9c55bf725@80.47.1.181:443?security=tls&sni=cdn.standartfort.com&type=ws&host=cdn.standartfort.com&path=%2Fws-0a7472048c1f6257&fp=safari#🔒

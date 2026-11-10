@@ -1,0 +1,1 @@
+vless://c7e9c591-2764-423a-afca-efbd010fd396@5.45.117.125:443?security=tls&sni=freeuse.firta.ru&type=ws&host=freeuse.firta.ru&path=%2F&fp=chrome&allowInsecure=0#🔒

@@ -1,0 +1,1 @@
+vless://39cbff7c-995d-40b5-8940-ea3057ee82f9@185.219.132.27:443?security=tls&sni=5z7qudpfafl31d-2zmj5dk.nimamajor8080.workers.dev&type=ws&host=5z7qudpfafl31d-2zmj5dk.nimamajor8080.workers.dev&path=/&fp=chrome&allowInsecure=0#🔒

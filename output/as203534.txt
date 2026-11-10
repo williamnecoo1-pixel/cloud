@@ -1,0 +1,1 @@
+trojan://EbYmfN6XrejadXYmdZZLKy7rHvJHksfQ@5.231.223.79:443?security=tls&sni=vipgermanycdn.tolkun-tv.ru&type=ws&host=vipgermanycdn.tolkun-tv.ru&path=%2FGoogle&fp=chrome&alpn=http%2F1.1#🔒

@@ -1,0 +1,1 @@
+vless://5724fb33-ca75-4899-8238-8fe745f80713@149.154.167.99:443?security=tls&sni=sg1.gigaray.store&type=ws&host=sg1.gigaray.store&path=%2Fgiga&fp=chrome#🔒

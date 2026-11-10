@@ -1,0 +1,1 @@
+vless://2527f236-74f3-45eb-bf8d-6ab6b2fe6e71@202.148.220.230:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒

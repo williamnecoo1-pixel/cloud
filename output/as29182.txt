@@ -1,0 +1,1 @@
+vless://507caf34-8e6e-4c22-b6f3-33909c523ad2@94.250.250.96:443?security=tls&sni=a1.podorozhnik-connect.ru&type=ws&path=%2Fvless&fp=safari#🔒

@@ -1,0 +1,6 @@
+vless://bc8406c6-6957-4db3-9f33-81c0bf7faef0@2.189.175.20:443?path=%2F0gK42L9nClilWjCmUNEf&security=tls&alpn=http%2F1.1&encryption=none&host=newera.godgandom.com&fp=chrome&type=ws&sni=newera.godgandom.com#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%202.189.175.20%3A443
+vless://27463a7f-45c6-47e4-9648-1b2ffb312720@2.189.86.117:443?encryption=none&type=ws&host=mail.qbo.qzz.io&path=/archive-stream&security=tls&fp=chrome&sni=mail.qbo.qzz.io#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%202.189.86.117%3A443
+vless://d0f4d620-db2b-45e0-8353-a073461b1130@95.38.102.243:443?encryption=none&security=tls&sni=new01.asaltabie.monster&fp=qq&type=ws&host=new01.asaltabie.monster&path=/#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%2095.38.102.243%3A443
+vless://8077b2a0-8230-46d1-941d-b709f8f1c764@dns4.dnsgamezz.ir:443?security=tls&type=ws&sni=dns4.dnsgamezz.ir&path=%2Fdrbmi6x92&host=dns4.dnsgamezz.ir&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20dns4.dnsgamezz.ir%3A443%202
+vless://cfbf5609-2863-5747-df46-ba95a999e7b7@2.189.86.119:443?security=tls&sni=ez-b709af.ezaccess1579dea.workers.dev&type=ws&host=ez-b709af.ezaccess1579dea.workers.dev&path=/sync&fp=chrome&allowInsecure=0#🔒
+vless://d0f4d620-db2b-45e0-8353-a073461b1130@5.160.200.104:443?security=tls&sni=new01.asaltabie.monster&type=ws&path=/&fp=chrome&allowInsecure=1#🔒

@@ -1,0 +1,1 @@
+vless://9ba0bd53-c297-4fba-8c0e-713c1778de8f@45.12.62.113:443?security=tls&sni=mz.45.12.62.113.sslip.io&type=ws&host=mz.45.12.62.113.sslip.io&path=%2Fws&fp=chrome&allowInsecure=0#🔒

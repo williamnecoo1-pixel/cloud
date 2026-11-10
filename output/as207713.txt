@@ -1,0 +1,1 @@
+vless://d78d6815-5f00-4fe3-8aae-3344aeb7783f@81.90.31.111:443?security=tls&sni=1f0c1c7297521d51.wgse.info&type=ws&host=1f0c1c7297521d51.wgse.info&path=%2Fws&fp=firefox&allowInsecure=0#🔒

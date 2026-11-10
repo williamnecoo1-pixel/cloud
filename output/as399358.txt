@@ -1,0 +1,2 @@
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@160.79.105.42:443/?type=ws&encryption=none&flow=&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&security=tls&sni=pages.teasalo.cloudns.org&alpn=h3&fp=random#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20160.79.105.42%3A443
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fsecurity%3Dtls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20160.79.104.113%3A443

@@ -1,0 +1,1 @@
+vless://b146ffb4-3425-4604-bd87-a0432428bbdf@[::ffff:4f84:802f]:443?path=%2F7hwMe4Hs2dwrYSirzSwqjAq&security=tls&encryption=none&alpn=http/1.1&host=freevpn.yao.cl&fp=chrome&type=ws&sni=freevpn.yao.cl#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Rotterdam%20%7C%20%5B%3A%3Affff%3A79.132.128.47%5D%3A443

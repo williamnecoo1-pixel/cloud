@@ -1,0 +1,1 @@
+vless://4947e8b5-3ab5-4401-96b3-866cc15f3e05@2.27.168.165:443?security=tls&sni=fin1.airprice.store&type=ws&host=fin1.airprice.store&path=/ws&fp=firefox&alpn=http/1.1#🔒

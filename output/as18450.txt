@@ -1,0 +1,1 @@
+vless://2456a2fe-9de5-490f-bbfa-d597bf0c3966@173.231.39.76:443?security=tls&sni=spiderpanel-6546.shiprr.dev&type=ws&host=spiderpanel-6546.shiprr.dev&path=/ws/2456a2fe-9de5-490f-bbfa-d597bf0c3966&fp=chrome&alpn=http/1.1&allowInsecure=1#🔒

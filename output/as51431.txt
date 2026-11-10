@@ -1,0 +1,7 @@
+vless://8a08c187-594b-4e14-b875-856913cee3bb@185.137.27.165:443?security=tls&sni=dl.arvancdn.lat&type=ws&host=dl.arvancdn.lat&path=%2F%3Fed%3D2048#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20185.137.27.165%3A443
+vless://1765be0d-dc75-4a54-e95c-7739ef465ab2@185.137.27.254:443?security=tls&sni=office1003.avaoffice.cloud&type=ws&path=%2Foffc3#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20185.137.27.254%3A443
+vless://30e49f46-8532-4b11-8308-f5f7e56f83f7@185.191.77.4:443?security=tls&sni=fan1001.irfanpage.ir&type=ws&path=%2Fwsloc1003&fp=randomized&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20185.191.77.4%3A443
+vless://3788e28f-f48a-485e-9b90-482a6f8ca51d@5.160.47.146:443?path=/vr1027?ed=2560&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=gostar27.irtour123.com#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%205.160.47.146%3A443
+vless://9a2df380-742c-5831-f342-6e9c7829afb8@5.160.47.71:443?security=tls&sni=office1001.avaoffice.cloud&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%205.160.47.71%3A443
+vless://1765be0d-dc75-4a54-e95c-7739ef465ab2@185.137.27.254:443?security=tls&sni=office1003.avaoffice.cloud&type=ws&path=%2Foffc3#🔒
+vless://9a2df380-742c-5831-f342-6e9c7829afb8@5.160.47.71:443?security=tls&sni=office1001.avaoffice.cloud&type=ws&path=%2F#🔒

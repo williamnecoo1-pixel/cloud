@@ -1,0 +1,1 @@
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.168.146.122:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20104.168.146.122%3A443%202

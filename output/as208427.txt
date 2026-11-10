@@ -1,0 +1,2 @@
+vless://8dd437e1-5f3f-446e-98fe-aa29b80057fb@95.182.121.140:443?path=%2Fvless-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=crt.onecloudstream.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%2095.182.121.140%3A443
+vless://8dd437e1-5f3f-446e-98fe-aa29b80057fb@95.182.121.140:443?security=tls&sni=crt.onecloudstream.com&type=ws&path=/vless-ws&fp=firefox#🔒

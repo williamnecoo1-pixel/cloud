@@ -1,0 +1,1 @@
+vless://2923fef2-3b52-a9c2-cde4-c2343eb74a2c@88.119.176.74:443?security=tls&sni=lithuania-2.kochvpn.pw&type=ws&path=/stream/ws&fp=firefox#🔒

@@ -1,0 +1,2 @@
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@msk2.gacvpn.site:443?type=ws&security=tls&fp=firefox&sni=msk2.gacvpn.site&host=msk2.gacvpn.site#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%7C%20msk2.gacvpn.site%3A443
+trojan://p2QFnWdKPZt0evve7n-C52fTqRndJa5W@103.27.157.97:443?security=tls&sni=rem.dtr.kotokopolb.ru&type=ws&path=/trojan-ws&fp=chrome&allowInsecure=0#🔒

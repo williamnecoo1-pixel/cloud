@@ -1,0 +1,2 @@
+vless://4c5a54b3-774e-4391-b78e-f3e9fa928792@194.24.161.220:443?encryption=none&fp=firefox&path=%2Fapi%2Fmetric%2Fws&security=tls&sni=borsch2.spravedlivost.fun&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Unknown%20%7C%20194.24.161.220%3A443
+vless://4c5a54b3-774e-4391-b78e-f3e9fa928792@194.24.161.220:443?security=tls&sni=borsch2.spravedlivost.fun&type=ws&path=%2Fapi%2Fmetric%2Fws&fp=firefox#🔒

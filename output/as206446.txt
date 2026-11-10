@@ -1,0 +1,1 @@
+vless://19289706-1367-4e48-a2ae-fd533df78270@94.154.123.222:443?security=tls&sni=marzban-node-production-5af6.up.railway.app&type=ws&host=marzban-node-production-5af6.up.railway.app&path=%2Fvless&fp=random&alpn=http%2F1.1#🔒

@@ -1,0 +1,2 @@
+vless://c871b272-4bb8-4d52-a1a9-a94a19220aa0@109.172.93.20:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Meppel%20%7C%20109.172.93.20%3A443
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@109.172.93.20:443?path=%2Fsg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Meppel%20%7C%20109.172.93.20%3A443%202

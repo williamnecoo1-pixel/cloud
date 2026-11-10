@@ -1,0 +1,2 @@
+vless://a3c075ab-51cd-4947-e8a4-aad55e19bec2@66.179.48.46:443/?type=ws&encryption=none&flow=&host=hy2.xiaozi.cc.ua&path=%2Flzjjj&security=tls&sni=hy2.xiaozi.cc.ua&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%2066.179.48.46%3A443
+vless://a3c075ab-51cd-4947-e8a4-aad55e19bec2@66.179.48.46:443/?type=ws&encryption=none&flow=&host=hy2.xiaozi.cc.ua&path=%2Flzjjj&security=tls&sni=hy2.xiaozi.cc.ua&fp=chrome#%F0%9F%90%9261%40oneclickvpnkeys

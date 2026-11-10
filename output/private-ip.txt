@@ -1,0 +1,4 @@
+vless://8344360f-0349-4784-a19f-33fd92e89389@api.w2m.ink:443?path=%2Fv2&security=tls&type=ws
+vless://18c93882-d6b5-4992-ba76-49c48e986445@novantunnel.tech:443?security=tls&type=ws&path=/Novan-AE30&host=novantunnel.tech&packetEncoding=xudp&sni=novantunnel.tech&fp=randomized&encryption=none#%F0%9F%87%BA%F0%9F%87%B8US_795%7C281KB%2Fs%7CX001-260618%2001
+vless://e6462ac3-ef34-4490-82d8-485eee4568f8@novantunnel.tech:443?security=tls&type=ws&path=/Novan-AE14&host=novantunnel.tech&packetEncoding=xudp&sni=novantunnel.tech&fp=randomized&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_2395%7C752KB%2Fs%7CT001-260618%2001
+vless://ec5cf915-2203-403c-9710-dbd553857929@novantunnel.tech:443?security=tls&type=ws&path=/Novan-AE27&host=novantunnel.tech&packetEncoding=xudp&sni=novantunnel.tech&fp=randomized#%F0%9F%87%AB%F0%9F%87%B7FR_2415%7C448KB%2Fs%7CT001-260618%2001

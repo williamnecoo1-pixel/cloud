@@ -1,0 +1,1 @@
+vless://28a4a8fc-15ab-418b-9aaf-655a84edf521@92.119.164.196:443?security=tls&sni=le.zadonat.net&type=ws&host=92.119.164.196&path=%2Frealtime%2Fstock%2Fticker&fp=firefox&allowInsecure=0#🔒

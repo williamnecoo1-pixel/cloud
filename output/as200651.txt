@@ -1,0 +1,1 @@
+vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?security=tls&sni=www.nihaoyun.top&type=ws&host=www.nihaoyun.top&path=%2F&fp=chrome#🔒

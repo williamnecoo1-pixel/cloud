@@ -1,0 +1,1 @@
+vless://2400a6f1-c074-49a6-8255-a3b10ba35d9e@fr-1.bnc-gt.co.uk:443?&security=tls&fp=qq&sni=fr-1.bnc-gt.co.uk&type=ws&headerType=none&host=fr-1.bnc-gt.co.uk&path=%2Fws%2F#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%7C%20fr-1.bnc-gt.co.uk%3A443

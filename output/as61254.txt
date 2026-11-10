@@ -1,0 +1,2 @@
+vless://99df3ab6-784b-4081-9a63-9aba4af10f5c@amsterdam.furkbalancer.net:443?&security=tls&fp=chrome&sni=amsterdam.furkbalancer.net&type=ws&headerType=none&host=amsterdam.furkbalancer.net&path=/vless#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%7C%20amsterdam.furkbalancer.net%3A443
+vless://ed7b335a-f61a-4f2d-8a91-a7de6570ff1b@185.209.15.155:443?security=tls&sni=polniybak.info&type=ws&host=polniybak.info&path=%2Fnotvlessklyanus&fp=firefox&allowInsecure=0#🔒

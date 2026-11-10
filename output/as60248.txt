@@ -1,0 +1,1 @@
+vless://112e4e31-1cab-446c-8be4-c416f3b5470b@ir8.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir8.boilersforpellets.com&type=ws&sni=ir8.boilersforpellets.com#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20ir8.boilersforpellets.com%3A443

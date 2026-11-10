@@ -1,0 +1,1 @@
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@103.152.113.60:443?encryption=none&security=tls&sni=mkvmh.alnm.a7e.hh.vavava.kdns.fr&fp=chrome&type=ws&host=mkvmh.alnm.a7e.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Jose%20%7C%20103.152.113.60%3A443

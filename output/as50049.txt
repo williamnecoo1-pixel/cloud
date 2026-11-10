@@ -1,0 +1,1 @@
+vless://31f71b0a-7572-4be1-89c7-e4180b56bfb9@82.47.1.72:443?security=tls&sni=fraa.spacev67.com&type=ws&path=%2Fws&fp=qq&alpn=http%2F1.1&allowInsecure=0#🔒

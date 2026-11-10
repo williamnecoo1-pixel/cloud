@@ -1,0 +1,2 @@
+vless://f27b6f65-6e59-4f89-b929-afa397ca587f@155.212.240.10:443?path=/019bcbad-3813-7cce-8786-3ac0e418f128?ed&security=tls&encryption=none&insecure=0&host=n.bitpulse.me&fp=chrome&type=ws&allowInsecure=0&sni=n.bitpulse.me#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20-%20Unknown%20%7C%20155.212.240.10%3A443%203
+vless://86c7af80-c9cf-4265-ab77-da12b0bf8bb6@194.156.26.125:443?security=tls&sni=186.baklajann.ru&type=ws&host=186.baklajann.ru&path=%2F&fp=firefox#🔒

@@ -1,0 +1,1 @@
+vless://fb290991-bbd5-4c7f-b5fc-b0bb344bf6e1@5.160.252.55:443?encryption=none&security=tls&sni=irtes.chakkalx.de&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fdashaq#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%205.160.252.55%3A443

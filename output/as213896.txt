@@ -1,0 +1,1 @@
+vless://0ec35823-0579-40a5-bae4-9cf7eddc2de2@84.32.59.126:443?security=tls&sni=vip2.tu5pars.ir&type=ws&host=vip2.tu5pars.ir&path=/ws&fp=firefox&alpn=h3,h2,http/1.1#🔒

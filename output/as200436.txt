@@ -1,0 +1,3 @@
+vless://07730597-ba4f-4ca8-abe5-a53b28ad318c@vip.sinavm.ir:443?encryption=none&type=ws&security=tls&path=%2F----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&host=vip.sinavm.ir&sni=vip.sinavm.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Tehran%20%7C%20vip.sinavm.ir%3A443%204
+vless://07730597-ba4f-4ca8-abe5-a53b28ad318c@85.133.205.47:443?security=tls&sni=vip.sinavm.ir&type=ws&host=vip.sinavm.ir&path=%2F----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&allowInsecure=1#🔒
+vless://6ba68c69-e108-502d-7b1c-e806fbc3cccd@185.26.33.19:443?security=tls&sni=tunnell.hosting-96.ir&type=ws&path=%2Fminecraft&fp=chrome&allowInsecure=0#🔒

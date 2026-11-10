@@ -1,0 +1,1 @@
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@103.249.134.29:443?encryption=none&security=tls&sni=free.cndyw.ggff.net&fp=chrome&type=ws&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20-%20Sofia%20%7C%20103.249.134.29%3A443

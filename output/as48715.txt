@@ -1,0 +1,1 @@
+vless://e1fb4f25-badc-481d-879e-a4b62f80c129@vip.dinotool.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20vip.dinotool.ir%3A443

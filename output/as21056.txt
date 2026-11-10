@@ -1,0 +1,1 @@
+vless://3fc5a270-534b-4e08-bdd7-b2eaab2a0cc0@109.122.208.118:443?encryption=none&security=tls&sni=amd.ukmamali.tk&type=ws&host=amd.ukmamali.tk&path=%2F#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20-%20Pisa%20%7C%20109.122.208.118%3A443%202

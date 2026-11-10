@@ -1,0 +1,2 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.190.178.195:443?encryption=none&security=tls&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=%2Ftopic%2Fhtm%3Fed%3D2560fp%3Dchrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%20103.190.178.195%3A443
+vless://8f27a9e5-b5fe-4ac9-9238-7e6cc245897c@5.34.220.81:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒

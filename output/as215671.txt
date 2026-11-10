@@ -1,0 +1,2 @@
+vless://c02b1868-018d-4500-9c73-8a327ecd37eb@book.wikidev.shop:443?path=%2Fuk&security=tls&encryption=none&insecure=0&host=book.wikidev.shop&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20book.wikidev.shop%3A443%202
+vless://c02b1868-018d-4500-9c73-8a327ecd37eb@95.38.198.67:443?security=tls&sni=book.wikidev.shop&type=ws&host=book.wikidev.shop&path=%2Fuk&allowInsecure=1#🔒

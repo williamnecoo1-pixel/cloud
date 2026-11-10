@@ -1,0 +1,1 @@
+vless://ca7096cd-ebb8-427e-b5ef-acc9ee4de1f4@cdn.rucdncomp.pro:443?encryption=none&security=tls&sni=cdn.rucdncomp.pro&alpn=http/1.1&fp=firefox&type=ws&host=cdn.rucdncomp.pro&path=/player/telemetry/b4090b81f229/&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20cdn.rucdncomp.pro%3A443

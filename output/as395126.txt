@@ -1,0 +1,1 @@
+vless://0335d20a-ddde-4528-b135-dd21430e1690@141.193.27.22:443?security=tls&sni=bomb.pasta-makers.online&type=ws&host=bomb.pasta-makers.online&path=/ws&fp=chrome&alpn=h2&allowInsecure=0#🔒

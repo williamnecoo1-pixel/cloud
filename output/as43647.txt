@@ -1,0 +1,2 @@
+vless://0e88bb0f-6882-4c3d-8050-0e1694caa721@chess-online24.com:443?path=%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%BF%20Uzbekistan%20-%20Tashkent%20%7C%20chess-online24.com%3A443
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@94.154.128.132:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=chrome&security=tls#🇵🇱

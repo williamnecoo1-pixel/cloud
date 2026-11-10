@@ -1,0 +1,1 @@
+vless://f73cf917-93ba-1ced-c9f0-2d7ec2e1c9da@2.26.28.119:443?security=tls&sni=finland-8.kochvpn.pw&type=ws&path=%2Fstream%2Fws&fp=firefox#🔒

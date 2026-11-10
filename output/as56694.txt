@@ -1,0 +1,2 @@
+vless://0a89f660-04a8-4377-b91f-bd3cb3a56492@31.177.111.121:443?encryption=none&security=tls&sni=api.cdnrt.net&fp=firefox&alpn=http%2F1.1&type=ws&path=%2Fclient%2Ftelemetry%2F0fc51861c60c%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%2031.177.111.121%3A443
+vless://426e2233-2afa-43ac-a59a-e614d958811c@31.177.111.140:443?security=tls&sni=cdn.rucdncomp.pro&type=ws&path=%2Fclient%2Fcollect%2F6b3a32fb9f37%2F&fp=firefox&alpn=http%2F1.1#🔒

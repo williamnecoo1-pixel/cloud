@@ -1,0 +1,2 @@
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&security=tls&sni=cf3.rumedia-cdn.com&type=ws&host=cf3.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Novosibirsk%20%7C%2046.8.200.91%3A443
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?security=tls&sni=cf3.rumedia-cdn.com&type=ws&path=%2Fcdn%2Fv3%2Flive#🔒

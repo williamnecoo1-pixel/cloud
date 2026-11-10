@@ -1,0 +1,1 @@
+vless://72400797-f632-49b1-b04a-1b7d34af9cfd@130.185.76.225:443?security=tls&sni=kurdnet.filimosohib.xyz&type=ws&host=kurdnet.filimosohib.xyz&path=%2Frandom&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒

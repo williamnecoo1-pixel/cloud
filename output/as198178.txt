@@ -1,0 +1,1 @@
+trojan://d3a97c92-a3b6-42fa-9f11-102084d654b3@138.124.107.35:443?path=/Free-VPN-CF-Geo-Project/138.124.107.35=443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20-%20Ankara%20%7C%20138.124.107.35%3A443

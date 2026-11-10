@@ -1,0 +1,1 @@
+vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@77.90.10.16:443?security=tls&type=ws&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&alpn=http%2F1.1&allowInsecure=1&host=dewuxian.pai50288.uk&path=%2Fa8e84392&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Unknown%20%7C%2077.90.10.16%3A443

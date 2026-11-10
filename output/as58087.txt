@@ -1,0 +1,2 @@
+vless://1d75af57-2322-4ae1-b08c-170000364bd0@176.100.39.82:443?encryption=none&security=tls&sni=finlandxs.tolkun-tv.ru&alpn=h3%2C%20h2%2C%20http%2F1.1&type=ws&host=finlandxs.tolkun-tv.ru&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Unknown%20%7C%20176.100.39.82%3A443
+vless://e0bb0502-f6a0-455d-a16b-865b364b1415@37.221.93.178:443?security=tls&sni=bit.mxhammet.ru&type=ws&host=bit.mxhammet.ru&path=%2Fs&fp=chrome&alpn=http%2F1.1#🔒

@@ -1,0 +1,1 @@
+vless://02ba2680-4f3f-40ca-a397-34705d7e3c42@FR.IPSENTER.ORG:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=nR.cHenSniP.iR&type=ws&allowInsecure=0&sni=nR.cHenSniP.iR#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20fr.ipsenter.org%3A443

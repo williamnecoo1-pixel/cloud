@@ -1,0 +1,1 @@
+vless://2c7462d2-127f-4887-bf06-4b30ea6d9832@45.139.27.122:443?security=tls&sni=ru1.cdnconnect.org&type=ws&host=ru1.cdnconnect.org&path=%2F&fp=chrome#🔒

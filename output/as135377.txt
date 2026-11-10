@@ -1,0 +1,1 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.14.35.56:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&insecure=0&allowInsecure=0&type=ws&path=tg%40zdyz2#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%20103.14.35.56%3A443

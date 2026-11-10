@@ -1,0 +1,1 @@
+vless://b584ac42-15cb-d8ad-5338-1d07a4e98a6e@185.215.234.3:443?security=tls&sni=dl.artafarx.ir&type=ws&host=dl.artafarx.ir&path=%2F%3Fed%3D2048&fp=safari&alpn=h2&allowInsecure=0#🔒

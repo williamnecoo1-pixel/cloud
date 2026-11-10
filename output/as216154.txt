@@ -1,0 +1,2 @@
+vless://48eb49ce-38b5-4ed1-b6ab-8eaf37cde710@95.81.102.121:443?security=tls&sni=nodeam.easyvpn.dev&type=ws&host=nodeam.easyvpn.dev&path=%2Feasyvpn-ws&fp=firefox#🔒
+vmess://eyJ2IjoiMiIsInBzIjoi8J+UpUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTvCfn6MiLCJhZGQiOiI4OS4xNTAuMzUuMTU1IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI1ZjcyZjE4MC1iMjFiLTRiN2EtODQ4NC0yNDA3NTkwMTI2MDQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLzVmNzJmMTgwLWIyMWItNGI3YS04NDg0LTI0MDc1OTA5Njc4NSIsImhvc3QiOiJhcGpoZGdneXguY29tIiwidGxzIjoidGxzIn0=

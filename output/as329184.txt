@@ -1,0 +1,2 @@
+vless://96312d09-772f-5a30-8ab6-1e056aec1536@102.129.165.116:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=102.129.165.116&encryption=none#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20-%20Johannesburg%20%7C%20102.129.165.116%3A443
+vless://fce36fe4-1f0b-5533-9a21-d84a4339d790@102.129.165.116:443?security=tls&sni=zula.ir&type=ws&host=102.129.165.116&path=/vless&fp=chrome&allowInsecure=1#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20-%20Johannesburg%20%7C%20102.129.165.116%3A443%202

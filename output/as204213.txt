@@ -1,0 +1,2 @@
+vless://6b801a4e-ef3a-4fc8-9e14-82c40447caab@cctvhikvision.center:443?path=%2Fapi-ip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sg.sogand.tr&fp=chrome&type=ws&allowInsecure=0&sni=sg.sogand.tr#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20cctvhikvision.center%3A443
+vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@cctvhikvision.center:443?type=ws&security=tls&host=tb.suzyyso.dpdns.org&path=/api-BlueKnight&fp=chrome&sni=tb.suzyyso.dpdns.org&alpn=http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20cctvhikvision.center%3A443%202

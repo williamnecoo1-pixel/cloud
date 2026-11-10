@@ -1,0 +1,1 @@
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@185.133.35.9:443?security=tls&sni=pikatri.hooplnqpb.ir&type=ws&host=pikatri.hooplnqpb.ir&path=/?ed=2048&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Unknown%20%7C%20185.133.35.9%3A443

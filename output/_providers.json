@@ -1,0 +1,6037 @@
+[
+  {
+    "provider": "Cloudflare",
+    "slug": "cloudflare",
+    "file": "output/cloudflare.txt",
+    "configs": 18693,
+    "ips": 2457,
+    "asns": [
+      209242,
+      13335,
+      400095,
+      14789
+    ],
+    "names": [
+      "CLOUDFLARESPECTRUM - Cloudflare London, LLC, US",
+      "CLOUDFLARENET - Cloudflare, Inc., US"
+    ]
+  },
+  {
+    "provider": "Fastly",
+    "slug": "fastly",
+    "file": "output/fastly.txt",
+    "configs": 1970,
+    "ips": 252,
+    "asns": [
+      54113
+    ],
+    "names": [
+      "FASTLY - Fastly, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS400940",
+    "slug": "as400940",
+    "file": "output/as400940.txt",
+    "configs": 1645,
+    "ips": 307,
+    "asns": [
+      400940
+    ],
+    "names": [
+      "RAILWAY - Railway, US"
+    ]
+  },
+  {
+    "provider": "Unknown",
+    "slug": "unknown",
+    "file": "output/unknown.txt",
+    "configs": 729,
+    "ips": 237,
+    "asns": [],
+    "names": []
+  },
+  {
+    "provider": "AS34879",
+    "slug": "as34879",
+    "file": "output/as34879.txt",
+    "configs": 443,
+    "ips": 34,
+    "asns": [
+      34879
+    ],
+    "names": [
+      "CCT-AS - OOO _Sovremennye setevye tekhnologii_, RU"
+    ]
+  },
+  {
+    "provider": "AS3215",
+    "slug": "as3215",
+    "file": "output/as3215.txt",
+    "configs": 276,
+    "ips": 278,
+    "asns": [
+      3215
+    ],
+    "names": [
+      "AS3215 - Orange S.A., FR"
+    ]
+  },
+  {
+    "provider": "AS57724",
+    "slug": "as57724",
+    "file": "output/as57724.txt",
+    "configs": 216,
+    "ips": 19,
+    "asns": [
+      57724
+    ],
+    "names": [
+      "DDOS-GUARD - DDOS-GUARD LTD, RU"
+    ]
+  },
+  {
+    "provider": "DigitalOcean",
+    "slug": "digitalocean",
+    "file": "output/digitalocean.txt",
+    "configs": 154,
+    "ips": 122,
+    "asns": [
+      14061
+    ],
+    "names": [
+      "DIGITALOCEAN-ASN - DigitalOcean, LLC, US"
+    ]
+  },
+  {
+    "provider": "AS205585",
+    "slug": "as205585",
+    "file": "output/as205585.txt",
+    "configs": 148,
+    "ips": 32,
+    "asns": [
+      205585
+    ],
+    "names": [
+      "ARVANCLOUD-CDN-IR - Noyan Abr Arvan Co. ( Private Joint Stock), IR"
+    ]
+  },
+  {
+    "provider": "Alibaba Cloud",
+    "slug": "alibaba-cloud",
+    "file": "output/alibaba-cloud.txt",
+    "configs": 133,
+    "ips": 86,
+    "asns": [
+      45102
+    ],
+    "names": [
+      "ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN"
+    ]
+  },
+  {
+    "provider": "AWS",
+    "slug": "aws",
+    "file": "output/aws.txt",
+    "configs": 128,
+    "ips": 132,
+    "asns": [
+      16509,
+      14618
+    ],
+    "names": [
+      "AMAZON-02 - Amazon.com, Inc., US",
+      "AMAZON-AES - Amazon.com, Inc., US"
+    ]
+  },
+  {
+    "provider": "Hetzner",
+    "slug": "hetzner",
+    "file": "output/hetzner.txt",
+    "configs": 111,
+    "ips": 74,
+    "asns": [
+      24940,
+      213230,
+      212317
+    ],
+    "names": [
+      "HETZNER-AS - Hetzner Online GmbH, DE",
+      "HETZNER-CLOUD2-AS - Hetzner Online GmbH, DE",
+      "HETZNER-CLOUD3-AS - Hetzner Online GmbH, DE"
+    ]
+  },
+  {
+    "provider": "OVH",
+    "slug": "ovh",
+    "file": "output/ovh.txt",
+    "configs": 109,
+    "ips": 84,
+    "asns": [
+      16276
+    ],
+    "names": [
+      "OVH - OVH SAS, FR"
+    ]
+  },
+  {
+    "provider": "AS204878",
+    "slug": "as204878",
+    "file": "output/as204878.txt",
+    "configs": 109,
+    "ips": 2,
+    "asns": [
+      204878
+    ],
+    "names": [
+      "CCT-M9P1 - OOO _Sovremennye setevye tekhnologii_, RU"
+    ]
+  },
+  {
+    "provider": "AS133618",
+    "slug": "as133618",
+    "file": "output/as133618.txt",
+    "configs": 83,
+    "ips": 12,
+    "asns": [
+      133618
+    ],
+    "names": [
+      "TRELLIAN-AS-AP - Trellian Pty. Limited, AU"
+    ]
+  },
+  {
+    "provider": "AS207796",
+    "slug": "as207796",
+    "file": "output/as207796.txt",
+    "configs": 74,
+    "ips": 1,
+    "asns": [
+      207796
+    ],
+    "names": [
+      "sourena - Sourena Pardazesh Arya Software co. LLC, IR"
+    ]
+  },
+  {
+    "provider": "Oracle Cloud",
+    "slug": "oracle-cloud",
+    "file": "output/oracle-cloud.txt",
+    "configs": 72,
+    "ips": 58,
+    "asns": [
+      31898
+    ],
+    "names": [
+      "ORACLE-BMC-31898 - Oracle Corporation, US"
+    ]
+  },
+  {
+    "provider": "Akamai (Linode)",
+    "slug": "akamai-linode",
+    "file": "output/akamai-linode.txt",
+    "configs": 71,
+    "ips": 60,
+    "asns": [
+      63949
+    ],
+    "names": [
+      "AKAMAI-LINODE-AP - Akamai Connected Cloud, SG"
+    ]
+  },
+  {
+    "provider": "AS50340",
+    "slug": "as50340",
+    "file": "output/as50340.txt",
+    "configs": 69,
+    "ips": 7,
+    "asns": [
+      50340
+    ],
+    "names": [
+      "SELECTEL-MSK - JSC Selectel, RU"
+    ]
+  },
+  {
+    "provider": "AS139341",
+    "slug": "as139341",
+    "file": "output/as139341.txt",
+    "configs": 40,
+    "ips": 26,
+    "asns": [
+      139341
+    ],
+    "names": [
+      "ACE-AS-AP - ACE, SG"
+    ]
+  },
+  {
+    "provider": "AS154653",
+    "slug": "as154653",
+    "file": "output/as154653.txt",
+    "configs": 36,
+    "ips": 3,
+    "asns": [
+      154653
+    ],
+    "names": [
+      "PARKLOGICPTYLTD-AS-AP - ParkLogic Pty Ltd, AU"
+    ]
+  },
+  {
+    "provider": "Gcore",
+    "slug": "gcore",
+    "file": "output/gcore.txt",
+    "configs": 36,
+    "ips": 16,
+    "asns": [
+      199524,
+      205196
+    ],
+    "names": [
+      "GCORE - G-Core Labs S.A., LU",
+      "BIGCORE-ASN - BIG CORE LLC, US"
+    ]
+  },
+  {
+    "provider": "Tencent Cloud",
+    "slug": "tencent-cloud",
+    "file": "output/tencent-cloud.txt",
+    "configs": 34,
+    "ips": 18,
+    "asns": [
+      132203
+    ],
+    "names": [
+      "TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN"
+    ]
+  },
+  {
+    "provider": "Microsoft Azure",
+    "slug": "microsoft-azure",
+    "file": "output/microsoft-azure.txt",
+    "configs": 28,
+    "ips": 22,
+    "asns": [
+      8075
+    ],
+    "names": [
+      "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US"
+    ]
+  },
+  {
+    "provider": "Google Frontend",
+    "slug": "google-frontend",
+    "file": "output/google-frontend.txt",
+    "configs": 27,
+    "ips": 64,
+    "asns": [
+      15169
+    ],
+    "names": [
+      "GOOGLE, US"
+    ]
+  },
+  {
+    "provider": "AS56971",
+    "slug": "as56971",
+    "file": "output/as56971.txt",
+    "configs": 27,
+    "ips": 16,
+    "asns": [
+      56971
+    ],
+    "names": [
+      "AS56971 - CGI GLOBAL LIMITED, HK"
+    ]
+  },
+  {
+    "provider": "AS3462",
+    "slug": "as3462",
+    "file": "output/as3462.txt",
+    "configs": 27,
+    "ips": 14,
+    "asns": [
+      3462
+    ],
+    "names": [
+      "HINET - Data Communication Business Group, TW"
+    ]
+  },
+  {
+    "provider": "AS41745",
+    "slug": "as41745",
+    "file": "output/as41745.txt",
+    "configs": 26,
+    "ips": 12,
+    "asns": [
+      41745
+    ],
+    "names": [
+      "FORTIS-AS - Ilia Baikov, RU"
+    ]
+  },
+  {
+    "provider": "AS14197",
+    "slug": "as14197",
+    "file": "output/as14197.txt",
+    "configs": 25,
+    "ips": 19,
+    "asns": [
+      14197
+    ],
+    "names": [
+      "HMS-ASN - HEALTH MARKET SCIENCE, US"
+    ]
+  },
+  {
+    "provider": "Vultr",
+    "slug": "vultr",
+    "file": "output/vultr.txt",
+    "configs": 24,
+    "ips": 21,
+    "asns": [
+      20473
+    ],
+    "names": [
+      "AS-VULTR - The Constant Company, LLC, US"
+    ]
+  },
+  {
+    "provider": "AS397273",
+    "slug": "as397273",
+    "file": "output/as397273.txt",
+    "configs": 22,
+    "ips": 7,
+    "asns": [
+      397273
+    ],
+    "names": [
+      "RENDER - Render, US"
+    ]
+  },
+  {
+    "provider": "AS198154",
+    "slug": "as198154",
+    "file": "output/as198154.txt",
+    "configs": 21,
+    "ips": 12,
+    "asns": [
+      198154
+    ],
+    "names": [
+      "parsabr - Pars Abr Toseeh Ertebatat LTD, IR"
+    ]
+  },
+  {
+    "provider": "Aeza",
+    "slug": "aeza",
+    "file": "output/aeza.txt",
+    "configs": 20,
+    "ips": 19,
+    "asns": [
+      210644,
+      197695
+    ],
+    "names": [
+      "AEZA-AS - AEZA GROUP LLC, RU",
+      "AS-REGRU - _Domain names registrar REG.RU_, Ltd, RU"
+    ]
+  },
+  {
+    "provider": "AS204720",
+    "slug": "as204720",
+    "file": "output/as204720.txt",
+    "configs": 19,
+    "ips": 14,
+    "asns": [
+      204720
+    ],
+    "names": [
+      "CDNetworks - GLOBAL CLOUD NETWORK LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS9123",
+    "slug": "as9123",
+    "file": "output/as9123.txt",
+    "configs": 19,
+    "ips": 15,
+    "asns": [
+      9123
+    ],
+    "names": [
+      "TimeWeb-AS - JSC _TIMEWEB_, RU"
+    ]
+  },
+  {
+    "provider": "AS399566",
+    "slug": "as399566",
+    "file": "output/as399566.txt",
+    "configs": 19,
+    "ips": 11,
+    "asns": [
+      399566
+    ],
+    "names": [
+      "BIGCOMMERCE - Bigcommerce Inc., US"
+    ]
+  },
+  {
+    "provider": "AS49051",
+    "slug": "as49051",
+    "file": "output/as49051.txt",
+    "configs": 19,
+    "ips": 1,
+    "asns": [
+      49051
+    ],
+    "names": [
+      "GreenHostApS - GreenHost ApS, DK"
+    ]
+  },
+  {
+    "provider": "AS207957",
+    "slug": "as207957",
+    "file": "output/as207957.txt",
+    "configs": 18,
+    "ips": 12,
+    "asns": [
+      207957
+    ],
+    "names": [
+      "ServHost-AS - SERV.HOST GROUP LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS202468",
+    "slug": "as202468",
+    "file": "output/as202468.txt",
+    "configs": 17,
+    "ips": 14,
+    "asns": [
+      202468
+    ],
+    "names": [
+      "AbrArvan-AS - Noyan Abr Arvan Co. ( Private Joint Stock), IR"
+    ]
+  },
+  {
+    "provider": "AS47764",
+    "slug": "as47764",
+    "file": "output/as47764.txt",
+    "configs": 17,
+    "ips": 10,
+    "asns": [
+      47764
+    ],
+    "names": [
+      "VK-AS - LLC VK, RU"
+    ]
+  },
+  {
+    "provider": "M247",
+    "slug": "m247",
+    "file": "output/m247.txt",
+    "configs": 16,
+    "ips": 12,
+    "asns": [
+      9009
+    ],
+    "names": [
+      "M247 - M247 Europe SRL, RO"
+    ]
+  },
+  {
+    "provider": "AS215540",
+    "slug": "as215540",
+    "file": "output/as215540.txt",
+    "configs": 15,
+    "ips": 13,
+    "asns": [
+      215540
+    ],
+    "names": [
+      "GCS-AS - GLOBAL CONNECTIVITY SOLUTIONS LLP, GB"
+    ]
+  },
+  {
+    "provider": "AS47846",
+    "slug": "as47846",
+    "file": "output/as47846.txt",
+    "configs": 15,
+    "ips": 3,
+    "asns": [
+      47846
+    ],
+    "names": [
+      "SEDO-AS - SEDO GmbH, DE"
+    ]
+  },
+  {
+    "provider": "AS40509",
+    "slug": "as40509",
+    "file": "output/as40509.txt",
+    "configs": 14,
+    "ips": 9,
+    "asns": [
+      40509
+    ],
+    "names": [
+      "FLY - Fly.io, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS51722",
+    "slug": "as51722",
+    "file": "output/as51722.txt",
+    "configs": 14,
+    "ips": 12,
+    "asns": [
+      51722
+    ],
+    "names": [
+      "AS-PIXOOF - PIXOOF TEKNOLOJI ANONIM SIRKETI, TR"
+    ]
+  },
+  {
+    "provider": "AS213535",
+    "slug": "as213535",
+    "file": "output/as213535.txt",
+    "configs": 13,
+    "ips": 10,
+    "asns": [
+      213535
+    ],
+    "names": [
+      "YOTTASRC - YottaSrc, SA"
+    ]
+  },
+  {
+    "provider": "AS152672",
+    "slug": "as152672",
+    "file": "output/as152672.txt",
+    "configs": 13,
+    "ips": 7,
+    "asns": [
+      152672
+    ],
+    "names": [
+      "AIYUN-AS-AP - Aiyun (HK) Network, CN"
+    ]
+  },
+  {
+    "provider": "AS58212",
+    "slug": "as58212",
+    "file": "output/as58212.txt",
+    "configs": 13,
+    "ips": 8,
+    "asns": [
+      58212
+    ],
+    "names": [
+      "DATAFOREST - dataforest GmbH, DE"
+    ]
+  },
+  {
+    "provider": "AS210976",
+    "slug": "as210976",
+    "file": "output/as210976.txt",
+    "configs": 13,
+    "ips": 10,
+    "asns": [
+      210976
+    ],
+    "names": [
+      "TWC-EU - Timeweb, LLP, KZ"
+    ]
+  },
+  {
+    "provider": "Hivelocity",
+    "slug": "hivelocity",
+    "file": "output/hivelocity.txt",
+    "configs": 13,
+    "ips": 9,
+    "asns": [
+      30058
+    ],
+    "names": [
+      "FDCSERVERS - FDCservers.net, US"
+    ]
+  },
+  {
+    "provider": "AS906",
+    "slug": "as906",
+    "file": "output/as906.txt",
+    "configs": 12,
+    "ips": 11,
+    "asns": [
+      906
+    ],
+    "names": [
+      "DMIT - DMIT Cloud Services, US"
+    ]
+  },
+  {
+    "provider": "AS44244",
+    "slug": "as44244",
+    "file": "output/as44244.txt",
+    "configs": 12,
+    "ips": 10,
+    "asns": [
+      44244
+    ],
+    "names": [
+      "IranCell-AS - IranCell-AS, IR"
+    ]
+  },
+  {
+    "provider": "AS33191",
+    "slug": "as33191",
+    "file": "output/as33191.txt",
+    "configs": 12,
+    "ips": 8,
+    "asns": [
+      33191
+    ],
+    "names": [
+      "NOTION-WEB - Notion Labs, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS139659",
+    "slug": "as139659",
+    "file": "output/as139659.txt",
+    "configs": 11,
+    "ips": 15,
+    "asns": [
+      139659
+    ],
+    "names": [
+      "LUCID-AS-AP - LUCIDACLOUD LIMITED, HK"
+    ]
+  },
+  {
+    "provider": "AS60592",
+    "slug": "as60592",
+    "file": "output/as60592.txt",
+    "configs": 11,
+    "ips": 18,
+    "asns": [
+      60592
+    ],
+    "names": [
+      "GRANSY - Gransy s.r.o., CZ"
+    ]
+  },
+  {
+    "provider": "AS25820",
+    "slug": "as25820",
+    "file": "output/as25820.txt",
+    "configs": 10,
+    "ips": 9,
+    "asns": [
+      25820
+    ],
+    "names": [
+      "IT7NET - IT7 Networks Inc, CA"
+    ]
+  },
+  {
+    "provider": "AS979",
+    "slug": "as979",
+    "file": "output/as979.txt",
+    "configs": 10,
+    "ips": 9,
+    "asns": [
+      979
+    ],
+    "names": [
+      "NETLAB-SDN - NetLab Global, US"
+    ]
+  },
+  {
+    "provider": "Leaseweb",
+    "slug": "leaseweb",
+    "file": "output/leaseweb.txt",
+    "configs": 10,
+    "ips": 10,
+    "asns": [
+      28753,
+      60781,
+      30633,
+      133752,
+      59253
+    ],
+    "names": [
+      "LEASEWEB-DE-FRA-10 - Leaseweb Deutschland GmbH, DE",
+      "LEASEWEB-NL-AMS-01 - LeaseWeb Netherlands B.V., NL",
+      "LEASEWEB-USA-WDC - Leaseweb USA, Inc., US",
+      "LEASEWEB-APAC-HKG-10 - LEASEWEB HONG KONG LIMITED, HK",
+      "LEASEWEB-APAC-SIN-11 - LEASEWEB SINGAPORE PTE. LTD., SG"
+    ]
+  },
+  {
+    "provider": "AS43298",
+    "slug": "as43298",
+    "file": "output/as43298.txt",
+    "configs": 10,
+    "ips": 3,
+    "asns": [
+      43298
+    ],
+    "names": [
+      "StormNetworks - Storm Networks LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS215439",
+    "slug": "as215439",
+    "file": "output/as215439.txt",
+    "configs": 10,
+    "ips": 9,
+    "asns": [
+      215439
+    ],
+    "names": [
+      "PLAY2GO-NET - PLAY2GO INTERNATIONAL LIMITED, GB"
+    ]
+  },
+  {
+    "provider": "AS42960",
+    "slug": "as42960",
+    "file": "output/as42960.txt",
+    "configs": 9,
+    "ips": 3,
+    "asns": [
+      42960
+    ],
+    "names": [
+      "VH-GLOBAL - VH Global Limited, HK"
+    ]
+  },
+  {
+    "provider": "AS219337",
+    "slug": "as219337",
+    "file": "output/as219337.txt",
+    "configs": 9,
+    "ips": 5,
+    "asns": [
+      219337
+    ],
+    "names": [
+      "PLAY2GO - PLAY2GO - FZCO, AE"
+    ]
+  },
+  {
+    "provider": "Scaleway",
+    "slug": "scaleway",
+    "file": "output/scaleway.txt",
+    "configs": 9,
+    "ips": 7,
+    "asns": [
+      12876
+    ],
+    "names": [
+      "AS12876 - Scaleway SAS, FR"
+    ]
+  },
+  {
+    "provider": "AS203273",
+    "slug": "as203273",
+    "file": "output/as203273.txt",
+    "configs": 9,
+    "ips": 6,
+    "asns": [
+      203273
+    ],
+    "names": [
+      "NetCraftersOU - NetCrafters OU, EE"
+    ]
+  },
+  {
+    "provider": "AS204104",
+    "slug": "as204104",
+    "file": "output/as204104.txt",
+    "configs": 9,
+    "ips": 6,
+    "asns": [
+      204104
+    ],
+    "names": [
+      "GSC - Giti Secure Cloud LLC, IR"
+    ]
+  },
+  {
+    "provider": "AS61112",
+    "slug": "as61112",
+    "file": "output/as61112.txt",
+    "configs": 9,
+    "ips": 9,
+    "asns": [
+      61112
+    ],
+    "names": [
+      "AkileCloud - AKILE LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS36352",
+    "slug": "as36352",
+    "file": "output/as36352.txt",
+    "configs": 8,
+    "ips": 6,
+    "asns": [
+      36352
+    ],
+    "names": [
+      "AS-COLOCROSSING - HostPapa, US"
+    ]
+  },
+  {
+    "provider": "AS215730",
+    "slug": "as215730",
+    "file": "output/as215730.txt",
+    "configs": 8,
+    "ips": 8,
+    "asns": [
+      215730
+    ],
+    "names": [
+      "H2NEXUS-AS - H2NEXUS CLOUD SERVICES - FZCO, AE"
+    ]
+  },
+  {
+    "provider": "AS207992",
+    "slug": "as207992",
+    "file": "output/as207992.txt",
+    "configs": 8,
+    "ips": 7,
+    "asns": [
+      207992
+    ],
+    "names": [
+      "feelb - FEELB SARL, FR"
+    ]
+  },
+  {
+    "provider": "AS60077",
+    "slug": "as60077",
+    "file": "output/as60077.txt",
+    "configs": 8,
+    "ips": 5,
+    "asns": [
+      60077
+    ],
+    "names": [
+      "AT-CLOUD - Asre Dadeha Asiatech, IR"
+    ]
+  },
+  {
+    "provider": "AS58232",
+    "slug": "as58232",
+    "file": "output/as58232.txt",
+    "configs": 8,
+    "ips": 5,
+    "asns": [
+      58232
+    ],
+    "names": [
+      "haderan - Parsun Network Solutions PTY LTD, AU"
+    ]
+  },
+  {
+    "provider": "AS59441",
+    "slug": "as59441",
+    "file": "output/as59441.txt",
+    "configs": 8,
+    "ips": 1,
+    "asns": [
+      59441
+    ],
+    "names": [
+      "Hostiran-Network - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.), IR"
+    ]
+  },
+  {
+    "provider": "AS21859",
+    "slug": "as21859",
+    "file": "output/as21859.txt",
+    "configs": 7,
+    "ips": 3,
+    "asns": [
+      21859
+    ],
+    "names": [
+      "ZEN-ECN - Zenlayer Inc, US"
+    ]
+  },
+  {
+    "provider": "AS219095",
+    "slug": "as219095",
+    "file": "output/as219095.txt",
+    "configs": 7,
+    "ips": 6,
+    "asns": [
+      219095
+    ],
+    "names": [
+      "ASTRAVPS-AS - Paul Sagov, RU"
+    ]
+  },
+  {
+    "provider": "AS200315",
+    "slug": "as200315",
+    "file": "output/as200315.txt",
+    "configs": 7,
+    "ips": 4,
+    "asns": [
+      200315
+    ],
+    "names": [
+      "ae_netconnect - NetConnect Innovations LLC, AE"
+    ]
+  },
+  {
+    "provider": "AS216071",
+    "slug": "as216071",
+    "file": "output/as216071.txt",
+    "configs": 7,
+    "ips": 4,
+    "asns": [
+      216071
+    ],
+    "names": [
+      "VDSINA - SERVERS TECH FZCO, AE"
+    ]
+  },
+  {
+    "provider": "AS51431",
+    "slug": "as51431",
+    "file": "output/as51431.txt",
+    "configs": 7,
+    "ips": 5,
+    "asns": [
+      51431
+    ],
+    "names": [
+      "IR-AVABARID-AS - Rasaneh Avabarid Private Joint Stock Company, IR"
+    ]
+  },
+  {
+    "provider": "AS205993",
+    "slug": "as205993",
+    "file": "output/as205993.txt",
+    "configs": 7,
+    "ips": 7,
+    "asns": [
+      205993
+    ],
+    "names": [
+      "CAFETECNOLOGIA - Cafe Tecnologia LLC, US"
+    ]
+  },
+  {
+    "provider": "AS396356",
+    "slug": "as396356",
+    "file": "output/as396356.txt",
+    "configs": 7,
+    "ips": 3,
+    "asns": [
+      396356
+    ],
+    "names": [
+      "LATITUDE-SH - Latitude.sh, US"
+    ]
+  },
+  {
+    "provider": "AS27647",
+    "slug": "as27647",
+    "file": "output/as27647.txt",
+    "configs": 7,
+    "ips": 7,
+    "asns": [
+      27647
+    ],
+    "names": [
+      "WEEBLY - Weebly, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS46844",
+    "slug": "as46844",
+    "file": "output/as46844.txt",
+    "configs": 7,
+    "ips": 7,
+    "asns": [
+      46844
+    ],
+    "names": [
+      "SHARKTECH - Sharktech, US"
+    ]
+  },
+  {
+    "provider": "AS967",
+    "slug": "as967",
+    "file": "output/as967.txt",
+    "configs": 7,
+    "ips": 7,
+    "asns": [
+      967
+    ],
+    "names": [
+      "VMISS-CA - VMISS Inc., CA"
+    ]
+  },
+  {
+    "provider": "AS35916",
+    "slug": "as35916",
+    "file": "output/as35916.txt",
+    "configs": 6,
+    "ips": 6,
+    "asns": [
+      35916
+    ],
+    "names": [
+      "MULTA-ASN1 - MULTACOM CORPORATION, US"
+    ]
+  },
+  {
+    "provider": "AS3258",
+    "slug": "as3258",
+    "file": "output/as3258.txt",
+    "configs": 6,
+    "ips": 5,
+    "asns": [
+      3258
+    ],
+    "names": [
+      "XTOM-JAPAN - xTom Japan Corporation, JP"
+    ]
+  },
+  {
+    "provider": "AS213887",
+    "slug": "as213887",
+    "file": "output/as213887.txt",
+    "configs": 6,
+    "ips": 5,
+    "asns": [
+      213887
+    ],
+    "names": [
+      "WAICORE-LTD - WAIcore Ltd, GB"
+    ]
+  },
+  {
+    "provider": "Datacamp (CDN77)",
+    "slug": "datacamp-cdn77",
+    "file": "output/datacamp-cdn77.txt",
+    "configs": 6,
+    "ips": 5,
+    "asns": [
+      60068
+    ],
+    "names": [
+      "CDN77 - Datacamp Limited, GB"
+    ]
+  },
+  {
+    "provider": "AS8359",
+    "slug": "as8359",
+    "file": "output/as8359.txt",
+    "configs": 6,
+    "ips": 4,
+    "asns": [
+      8359
+    ],
+    "names": [
+      "MTS - MTS PJSC, RU"
+    ]
+  },
+  {
+    "provider": "AS49505",
+    "slug": "as49505",
+    "file": "output/as49505.txt",
+    "configs": 6,
+    "ips": 5,
+    "asns": [
+      49505
+    ],
+    "names": [
+      "SELECTEL - JSC Selectel, RU"
+    ]
+  },
+  {
+    "provider": "AS198550",
+    "slug": "as198550",
+    "file": "output/as198550.txt",
+    "configs": 6,
+    "ips": 3,
+    "asns": [
+      198550
+    ],
+    "names": [
+      "nodehost-as - NODE HOST LIMITED, GB"
+    ]
+  },
+  {
+    "provider": "AS62659",
+    "slug": "as62659",
+    "file": "output/as62659.txt",
+    "configs": 6,
+    "ips": 4,
+    "asns": [
+      62659
+    ],
+    "names": [
+      "Q2HOLDINGS - Q2 Software, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS47583",
+    "slug": "as47583",
+    "file": "output/as47583.txt",
+    "configs": 6,
+    "ips": 4,
+    "asns": [
+      47583
+    ],
+    "names": [
+      "AS-HOSTINGER - Hostinger International Limited, CY"
+    ]
+  },
+  {
+    "provider": "AS50756",
+    "slug": "as50756",
+    "file": "output/as50756.txt",
+    "configs": 6,
+    "ips": 3,
+    "asns": [
+      50756
+    ],
+    "names": [
+      "ROBOCASHKZ-AS - Mikrofinansovaya organizaciya Robocash.kz LLP, KZ"
+    ]
+  },
+  {
+    "provider": "AS42337",
+    "slug": "as42337",
+    "file": "output/as42337.txt",
+    "configs": 6,
+    "ips": 6,
+    "asns": [
+      42337
+    ],
+    "names": [
+      "RESPINA-AS - Respina Networks & Beyond PJSC, IR"
+    ]
+  },
+  {
+    "provider": "AS216334",
+    "slug": "as216334",
+    "file": "output/as216334.txt",
+    "configs": 6,
+    "ips": 4,
+    "asns": [
+      216334
+    ],
+    "names": [
+      "LandVPS-AS - New Hosting Technologies LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS219147",
+    "slug": "as219147",
+    "file": "output/as219147.txt",
+    "configs": 6,
+    "ips": 3,
+    "asns": [
+      219147
+    ],
+    "names": [
+      "RAWI-NETWORK-AS - Moskalev Georgiy, RU"
+    ]
+  },
+  {
+    "provider": "AS208677",
+    "slug": "as208677",
+    "file": "output/as208677.txt",
+    "configs": 6,
+    "ips": 6,
+    "asns": [
+      208677
+    ],
+    "names": [
+      "CLOUDRU-AS - _Cloud Technologies_ LLC trading as Cloud.ru, RU"
+    ]
+  },
+  {
+    "provider": "AS4837",
+    "slug": "as4837",
+    "file": "output/as4837.txt",
+    "configs": 5,
+    "ips": 4,
+    "asns": [
+      4837
+    ],
+    "names": [
+      "CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN"
+    ]
+  },
+  {
+    "provider": "AS219466",
+    "slug": "as219466",
+    "file": "output/as219466.txt",
+    "configs": 5,
+    "ips": 2,
+    "asns": [
+      219466
+    ],
+    "names": [
+      "MEHRANHOST-AS - Mehran Saeedikia trading as Mehranhost.cloud, IR"
+    ]
+  },
+  {
+    "provider": "AS49",
+    "slug": "as49",
+    "file": "output/as49.txt",
+    "configs": 5,
+    "ips": 3,
+    "asns": [
+      49
+    ],
+    "names": [
+      "US-NATIONAL-INSTITUTE-OF-STANDARDS-AND-TECHNOLOGY - National Institute of Standards and Technology, US"
+    ]
+  },
+  {
+    "provider": "AS215590",
+    "slug": "as215590",
+    "file": "output/as215590.txt",
+    "configs": 5,
+    "ips": 4,
+    "asns": [
+      215590
+    ],
+    "names": [
+      "XORA-AS - DpkgSoft International Limited, GB"
+    ]
+  },
+  {
+    "provider": "AS154177",
+    "slug": "as154177",
+    "file": "output/as154177.txt",
+    "configs": 5,
+    "ips": 4,
+    "asns": [
+      154177
+    ],
+    "names": [
+      "LIGHT4-AS-AP - LIGHT NODE LIMITED, HK"
+    ]
+  },
+  {
+    "provider": "AS44051",
+    "slug": "as44051",
+    "file": "output/as44051.txt",
+    "configs": 5,
+    "ips": 4,
+    "asns": [
+      44051
+    ],
+    "names": [
+      "FORNEX-AS - Fornex Hosting S.L., ES"
+    ]
+  },
+  {
+    "provider": "AS136510",
+    "slug": "as136510",
+    "file": "output/as136510.txt",
+    "configs": 5,
+    "ips": 2,
+    "asns": [
+      136510
+    ],
+    "names": [
+      "STREAMLINESERVERS-AS-AP - Streamline Servers Pty Ltd, AU"
+    ]
+  },
+  {
+    "provider": "AS49683",
+    "slug": "as49683",
+    "file": "output/as49683.txt",
+    "configs": 5,
+    "ips": 4,
+    "asns": [
+      49683
+    ],
+    "names": [
+      "MASSIVEGRID - MASSIVEGRID LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS152194",
+    "slug": "as152194",
+    "file": "output/as152194.txt",
+    "configs": 5,
+    "ips": 3,
+    "asns": [
+      152194
+    ],
+    "names": [
+      "CTGSERVERLIMITED-AS-AP - CTG Server Limited, HK"
+    ]
+  },
+  {
+    "provider": "AS399077",
+    "slug": "as399077",
+    "file": "output/as399077.txt",
+    "configs": 5,
+    "ips": 4,
+    "asns": [
+      399077
+    ],
+    "names": [
+      "TERAEXCH - Tcloudnet, US"
+    ]
+  },
+  {
+    "provider": "AS24318",
+    "slug": "as24318",
+    "file": "output/as24318.txt",
+    "configs": 5,
+    "ips": 2,
+    "asns": [
+      24318
+    ],
+    "names": [
+      "MINEDU-AS-NZ-AP - Ministry of Education, NZ"
+    ]
+  },
+  {
+    "provider": "AS29085",
+    "slug": "as29085",
+    "file": "output/as29085.txt",
+    "configs": 5,
+    "ips": 4,
+    "asns": [
+      29085
+    ],
+    "names": [
+      "PORSCHE-AS - Porsche Informatik Gesellschaft m.b.H, AT"
+    ]
+  },
+  {
+    "provider": "AS213877",
+    "slug": "as213877",
+    "file": "output/as213877.txt",
+    "configs": 5,
+    "ips": 4,
+    "asns": [
+      213877
+    ],
+    "names": [
+      "U1DS-AS - U1 DIGITAL SERVICES LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS4609",
+    "slug": "as4609",
+    "file": "output/as4609.txt",
+    "configs": 5,
+    "ips": 3,
+    "asns": [
+      4609
+    ],
+    "names": [
+      "CTM-MO - Companhia de Telecomunicacoes de Macau SARL, MO"
+    ]
+  },
+  {
+    "provider": "AS201839",
+    "slug": "as201839",
+    "file": "output/as201839.txt",
+    "configs": 5,
+    "ips": 2,
+    "asns": [
+      201839
+    ],
+    "names": [
+      "ZAYMER2-AS - Microcredit Company Zaymer PJSC, RU"
+    ]
+  },
+  {
+    "provider": "AS49981",
+    "slug": "as49981",
+    "file": "output/as49981.txt",
+    "configs": 5,
+    "ips": 3,
+    "asns": [
+      49981
+    ],
+    "names": [
+      "WorldStream - WorldStream B.V., NL"
+    ]
+  },
+  {
+    "provider": "AS216054",
+    "slug": "as216054",
+    "file": "output/as216054.txt",
+    "configs": 5,
+    "ips": 3,
+    "asns": [
+      216054
+    ],
+    "names": [
+      "VIP-Host - Taymaz Gostaran Naghshe Almas Co. ( Ltd ), IR"
+    ]
+  },
+  {
+    "provider": "Contabo",
+    "slug": "contabo",
+    "file": "output/contabo.txt",
+    "configs": 5,
+    "ips": 5,
+    "asns": [
+      141995,
+      51167
+    ],
+    "names": [
+      "CAPL-AS-AP - Contabo Asia Private Limited, SG",
+      "CONTABO - Contabo GmbH, DE"
+    ]
+  },
+  {
+    "provider": "AS212336",
+    "slug": "as212336",
+    "file": "output/as212336.txt",
+    "configs": 5,
+    "ips": 5,
+    "asns": [
+      212336
+    ],
+    "names": [
+      "BYTEVIRTLLC - ByteVirt LLC, US"
+    ]
+  },
+  {
+    "provider": "AS44382",
+    "slug": "as44382",
+    "file": "output/as44382.txt",
+    "configs": 5,
+    "ips": 5,
+    "asns": [
+      44382
+    ],
+    "names": [
+      "WhiteLabel - Fiba Cloud Operation Company, LLC, US"
+    ]
+  },
+  {
+    "provider": "AS54600",
+    "slug": "as54600",
+    "file": "output/as54600.txt",
+    "configs": 4,
+    "ips": 4,
+    "asns": [
+      54600
+    ],
+    "names": [
+      "PEG-SV - PEG TECH INC, US"
+    ]
+  },
+  {
+    "provider": "AS43754",
+    "slug": "as43754",
+    "file": "output/as43754.txt",
+    "configs": 4,
+    "ips": 3,
+    "asns": [
+      43754
+    ],
+    "names": [
+      "ASIATECH - Asiatech Data Transmission company, IR"
+    ]
+  },
+  {
+    "provider": "AS9269",
+    "slug": "as9269",
+    "file": "output/as9269.txt",
+    "configs": 4,
+    "ips": 3,
+    "asns": [
+      9269
+    ],
+    "names": [
+      "HKBN-AS-AP - Hong Kong Broadband Network Ltd., HK"
+    ]
+  },
+  {
+    "provider": "AS9318",
+    "slug": "as9318",
+    "file": "output/as9318.txt",
+    "configs": 4,
+    "ips": 3,
+    "asns": [
+      9318
+    ],
+    "names": [
+      "SKB-AS-KR - SK Broadband Co Ltd, KR"
+    ]
+  },
+  {
+    "provider": "AS207847",
+    "slug": "as207847",
+    "file": "output/as207847.txt",
+    "configs": 4,
+    "ips": 3,
+    "asns": [
+      207847
+    ],
+    "names": [
+      "CloudBlast - CloudBlast LLC, US"
+    ]
+  },
+  {
+    "provider": "AS138115",
+    "slug": "as138115",
+    "file": "output/as138115.txt",
+    "configs": 4,
+    "ips": 3,
+    "asns": [
+      138115
+    ],
+    "names": [
+      "IDNIC-DENEVA-AS-ID - PT Deneva, ID"
+    ]
+  },
+  {
+    "provider": "AS26383",
+    "slug": "as26383",
+    "file": "output/as26383.txt",
+    "configs": 4,
+    "ips": 4,
+    "asns": [
+      26383
+    ],
+    "names": [
+      "ASNET - Baxet Group Inc., US"
+    ]
+  },
+  {
+    "provider": "AS57043",
+    "slug": "as57043",
+    "file": "output/as57043.txt",
+    "configs": 4,
+    "ips": 4,
+    "asns": [
+      57043
+    ],
+    "names": [
+      "HOSTKEY-AS - HOSTKEY B.V., NL"
+    ]
+  },
+  {
+    "provider": "AS57568",
+    "slug": "as57568",
+    "file": "output/as57568.txt",
+    "configs": 4,
+    "ips": 4,
+    "asns": [
+      57568
+    ],
+    "names": [
+      "TR_Arvancloud - ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C, AE"
+    ]
+  },
+  {
+    "provider": "AS42532",
+    "slug": "as42532",
+    "file": "output/as42532.txt",
+    "configs": 4,
+    "ips": 3,
+    "asns": [
+      42532
+    ],
+    "names": [
+      "VEESP-LV-AS - SIA VEESP, LV"
+    ]
+  },
+  {
+    "provider": "AS44803",
+    "slug": "as44803",
+    "file": "output/as44803.txt",
+    "configs": 4,
+    "ips": 3,
+    "asns": [
+      44803
+    ],
+    "names": [
+      "WEBDOCK-AS - Webdock.io ApS, DK"
+    ]
+  },
+  {
+    "provider": "AS210546",
+    "slug": "as210546",
+    "file": "output/as210546.txt",
+    "configs": 4,
+    "ips": 2,
+    "asns": [
+      210546
+    ],
+    "names": [
+      "CHSL-ONE - CHSL ONE LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS214036",
+    "slug": "as214036",
+    "file": "output/as214036.txt",
+    "configs": 4,
+    "ips": 3,
+    "asns": [
+      214036
+    ],
+    "names": [
+      "ULTAHOST-AS - Ultahost, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS210405",
+    "slug": "as210405",
+    "file": "output/as210405.txt",
+    "configs": 4,
+    "ips": 5,
+    "asns": [
+      210405
+    ],
+    "names": [
+      "VIDC - Vira Cloud DataCenter PJSC, IR"
+    ]
+  },
+  {
+    "provider": "AS211273",
+    "slug": "as211273",
+    "file": "output/as211273.txt",
+    "configs": 4,
+    "ips": 4,
+    "asns": [
+      211273
+    ],
+    "names": [
+      "csoft - Cloud Software - FZCO, AE"
+    ]
+  },
+  {
+    "provider": "AS22612",
+    "slug": "as22612",
+    "file": "output/as22612.txt",
+    "configs": 4,
+    "ips": 1,
+    "asns": [
+      22612
+    ],
+    "names": [
+      "NAMECHEAP-NET - Namecheap, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS151338",
+    "slug": "as151338",
+    "file": "output/as151338.txt",
+    "configs": 4,
+    "ips": 3,
+    "asns": [
+      151338
+    ],
+    "names": [
+      "POLONETWORK-AS-AP - POLONETWORK LIMITED, HK"
+    ]
+  },
+  {
+    "provider": "AS142111",
+    "slug": "as142111",
+    "file": "output/as142111.txt",
+    "configs": 4,
+    "ips": 2,
+    "asns": [
+      142111
+    ],
+    "names": [
+      "AIYUN-AS-AP - Zhejiang Aiyun Network Technology Co Ltd, CN"
+    ]
+  },
+  {
+    "provider": "Private IP",
+    "slug": "private-ip",
+    "file": "output/private-ip.txt",
+    "configs": 4,
+    "ips": 1,
+    "asns": [],
+    "names": []
+  },
+  {
+    "provider": "AS8796",
+    "slug": "as8796",
+    "file": "output/as8796.txt",
+    "configs": 4,
+    "ips": 4,
+    "asns": [
+      8796
+    ],
+    "names": [
+      "FD-298-8796 - FASTNET DATA INC, US"
+    ]
+  },
+  {
+    "provider": "AS4760",
+    "slug": "as4760",
+    "file": "output/as4760.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      4760
+    ],
+    "names": [
+      "HKTIMS-AP - HKT Limited, HK"
+    ]
+  },
+  {
+    "provider": "AS56309",
+    "slug": "as56309",
+    "file": "output/as56309.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      56309
+    ],
+    "names": [
+      "SIAMDATA-TH - Siamdata Communication Co.,Ltd., TH"
+    ]
+  },
+  {
+    "provider": "AS132693",
+    "slug": "as132693",
+    "file": "output/as132693.txt",
+    "configs": 3,
+    "ips": 1,
+    "asns": [
+      132693
+    ],
+    "names": [
+      "EASTERNHEALTH-AS-AP - Eastern Health, AU"
+    ]
+  },
+  {
+    "provider": "AS132816",
+    "slug": "as132816",
+    "file": "output/as132816.txt",
+    "configs": 3,
+    "ips": 2,
+    "asns": [
+      132816
+    ],
+    "names": [
+      "SIMPLERCLOUD-AS-AP - SimplerCloud Pte Ltd, SG"
+    ]
+  },
+  {
+    "provider": "AS207569",
+    "slug": "as207569",
+    "file": "output/as207569.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      207569
+    ],
+    "names": [
+      "I-SERVERS-NORTH-EU - IHOR HOSTING LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS14956",
+    "slug": "as14956",
+    "file": "output/as14956.txt",
+    "configs": 3,
+    "ips": 2,
+    "asns": [
+      14956
+    ],
+    "names": [
+      "ROUTERHOSTING - RouterHosting LLC, US"
+    ]
+  },
+  {
+    "provider": "AS20860",
+    "slug": "as20860",
+    "file": "output/as20860.txt",
+    "configs": 3,
+    "ips": 2,
+    "asns": [
+      20860
+    ],
+    "names": [
+      "IOMART-AS - IOMART CLOUD SERVICES LIMITED, GB"
+    ]
+  },
+  {
+    "provider": "AS62212",
+    "slug": "as62212",
+    "file": "output/as62212.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      62212
+    ],
+    "names": [
+      "EE - SmartApe OU, EE"
+    ]
+  },
+  {
+    "provider": "AS32077",
+    "slug": "as32077",
+    "file": "output/as32077.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      32077
+    ],
+    "names": [
+      "ULTISOFTASN - ULTIMATE SOFTWARE GROUP, US"
+    ]
+  },
+  {
+    "provider": "AS142002",
+    "slug": "as142002",
+    "file": "output/as142002.txt",
+    "configs": 3,
+    "ips": 2,
+    "asns": [
+      142002
+    ],
+    "names": [
+      "SCLOUDPTELTD-AS - Scloud Pte Ltd, SG"
+    ]
+  },
+  {
+    "provider": "AS1975",
+    "slug": "as1975",
+    "file": "output/as1975.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      1975
+    ],
+    "names": [
+      "PROQUEST-AS - PROQUEST LLC, US"
+    ]
+  },
+  {
+    "provider": "AS214790",
+    "slug": "as214790",
+    "file": "output/as214790.txt",
+    "configs": 3,
+    "ips": 2,
+    "asns": [
+      214790
+    ],
+    "names": [
+      "BRAINOZA - Brainoza OU, EE"
+    ]
+  },
+  {
+    "provider": "AS3175",
+    "slug": "as3175",
+    "file": "output/as3175.txt",
+    "configs": 3,
+    "ips": 2,
+    "asns": [
+      3175
+    ],
+    "names": [
+      "CITYTELECOM-MSK - Citytelecom LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS215013",
+    "slug": "as215013",
+    "file": "output/as215013.txt",
+    "configs": 3,
+    "ips": 1,
+    "asns": [
+      215013
+    ],
+    "names": [
+      "YCCDN - Yandex.Cloud LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS9327",
+    "slug": "as9327",
+    "file": "output/as9327.txt",
+    "configs": 3,
+    "ips": 2,
+    "asns": [
+      9327
+    ],
+    "names": [
+      "STRANDKIP - Joseph Abley, NL"
+    ]
+  },
+  {
+    "provider": "AS216058",
+    "slug": "as216058",
+    "file": "output/as216058.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      216058
+    ],
+    "names": [
+      "Proitlab-AS - Proitlab LLC, AM"
+    ]
+  },
+  {
+    "provider": "AS44620",
+    "slug": "as44620",
+    "file": "output/as44620.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      44620
+    ],
+    "names": [
+      "NETLEN - Netlen Internet Hizmetleri Ltd. Sti., TR"
+    ]
+  },
+  {
+    "provider": "AS63023",
+    "slug": "as63023",
+    "file": "output/as63023.txt",
+    "configs": 3,
+    "ips": 4,
+    "asns": [
+      63023
+    ],
+    "names": [
+      "AS-GLOBALTELEHOST - GTHost, US"
+    ]
+  },
+  {
+    "provider": "AS209805",
+    "slug": "as209805",
+    "file": "output/as209805.txt",
+    "configs": 3,
+    "ips": 1,
+    "asns": [
+      209805
+    ],
+    "names": [
+      "SBCLOUD - SBCLOUD LLC, RU"
+    ]
+  },
+  {
+    "provider": "IONOS",
+    "slug": "ionos",
+    "file": "output/ionos.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      8560
+    ],
+    "names": [
+      "IONOS-AS - IONOS SE, DE"
+    ]
+  },
+  {
+    "provider": "AS202422",
+    "slug": "as202422",
+    "file": "output/as202422.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      202422
+    ],
+    "names": [
+      "GHOST - G-Core Labs S.A., LU"
+    ]
+  },
+  {
+    "provider": "AS47216",
+    "slug": "as47216",
+    "file": "output/as47216.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      47216
+    ],
+    "names": [
+      "TookanTech - Ettelaat Fanavarn-E Tookan Co Ltd, IR"
+    ]
+  },
+  {
+    "provider": "AS209693",
+    "slug": "as209693",
+    "file": "output/as209693.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      209693
+    ],
+    "names": [
+      "OC-NETWORK - OC NETWORKS LIMITED, GB"
+    ]
+  },
+  {
+    "provider": "AS202319",
+    "slug": "as202319",
+    "file": "output/as202319.txt",
+    "configs": 3,
+    "ips": 1,
+    "asns": [
+      202319
+    ],
+    "names": [
+      "Sotoon-CDN - Hezardastan Unit Cloud Computing PJSC, IR"
+    ]
+  },
+  {
+    "provider": "AS213807",
+    "slug": "as213807",
+    "file": "output/as213807.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      213807
+    ],
+    "names": [
+      "TehranServer - Fanavaran Mehr Vatan Tehran Server Group LLC, IR"
+    ]
+  },
+  {
+    "provider": "AS25184",
+    "slug": "as25184",
+    "file": "output/as25184.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      25184
+    ],
+    "names": [
+      "AFRANET - Afranet, IR"
+    ]
+  },
+  {
+    "provider": "AS212552",
+    "slug": "as212552",
+    "file": "output/as212552.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      212552
+    ],
+    "names": [
+      "BitCommand - BitCommand LLC, AM"
+    ]
+  },
+  {
+    "provider": "AS200436",
+    "slug": "as200436",
+    "file": "output/as200436.txt",
+    "configs": 3,
+    "ips": 2,
+    "asns": [
+      200436
+    ],
+    "names": [
+      "tehrangaming-com - Patron Technology Persia Ltd, IR"
+    ]
+  },
+  {
+    "provider": "Akamai",
+    "slug": "akamai",
+    "file": "output/akamai.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      20940
+    ],
+    "names": [
+      "AKAMAI-ASN1 - Akamai International B.V., NL"
+    ]
+  },
+  {
+    "provider": "AS204548",
+    "slug": "as204548",
+    "file": "output/as204548.txt",
+    "configs": 3,
+    "ips": 2,
+    "asns": [
+      204548
+    ],
+    "names": [
+      "CLOUDWEBMANAGE-IL-FR - Kamatera Inc, US"
+    ]
+  },
+  {
+    "provider": "AS18526",
+    "slug": "as18526",
+    "file": "output/as18526.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      18526
+    ],
+    "names": [
+      "DDPS - DDPS Networks, LLC, JP"
+    ]
+  },
+  {
+    "provider": "AS17497",
+    "slug": "as17497",
+    "file": "output/as17497.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      17497
+    ],
+    "names": [
+      "LGHL-AS-AP - Liasail Global Hongkong Limited, HK"
+    ]
+  },
+  {
+    "provider": "AS401443",
+    "slug": "as401443",
+    "file": "output/as401443.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      401443
+    ],
+    "names": [
+      "WAP-AC - WAP.AC LLC, US"
+    ]
+  },
+  {
+    "provider": "AS34918",
+    "slug": "as34918",
+    "file": "output/as34918.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      34918
+    ],
+    "names": [
+      "PISHGAMAN-DATACENTER - Pishgaman Toseeh Ertebatat Company (Private Joint Stock), IR"
+    ]
+  },
+  {
+    "provider": "AS216246",
+    "slug": "as216246",
+    "file": "output/as216246.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      216246
+    ],
+    "names": [
+      "RU-AEZA-AS - Aeza Group LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS200350",
+    "slug": "as200350",
+    "file": "output/as200350.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      200350
+    ],
+    "names": [
+      "YandexCloud - Yandex.Cloud LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS50979",
+    "slug": "as50979",
+    "file": "output/as50979.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      50979
+    ],
+    "names": [
+      "R95-LV - ROUTE 95 LLC, US"
+    ]
+  },
+  {
+    "provider": "AS202053",
+    "slug": "as202053",
+    "file": "output/as202053.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      202053
+    ],
+    "names": [
+      "UPCLOUD - UpCloud Ltd, FI"
+    ]
+  },
+  {
+    "provider": "Melbicom",
+    "slug": "melbicom",
+    "file": "output/melbicom.txt",
+    "configs": 3,
+    "ips": 1,
+    "asns": [
+      49392
+    ],
+    "names": [
+      "ASBAXETN - LLC Baxet, RU"
+    ]
+  },
+  {
+    "provider": "AS21556",
+    "slug": "as21556",
+    "file": "output/as21556.txt",
+    "configs": 3,
+    "ips": 3,
+    "asns": [
+      21556
+    ],
+    "names": [
+      "NARC-EROOT - National Aeronautics and Space Administration, US"
+    ]
+  },
+  {
+    "provider": "AS131642",
+    "slug": "as131642",
+    "file": "output/as131642.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      131642
+    ],
+    "names": [
+      "PNI-AS-TW - Pittqiao Network Information Co.,Ltd., TW"
+    ]
+  },
+  {
+    "provider": "AS17511",
+    "slug": "as17511",
+    "file": "output/as17511.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      17511
+    ],
+    "names": [
+      "OPTAGE - OPTAGE Inc., JP"
+    ]
+  },
+  {
+    "provider": "AS63473",
+    "slug": "as63473",
+    "file": "output/as63473.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      63473
+    ],
+    "names": [
+      "HOSTHATCH - HostHatch, LLC, US"
+    ]
+  },
+  {
+    "provider": "AS56630",
+    "slug": "as56630",
+    "file": "output/as56630.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      56630
+    ],
+    "names": [
+      "MELBICOM-EU-AS - Melbikomas UAB, LT"
+    ]
+  },
+  {
+    "provider": "AS329184",
+    "slug": "as329184",
+    "file": "output/as329184.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      329184
+    ],
+    "names": [
+      "Host Africa (Pty) Ltd - Host Africa (Pty) Ltd, ZA"
+    ]
+  },
+  {
+    "provider": "AS38136",
+    "slug": "as38136",
+    "file": "output/as38136.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      38136
+    ],
+    "names": [
+      "AKARI-NETWORKS-AS-AP - Akari Networks, HK"
+    ]
+  },
+  {
+    "provider": "AS142616",
+    "slug": "as142616",
+    "file": "output/as142616.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      142616
+    ],
+    "names": [
+      "MNI-AS-AP - Misaka Network, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS210329",
+    "slug": "as210329",
+    "file": "output/as210329.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      210329
+    ],
+    "names": [
+      "CloudWebManage-UK-1 - Kamatera Inc, US"
+    ]
+  },
+  {
+    "provider": "AS213529",
+    "slug": "as213529",
+    "file": "output/as213529.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      213529
+    ],
+    "names": [
+      "SCULK-AS - Sculk Ltd., GB"
+    ]
+  },
+  {
+    "provider": "AS51247",
+    "slug": "as51247",
+    "file": "output/as51247.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      51247
+    ],
+    "names": [
+      "serveriotechnologijos-AS - SkyCore Technologies L.L.C-FZ, AE"
+    ]
+  },
+  {
+    "provider": "AS150452",
+    "slug": "as150452",
+    "file": "output/as150452.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      150452
+    ],
+    "names": [
+      "LANDUPS-AS-AP - LANDUPS LIMITED, HK"
+    ]
+  },
+  {
+    "provider": "AS24560",
+    "slug": "as24560",
+    "file": "output/as24560.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      24560
+    ],
+    "names": [
+      "AIRTELBROADBAND-AS-AP - Bharti Airtel Ltd., Telemedia Services, IN"
+    ]
+  },
+  {
+    "provider": "AS26158",
+    "slug": "as26158",
+    "file": "output/as26158.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      26158
+    ],
+    "names": [
+      "USG-TOR-AS - ULTIMATE SOFTWARE GROUP, US"
+    ]
+  },
+  {
+    "provider": "AS63199",
+    "slug": "as63199",
+    "file": "output/as63199.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      63199
+    ],
+    "names": [
+      "CDSC-AS1 - CDS Global Cloud Co., Ltd, US"
+    ]
+  },
+  {
+    "provider": "AS216129",
+    "slug": "as216129",
+    "file": "output/as216129.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      216129
+    ],
+    "names": [
+      "GuardNetwork-AS - SEBEK sp. z o.o, PL"
+    ]
+  },
+  {
+    "provider": "AS17561",
+    "slug": "as17561",
+    "file": "output/as17561.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      17561
+    ],
+    "names": [
+      "LCS-AS-AP - LARUS Limited, HK"
+    ]
+  },
+  {
+    "provider": "AS216206",
+    "slug": "as216206",
+    "file": "output/as216206.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      216206
+    ],
+    "names": [
+      "APHRODITE-AS - Aphrodite Group Ltd, SC"
+    ]
+  },
+  {
+    "provider": "AS399358",
+    "slug": "as399358",
+    "file": "output/as399358.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      399358
+    ],
+    "names": [
+      "ANTHROPIC - Anthropic, PBC, US"
+    ]
+  },
+  {
+    "provider": "AS399678",
+    "slug": "as399678",
+    "file": "output/as399678.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      399678
+    ],
+    "names": [
+      "CARRIER-AMER - Carrier Corporation, US"
+    ]
+  },
+  {
+    "provider": "AS58087",
+    "slug": "as58087",
+    "file": "output/as58087.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      58087
+    ],
+    "names": [
+      "FlorianKolb - Florian Kolb, DE"
+    ]
+  },
+  {
+    "provider": "AS60490",
+    "slug": "as60490",
+    "file": "output/as60490.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      60490
+    ],
+    "names": [
+      "MTS-CLOUD - MTS PJSC, RU"
+    ]
+  },
+  {
+    "provider": "Xtom",
+    "slug": "xtom",
+    "file": "output/xtom.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      3214
+    ],
+    "names": [
+      "XTOM - xTom GmbH, DE"
+    ]
+  },
+  {
+    "provider": "AS43289",
+    "slug": "as43289",
+    "file": "output/as43289.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      43289
+    ],
+    "names": [
+      "TRABIA - Trabia SRL, MD"
+    ]
+  },
+  {
+    "provider": "Datacamp",
+    "slug": "datacamp",
+    "file": "output/datacamp.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      212238
+    ],
+    "names": [
+      "CDNEXT - Datacamp Limited, GB"
+    ]
+  },
+  {
+    "provider": "AS45204",
+    "slug": "as45204",
+    "file": "output/as45204.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      45204
+    ],
+    "names": [
+      "GEMNET-MN - GEMNET LLC, MN"
+    ]
+  },
+  {
+    "provider": "AS201188",
+    "slug": "as201188",
+    "file": "output/as201188.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      201188
+    ],
+    "names": [
+      "BJTPARTNERS-AS - BJT Partners SAS, FR"
+    ]
+  },
+  {
+    "provider": "AS48314",
+    "slug": "as48314",
+    "file": "output/as48314.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      48314
+    ],
+    "names": [
+      "IP-PROJECTS - Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG, DE"
+    ]
+  },
+  {
+    "provider": "AS50223",
+    "slug": "as50223",
+    "file": "output/as50223.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      50223
+    ],
+    "names": [
+      "Alfa - Alfa Telecom CJSC, KG"
+    ]
+  },
+  {
+    "provider": "AS198203",
+    "slug": "as198203",
+    "file": "output/as198203.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      198203
+    ],
+    "names": [
+      "ASN-ROUTELABEL - RouteLabel V.O.F., NL"
+    ]
+  },
+  {
+    "provider": "AS197155",
+    "slug": "as197155",
+    "file": "output/as197155.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      197155
+    ],
+    "names": [
+      "ARTNET - Artnet Sp. z o.o., PL"
+    ]
+  },
+  {
+    "provider": "AS199912",
+    "slug": "as199912",
+    "file": "output/as199912.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      199912
+    ],
+    "names": [
+      "layer7-PAR1 - Layer7 Networks GmbH, DE"
+    ]
+  },
+  {
+    "provider": "AS2559",
+    "slug": "as2559",
+    "file": "output/as2559.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      2559
+    ],
+    "names": [
+      "VISANET-1 - VISA INTERNATIONAL SERVICE ASSOCIATION, US"
+    ]
+  },
+  {
+    "provider": "AS12880",
+    "slug": "as12880",
+    "file": "output/as12880.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      12880
+    ],
+    "names": [
+      "DCI-AS - Iran Information Technology Company PJSC, IR"
+    ]
+  },
+  {
+    "provider": "AS38859",
+    "slug": "as38859",
+    "file": "output/as38859.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      38859
+    ],
+    "names": [
+      "LINKLYTECH-AU - Linkly Technologies Pty Ltd, AU"
+    ]
+  },
+  {
+    "provider": "AS215311",
+    "slug": "as215311",
+    "file": "output/as215311.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      215311
+    ],
+    "names": [
+      "REGXA-CLOUD - Regxa Company for Information Technology Ltd, IQ"
+    ]
+  },
+  {
+    "provider": "AS216211",
+    "slug": "as216211",
+    "file": "output/as216211.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      216211
+    ],
+    "names": [
+      "CYBERVERSE-BACKBONE - CYBERVERSE LLC, US"
+    ]
+  },
+  {
+    "provider": "AS29555",
+    "slug": "as29555",
+    "file": "output/as29555.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      29555
+    ],
+    "names": [
+      "ALTEL-AS - Mobile Telecom-Service LLP, KZ"
+    ]
+  },
+  {
+    "provider": "AS4892",
+    "slug": "as4892",
+    "file": "output/as4892.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      4892
+    ],
+    "names": [
+      "APPLIEDUK-CLOUD-04 - APPLIED SYSTEMS, INC, US"
+    ]
+  },
+  {
+    "provider": "AS213915",
+    "slug": "as213915",
+    "file": "output/as213915.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      213915
+    ],
+    "names": [
+      "HOSTES-AS - HOSTES LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS56694",
+    "slug": "as56694",
+    "file": "output/as56694.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      56694
+    ],
+    "names": [
+      "SmartApe - LLC Smart Ape, RU"
+    ]
+  },
+  {
+    "provider": "AS174",
+    "slug": "as174",
+    "file": "output/as174.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      174
+    ],
+    "names": [
+      "COGENT-174 - Cogent Communications, LLC, US"
+    ]
+  },
+  {
+    "provider": "AS199152",
+    "slug": "as199152",
+    "file": "output/as199152.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      199152
+    ],
+    "names": [
+      "VDC-USA - Virtual Data Center Inc, US"
+    ]
+  },
+  {
+    "provider": "AS213438",
+    "slug": "as213438",
+    "file": "output/as213438.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      213438
+    ],
+    "names": [
+      "colocatel-inc - ColocaTel Inc., SC"
+    ]
+  },
+  {
+    "provider": "AS33993",
+    "slug": "as33993",
+    "file": "output/as33993.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      33993
+    ],
+    "names": [
+      "UFO-AS - UFO Hosting LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS402506",
+    "slug": "as402506",
+    "file": "output/as402506.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      402506
+    ],
+    "names": [
+      "ZENIX - Zenixcloud, US"
+    ]
+  },
+  {
+    "provider": "AS206715",
+    "slug": "as206715",
+    "file": "output/as206715.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      206715
+    ],
+    "names": [
+      "UXHOST - UXHOST LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS44764",
+    "slug": "as44764",
+    "file": "output/as44764.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      44764
+    ],
+    "names": [
+      "BITPRO - Bitpro, NO"
+    ]
+  },
+  {
+    "provider": "AS212706",
+    "slug": "as212706",
+    "file": "output/as212706.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      212706
+    ],
+    "names": [
+      "LIVI-HOSTING-AS - LIVI HOSTING LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS57494",
+    "slug": "as57494",
+    "file": "output/as57494.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      57494
+    ],
+    "names": [
+      "ADMAN-AS - Adman LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS398291",
+    "slug": "as398291",
+    "file": "output/as398291.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      398291
+    ],
+    "names": [
+      "AS-PHREESIA-1 - Phreesia, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS11831",
+    "slug": "as11831",
+    "file": "output/as11831.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      11831
+    ],
+    "names": [
+      "ESECUREDATA - eSecureData, CA"
+    ]
+  },
+  {
+    "provider": "AS215708",
+    "slug": "as215708",
+    "file": "output/as215708.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      215708
+    ],
+    "names": [
+      "mobinidc - Mobin Arvand Infrastructure Company LTD, IR"
+    ]
+  },
+  {
+    "provider": "AS61272",
+    "slug": "as61272",
+    "file": "output/as61272.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      61272
+    ],
+    "names": [
+      "IST-AS - UAB Bacloud, LT"
+    ]
+  },
+  {
+    "provider": "AS47589",
+    "slug": "as47589",
+    "file": "output/as47589.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      47589
+    ],
+    "names": [
+      "KTC3G - Kuwait Telecommunications Company K.S.C.C., KW"
+    ]
+  },
+  {
+    "provider": "AS205248",
+    "slug": "as205248",
+    "file": "output/as205248.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      205248
+    ],
+    "names": [
+      "TRIAR - Netassist International EOOD, BG"
+    ]
+  },
+  {
+    "provider": "AS266827",
+    "slug": "as266827",
+    "file": "output/as266827.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      266827
+    ],
+    "names": [
+      "AS266827 - BOHO BEACH CLUB S.A., HN"
+    ]
+  },
+  {
+    "provider": "AS208427",
+    "slug": "as208427",
+    "file": "output/as208427.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      208427
+    ],
+    "names": [
+      "Argotel - Gilmutdinov Ildar Aydarovich, RU"
+    ]
+  },
+  {
+    "provider": "AS16628",
+    "slug": "as16628",
+    "file": "output/as16628.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      16628
+    ],
+    "names": [
+      "DEDICATED-FIBER-COMMUNICATIONS - DedFiberCo, US"
+    ]
+  },
+  {
+    "provider": "AS61254",
+    "slug": "as61254",
+    "file": "output/as61254.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      61254
+    ],
+    "names": [
+      "ESTOXY-OU - ESTOXY OU, EE"
+    ]
+  },
+  {
+    "provider": "AS208024",
+    "slug": "as208024",
+    "file": "output/as208024.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      208024
+    ],
+    "names": [
+      "Alpenhost - Ronald Agorsah trading as Alpenhost e.U., AT"
+    ]
+  },
+  {
+    "provider": "AS215671",
+    "slug": "as215671",
+    "file": "output/as215671.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      215671
+    ],
+    "names": [
+      "OxinTech - Peimayesh Ertebat Oxin Co.(PJSC), IR"
+    ]
+  },
+  {
+    "provider": "AS204213",
+    "slug": "as204213",
+    "file": "output/as204213.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      204213
+    ],
+    "names": [
+      "netmihan - Netmihan Communication Company Ltd, IR"
+    ]
+  },
+  {
+    "provider": "AS43647",
+    "slug": "as43647",
+    "file": "output/as43647.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      43647
+    ],
+    "names": [
+      "AS-SERVERCORE-UZ - _SERVERCORE CIS_ FE LLC, UZ"
+    ]
+  },
+  {
+    "provider": "AS133800",
+    "slug": "as133800",
+    "file": "output/as133800.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      133800
+    ],
+    "names": [
+      "IDNIC-BIZNETGIO-AS-ID - PT Biznet Gio Nusantara, ID"
+    ]
+  },
+  {
+    "provider": "AS22439",
+    "slug": "as22439",
+    "file": "output/as22439.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      22439
+    ],
+    "names": [
+      "PERFECT-INTERNATIONAL - Perfect International, Inc, US"
+    ]
+  },
+  {
+    "provider": "AS218731",
+    "slug": "as218731",
+    "file": "output/as218731.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      218731
+    ],
+    "names": [
+      "Andris-Jakovlevs - Andris Jakovlevs, LV"
+    ]
+  },
+  {
+    "provider": "AS48551",
+    "slug": "as48551",
+    "file": "output/as48551.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      48551
+    ],
+    "names": [
+      "Sindad - Sindad Network Technology PJSC, IR"
+    ]
+  },
+  {
+    "provider": "AS204203",
+    "slug": "as204203",
+    "file": "output/as204203.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      204203
+    ],
+    "names": [
+      "Sepehr-Sabz-DC-TEH - Atrin Information & Communications Technology Company PJS, IR"
+    ]
+  },
+  {
+    "provider": "AS149440",
+    "slug": "as149440",
+    "file": "output/as149440.txt",
+    "configs": 2,
+    "ips": 3,
+    "asns": [
+      149440
+    ],
+    "names": [
+      "EVOXTSDNBHD-AS-AP - Evoxt Sdn. Bhd., MY"
+    ]
+  },
+  {
+    "provider": "AS49972",
+    "slug": "as49972",
+    "file": "output/as49972.txt",
+    "configs": 2,
+    "ips": 4,
+    "asns": [
+      49972
+    ],
+    "names": [
+      "FANHAB - NAMAVARAN e ASR e Novin Information Technology (FANHAB) , Private Joint-Stock Co, IR"
+    ]
+  },
+  {
+    "provider": "AS26042",
+    "slug": "as26042",
+    "file": "output/as26042.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      26042
+    ],
+    "names": [
+      "FIBERSTATE - FiberState, LLC, US"
+    ]
+  },
+  {
+    "provider": "AS208161",
+    "slug": "as208161",
+    "file": "output/as208161.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      208161
+    ],
+    "names": [
+      "parsvds - Pars Shabakeh Azarakhsh LLC, IR"
+    ]
+  },
+  {
+    "provider": "AS20724",
+    "slug": "as20724",
+    "file": "output/as20724.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      20724
+    ],
+    "names": [
+      "GLOBALTELEHOST - GlobalTeleHost Corp., CA"
+    ]
+  },
+  {
+    "provider": "AS210083",
+    "slug": "as210083",
+    "file": "output/as210083.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      210083
+    ],
+    "names": [
+      "Privex - Privex Inc., BZ"
+    ]
+  },
+  {
+    "provider": "AS8888",
+    "slug": "as8888",
+    "file": "output/as8888.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      8888
+    ],
+    "names": [
+      "XTOM - xTom Pty Ltd, AU"
+    ]
+  },
+  {
+    "provider": "AS46783",
+    "slug": "as46783",
+    "file": "output/as46783.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      46783
+    ],
+    "names": [
+      "EL-US - EASY LINK LLC, US"
+    ]
+  },
+  {
+    "provider": "AS153914",
+    "slug": "as153914",
+    "file": "output/as153914.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      153914
+    ],
+    "names": [
+      "IRINN-NETRANEX-AS-IN - NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED, IN"
+    ]
+  },
+  {
+    "provider": "AS216154",
+    "slug": "as216154",
+    "file": "output/as216154.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      216154
+    ],
+    "names": [
+      "CLODO - CLODO CLOUD SERVICE CO. L.L.C, AE"
+    ]
+  },
+  {
+    "provider": "AS209604",
+    "slug": "as209604",
+    "file": "output/as209604.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      209604
+    ],
+    "names": [
+      "TWO-E-Telekom - 2E TELEKOMUNIKASYON LTD STI, TR"
+    ]
+  },
+  {
+    "provider": "AS213732",
+    "slug": "as213732",
+    "file": "output/as213732.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      213732
+    ],
+    "names": [
+      "PEP-AS - Peyman Ertebatat Pouya Company (Ltd), IR"
+    ]
+  },
+  {
+    "provider": "AS218862",
+    "slug": "as218862",
+    "file": "output/as218862.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      218862
+    ],
+    "names": [
+      "DIGITALZERO-MNT - DIGITAL ZERO ONE LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS50558",
+    "slug": "as50558",
+    "file": "output/as50558.txt",
+    "configs": 2,
+    "ips": 2,
+    "asns": [
+      50558
+    ],
+    "names": [
+      "SYSTEC-AS - Rayaneh Pardazan Baran Co. Ltd., IR"
+    ]
+  },
+  {
+    "provider": "AS202269",
+    "slug": "as202269",
+    "file": "output/as202269.txt",
+    "configs": 2,
+    "ips": 3,
+    "asns": [
+      202269
+    ],
+    "names": [
+      "BitCommand - BitCommand LLC, AM"
+    ]
+  },
+  {
+    "provider": "AS137951",
+    "slug": "as137951",
+    "file": "output/as137951.txt",
+    "configs": 2,
+    "ips": 1,
+    "asns": [
+      137951
+    ],
+    "names": [
+      "ASLINE-AS-AP - ASLINE LIMITED, HK"
+    ]
+  },
+  {
+    "provider": "AS210278",
+    "slug": "as210278",
+    "file": "output/as210278.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      210278
+    ],
+    "names": [
+      "SKYIT-BB - Sky Italia srl, IT"
+    ]
+  },
+  {
+    "provider": "AS135377",
+    "slug": "as135377",
+    "file": "output/as135377.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      135377
+    ],
+    "names": [
+      "UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK"
+    ]
+  },
+  {
+    "provider": "AS134677",
+    "slug": "as134677",
+    "file": "output/as134677.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      134677
+    ],
+    "names": [
+      "IDC-AS-AP - Dromatics Systems Pte Ltd, SG"
+    ]
+  },
+  {
+    "provider": "AS200740",
+    "slug": "as200740",
+    "file": "output/as200740.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      200740
+    ],
+    "names": [
+      "FIRST-SERVER-EU-AS - FIRST SERVER LIMITED, GB"
+    ]
+  },
+  {
+    "provider": "AS133210",
+    "slug": "as133210",
+    "file": "output/as133210.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      133210
+    ],
+    "names": [
+      "ENTECHNOLOGIES-AS-AP - EN Technologies Pte Ltd, SG"
+    ]
+  },
+  {
+    "provider": "AS37680",
+    "slug": "as37680",
+    "file": "output/as37680.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      37680
+    ],
+    "names": [
+      "Cool Ideas Service Provider (Pty) Ltd - Cool Ideas Service Provider (Pty) Ltd, ZA"
+    ]
+  },
+  {
+    "provider": "AS4816",
+    "slug": "as4816",
+    "file": "output/as4816.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      4816
+    ],
+    "names": [
+      "CHINANET-IDC-GD - China Telecom (Group), CN"
+    ]
+  },
+  {
+    "provider": "AS54290",
+    "slug": "as54290",
+    "file": "output/as54290.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      54290
+    ],
+    "names": [
+      "HOSTWINDS - Hostwinds LLC., US"
+    ]
+  },
+  {
+    "provider": "AS206888",
+    "slug": "as206888",
+    "file": "output/as206888.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      206888
+    ],
+    "names": [
+      "HANMING-AS - HanMing HK Limited, HK"
+    ]
+  },
+  {
+    "provider": "AS203380",
+    "slug": "as203380",
+    "file": "output/as203380.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      203380
+    ],
+    "names": [
+      "DAInternationalGroup - DA International Group Ltd., BG"
+    ]
+  },
+  {
+    "provider": "AS4775",
+    "slug": "as4775",
+    "file": "output/as4775.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      4775
+    ],
+    "names": [
+      "GLOBE-TELECOM-AS - Globe Telecoms, PH"
+    ]
+  },
+  {
+    "provider": "AS976",
+    "slug": "as976",
+    "file": "output/as976.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      976
+    ],
+    "names": [
+      "CORENET - CoreNET Inc., US"
+    ]
+  },
+  {
+    "provider": "AS13444",
+    "slug": "as13444",
+    "file": "output/as13444.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      13444
+    ],
+    "names": [
+      "TRS-GL-01 - TRS, US"
+    ]
+  },
+  {
+    "provider": "AS46997",
+    "slug": "as46997",
+    "file": "output/as46997.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      46997
+    ],
+    "names": [
+      "NATOLAB - Black Mesa Corporation, US"
+    ]
+  },
+  {
+    "provider": "AS50053",
+    "slug": "as50053",
+    "file": "output/as50053.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      50053
+    ],
+    "names": [
+      "VDSKA-AS - Anton Levin, KG"
+    ]
+  },
+  {
+    "provider": "AS135951",
+    "slug": "as135951",
+    "file": "output/as135951.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      135951
+    ],
+    "names": [
+      "WEBICO-AS-VN - Webico Company Limited, VN"
+    ]
+  },
+  {
+    "provider": "AS132104",
+    "slug": "as132104",
+    "file": "output/as132104.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      132104
+    ],
+    "names": [
+      "FarsRoute-AS-AP - Fars Route Information Technology Services Company, AF"
+    ]
+  },
+  {
+    "provider": "AS138997",
+    "slug": "as138997",
+    "file": "output/as138997.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      138997
+    ],
+    "names": [
+      "EDCL-AS-AP - Eons Data Communications Limited, HK"
+    ]
+  },
+  {
+    "provider": "AS23724",
+    "slug": "as23724",
+    "file": "output/as23724.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      23724
+    ],
+    "names": [
+      "CHINANET-IDC-BJ-AP - IDC, China Telecommunications Corporation, CN"
+    ]
+  },
+  {
+    "provider": "AS142036",
+    "slug": "as142036",
+    "file": "output/as142036.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      142036
+    ],
+    "names": [
+      "HOSTEONS-AS-AP - Hosteons Pte. Ltd., SG"
+    ]
+  },
+  {
+    "provider": "AS21056",
+    "slug": "as21056",
+    "file": "output/as21056.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      21056
+    ],
+    "names": [
+      "ASN-WELCOMEITALIA - Vianova S.p.A, IT"
+    ]
+  },
+  {
+    "provider": "AS202799",
+    "slug": "as202799",
+    "file": "output/as202799.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      202799
+    ],
+    "names": [
+      "SYSECT - SYSECT D.O.O., ME"
+    ]
+  },
+  {
+    "provider": "AS214716",
+    "slug": "as214716",
+    "file": "output/as214716.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      214716
+    ],
+    "names": [
+      "WEYRO - WEYRO LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS214618",
+    "slug": "as214618",
+    "file": "output/as214618.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      214618
+    ],
+    "names": [
+      "HTB-AS - Hack The Box Single Member Private Company, GR"
+    ]
+  },
+  {
+    "provider": "AS45996",
+    "slug": "as45996",
+    "file": "output/as45996.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      45996
+    ],
+    "names": [
+      "DAOU-AS-KR-KR - DAOU TECHNOLOGY, KR"
+    ]
+  },
+  {
+    "provider": "AS137409",
+    "slug": "as137409",
+    "file": "output/as137409.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      137409
+    ],
+    "names": [
+      "GSLNETWORKS-AS-AP - GSL Networks Pty LTD, AU"
+    ]
+  },
+  {
+    "provider": "AS48040",
+    "slug": "as48040",
+    "file": "output/as48040.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      48040
+    ],
+    "names": [
+      "FORNEX-SE-AS - Fornex Hosting S.L., ES"
+    ]
+  },
+  {
+    "provider": "AS28423",
+    "slug": "as28423",
+    "file": "output/as28423.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      28423
+    ],
+    "names": [
+      "AS28423 - Truxgo S. de R.L de C.V, MX"
+    ]
+  },
+  {
+    "provider": "AS17289",
+    "slug": "as17289",
+    "file": "output/as17289.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      17289
+    ],
+    "names": [
+      "USG-PROD-WEST01 - ULTIMATE SOFTWARE GROUP, US"
+    ]
+  },
+  {
+    "provider": "AS198178",
+    "slug": "as198178",
+    "file": "output/as198178.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      198178
+    ],
+    "names": [
+      "INC-PARTNERS-365 - 365.partners INC, US"
+    ]
+  },
+  {
+    "provider": "AS852",
+    "slug": "as852",
+    "file": "output/as852.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      852
+    ],
+    "names": [
+      "ASN852 - TELUS Communications Inc., CA"
+    ]
+  },
+  {
+    "provider": "AS33387",
+    "slug": "as33387",
+    "file": "output/as33387.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      33387
+    ],
+    "names": [
+      "NOCIX - Nocix, LLC, US"
+    ]
+  },
+  {
+    "provider": "AS11179",
+    "slug": "as11179",
+    "file": "output/as11179.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      11179
+    ],
+    "names": [
+      "ARYAKA-ARIN - Aryaka Networks, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS26585",
+    "slug": "as26585",
+    "file": "output/as26585.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      26585
+    ],
+    "names": [
+      "SIAC-SFTI - Securities Industry Automation Corporation, US"
+    ]
+  },
+  {
+    "provider": "AS150895",
+    "slug": "as150895",
+    "file": "output/as150895.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      150895
+    ],
+    "names": [
+      "EZTECH-VN - EZ TECHNOLOGY COMPANY LIMITED, VN"
+    ]
+  },
+  {
+    "provider": "AS45899",
+    "slug": "as45899",
+    "file": "output/as45899.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      45899
+    ],
+    "names": [
+      "VNPT-AS-VN - VNPT Corp, VN"
+    ]
+  },
+  {
+    "provider": "AS198610",
+    "slug": "as198610",
+    "file": "output/as198610.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      198610
+    ],
+    "names": [
+      "BEGET-AS - Beget LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS204339",
+    "slug": "as204339",
+    "file": "output/as204339.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      204339
+    ],
+    "names": [
+      "FIRSTSERVER-FL-AS - FIRST SERVER LIMITED, GB"
+    ]
+  },
+  {
+    "provider": "AS36007",
+    "slug": "as36007",
+    "file": "output/as36007.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      36007
+    ],
+    "names": [
+      "KAMATERA - Kamatera, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS31234",
+    "slug": "as31234",
+    "file": "output/as31234.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      31234
+    ],
+    "names": [
+      "KRAM-AS - KRAM Ltd, UA"
+    ]
+  },
+  {
+    "provider": "AS273584",
+    "slug": "as273584",
+    "file": "output/as273584.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      273584
+    ],
+    "names": [
+      "AS273584 - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE, BR"
+    ]
+  },
+  {
+    "provider": "AS42082",
+    "slug": "as42082",
+    "file": "output/as42082.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      42082
+    ],
+    "names": [
+      "GEOCELL - JSC _Silknet_, GE"
+    ]
+  },
+  {
+    "provider": "AS213846",
+    "slug": "as213846",
+    "file": "output/as213846.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      213846
+    ],
+    "names": [
+      "nalmi-as - NALMI LIMITED, MH"
+    ]
+  },
+  {
+    "provider": "AS41508",
+    "slug": "as41508",
+    "file": "output/as41508.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      41508
+    ],
+    "names": [
+      "PL-IWACOM-AS - ZINET.NET.PL Sp. z.o.o., PL"
+    ]
+  },
+  {
+    "provider": "AS205588",
+    "slug": "as205588",
+    "file": "output/as205588.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      205588
+    ],
+    "names": [
+      "Daftare-Tablighate-Eslami - The Islamic Propagation Office of Qom Seminary, IR"
+    ]
+  },
+  {
+    "provider": "AS42474",
+    "slug": "as42474",
+    "file": "output/as42474.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      42474
+    ],
+    "names": [
+      "IL - SmartApe OU, EE"
+    ]
+  },
+  {
+    "provider": "AS8218",
+    "slug": "as8218",
+    "file": "output/as8218.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      8218
+    ],
+    "names": [
+      "NEO-ASN - Zayo Infrastructure France SA, FR"
+    ]
+  },
+  {
+    "provider": "AS214973",
+    "slug": "as214973",
+    "file": "output/as214973.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      214973
+    ],
+    "names": [
+      "axst-io - Apex Strata Ltd, IE"
+    ]
+  },
+  {
+    "provider": "AS40824",
+    "slug": "as40824",
+    "file": "output/as40824.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      40824
+    ],
+    "names": [
+      "WZ-US-40824 - Webzilla Inc., US"
+    ]
+  },
+  {
+    "provider": "AS199144",
+    "slug": "as199144",
+    "file": "output/as199144.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      199144
+    ],
+    "names": [
+      "HEXCORECLOUD-AS - HexCore cloud s.r.o., SK"
+    ]
+  },
+  {
+    "provider": "AS397423",
+    "slug": "as397423",
+    "file": "output/as397423.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      397423
+    ],
+    "names": [
+      "TIER-NET - Tier.Net Technologies LLC, US"
+    ]
+  },
+  {
+    "provider": "AS7979",
+    "slug": "as7979",
+    "file": "output/as7979.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      7979
+    ],
+    "names": [
+      "SERVERS-COM - Servers.com, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS397156",
+    "slug": "as397156",
+    "file": "output/as397156.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      397156
+    ],
+    "names": [
+      "PGEC - RURALBAND, US"
+    ]
+  },
+  {
+    "provider": "AS204942",
+    "slug": "as204942",
+    "file": "output/as204942.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      204942
+    ],
+    "names": [
+      "MifiNorx-AS - MIFINORX LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS198301",
+    "slug": "as198301",
+    "file": "output/as198301.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      198301
+    ],
+    "names": [
+      "WKD-AS - Workday Limited, IE"
+    ]
+  },
+  {
+    "provider": "AS44259",
+    "slug": "as44259",
+    "file": "output/as44259.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      44259
+    ],
+    "names": [
+      "ULTAHOST-AP-AS - Ultahost, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS400464",
+    "slug": "as400464",
+    "file": "output/as400464.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      400464
+    ],
+    "names": [
+      "VMISS - VMISS Inc., CA"
+    ]
+  },
+  {
+    "provider": "AS45062",
+    "slug": "as45062",
+    "file": "output/as45062.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      45062
+    ],
+    "names": [
+      "Netease-Network - NetEase Building No.16 Ke Yun Road,, CN"
+    ]
+  },
+  {
+    "provider": "AS204044",
+    "slug": "as204044",
+    "file": "output/as204044.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      204044
+    ],
+    "names": [
+      "Onlyservers - Packet Star Networks Limited, GB"
+    ]
+  },
+  {
+    "provider": "AS214432",
+    "slug": "as214432",
+    "file": "output/as214432.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      214432
+    ],
+    "names": [
+      "NTT-Communications-Corporation - Zhilian Technology CO., LTD., GB"
+    ]
+  },
+  {
+    "provider": "AS201988",
+    "slug": "as201988",
+    "file": "output/as201988.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      201988
+    ],
+    "names": [
+      "VPSPay-ASN - VPSPay Networks LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS214922",
+    "slug": "as214922",
+    "file": "output/as214922.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      214922
+    ],
+    "names": [
+      "FanAvaran_Mihan_Mizban - FanAvaran_Mihan_Mizban, IR"
+    ]
+  },
+  {
+    "provider": "AS200590",
+    "slug": "as200590",
+    "file": "output/as200590.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      200590
+    ],
+    "names": [
+      "asnls - NLS Kazakhstan LLC, KZ"
+    ]
+  },
+  {
+    "provider": "AS44128",
+    "slug": "as44128",
+    "file": "output/as44128.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      44128
+    ],
+    "names": [
+      "INTERNET-PRO-AS - Internet-Pro LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS58224",
+    "slug": "as58224",
+    "file": "output/as58224.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      58224
+    ],
+    "names": [
+      "TCI - Iran Telecommunication Company PJS, IR"
+    ]
+  },
+  {
+    "provider": "AS3223",
+    "slug": "as3223",
+    "file": "output/as3223.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      3223
+    ],
+    "names": [
+      "VOXILITY - Voxility LLP, GB"
+    ]
+  },
+  {
+    "provider": "AS214677",
+    "slug": "as214677",
+    "file": "output/as214677.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      214677
+    ],
+    "names": [
+      "DeluxHost - Matteo Martelloni trading as DELUXHOST, IT"
+    ]
+  },
+  {
+    "provider": "AS200220",
+    "slug": "as200220",
+    "file": "output/as200220.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      200220
+    ],
+    "names": [
+      "SERVINGA-ES - servinga GmbH, DE"
+    ]
+  },
+  {
+    "provider": "AS29873",
+    "slug": "as29873",
+    "file": "output/as29873.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      29873
+    ],
+    "names": [
+      "BIZLAND-SD - Newfold Digital, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS21887",
+    "slug": "as21887",
+    "file": "output/as21887.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      21887
+    ],
+    "names": [
+      "FIBER-LOGIC - Fiber Logic Inc., CA"
+    ]
+  },
+  {
+    "provider": "AS197477",
+    "slug": "as197477",
+    "file": "output/as197477.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      197477
+    ],
+    "names": [
+      "NERDSCAVE - Moritz Mantel trading as Nerdscave, DE"
+    ]
+  },
+  {
+    "provider": "AS210734",
+    "slug": "as210734",
+    "file": "output/as210734.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      210734
+    ],
+    "names": [
+      "IPHOSTER - IPHOSTER OU, EE"
+    ]
+  },
+  {
+    "provider": "AS212171",
+    "slug": "as212171",
+    "file": "output/as212171.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      212171
+    ],
+    "names": [
+      "Local-as - Local NCC Ltd., GB"
+    ]
+  },
+  {
+    "provider": "AS6697",
+    "slug": "as6697",
+    "file": "output/as6697.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      6697
+    ],
+    "names": [
+      "BELPAK-AS - Republican Unitary Telecommunication Enterprise Beltelecom, BY"
+    ]
+  },
+  {
+    "provider": "AS61087",
+    "slug": "as61087",
+    "file": "output/as61087.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      61087
+    ],
+    "names": [
+      "DGTL - DGTL TECH UK LLP, GB"
+    ]
+  },
+  {
+    "provider": "AS133619",
+    "slug": "as133619",
+    "file": "output/as133619.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      133619
+    ],
+    "names": [
+      "DESIVPS-AS-AP - DESIVPS, IN"
+    ]
+  },
+  {
+    "provider": "AS47330",
+    "slug": "as47330",
+    "file": "output/as47330.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      47330
+    ],
+    "names": [
+      "Mobinnet-AS - Mobin Net Communication Company (Private Joint Stock), IR"
+    ]
+  },
+  {
+    "provider": "AS57634",
+    "slug": "as57634",
+    "file": "output/as57634.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      57634
+    ],
+    "names": [
+      "SKAT-POPOVO-AS - SKAT POPOVO Ltd., BG"
+    ]
+  },
+  {
+    "provider": "AS212743",
+    "slug": "as212743",
+    "file": "output/as212743.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      212743
+    ],
+    "names": [
+      "ETERNITY-AS - Eternity International Limited, GB"
+    ]
+  },
+  {
+    "provider": "AS58329",
+    "slug": "as58329",
+    "file": "output/as58329.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      58329
+    ],
+    "names": [
+      "SERVINGA-NL - servinga GmbH, DE"
+    ]
+  },
+  {
+    "provider": "AS31500",
+    "slug": "as31500",
+    "file": "output/as31500.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      31500
+    ],
+    "names": [
+      "GNM-AS - Global Network Management Inc, AG"
+    ]
+  },
+  {
+    "provider": "AS214891",
+    "slug": "as214891",
+    "file": "output/as214891.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      214891
+    ],
+    "names": [
+      "CLOUDRIX-RU - Denis Aleksandrovich Iakovlev, RU"
+    ]
+  },
+  {
+    "provider": "AS213520",
+    "slug": "as213520",
+    "file": "output/as213520.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      213520
+    ],
+    "names": [
+      "SENKO-AS - Senko Digital LLC, GE"
+    ]
+  },
+  {
+    "provider": "AS198825",
+    "slug": "as198825",
+    "file": "output/as198825.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      198825
+    ],
+    "names": [
+      "VERYCLOUD-SAS - VERYCLOUD SAS, FR"
+    ]
+  },
+  {
+    "provider": "AS62442",
+    "slug": "as62442",
+    "file": "output/as62442.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      62442
+    ],
+    "names": [
+      "Dade-Samane-Fanava - Dade Samane Fanava Company (PJS), IR"
+    ]
+  },
+  {
+    "provider": "AS48011",
+    "slug": "as48011",
+    "file": "output/as48011.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      48011
+    ],
+    "names": [
+      "DigiTurunc - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi, TR"
+    ]
+  },
+  {
+    "provider": "AS60248",
+    "slug": "as60248",
+    "file": "output/as60248.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      60248
+    ],
+    "names": [
+      "MobinOne - Sefroyek Pardaz Engineering PJSC, IR"
+    ]
+  },
+  {
+    "provider": "AS43395",
+    "slug": "as43395",
+    "file": "output/as43395.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      43395
+    ],
+    "names": [
+      "Ertebatat-Doorbord-Fars - Pooya Parto Qeshm Cooperative Company, IR"
+    ]
+  },
+  {
+    "provider": "AS4812",
+    "slug": "as4812",
+    "file": "output/as4812.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      4812
+    ],
+    "names": [
+      "CHINANET-SH-AP - China Telecom (Group), CN"
+    ]
+  },
+  {
+    "provider": "AS49791",
+    "slug": "as49791",
+    "file": "output/as49791.txt",
+    "configs": 1,
+    "ips": 2,
+    "asns": [
+      49791
+    ],
+    "names": [
+      "AS-3HCLOUD - Newserverlife LLC, US"
+    ]
+  },
+  {
+    "provider": "AS198596",
+    "slug": "as198596",
+    "file": "output/as198596.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      198596
+    ],
+    "names": [
+      "Mojtaba-Imani - Seyed Mojtaba Imani, NL"
+    ]
+  },
+  {
+    "provider": "AS812",
+    "slug": "as812",
+    "file": "output/as812.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      812
+    ],
+    "names": [
+      "ROGERS-COMMUNICATIONS - Rogers Communications Canada Inc., CA"
+    ]
+  },
+  {
+    "provider": "AS206216",
+    "slug": "as206216",
+    "file": "output/as206216.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      206216
+    ],
+    "names": [
+      "ADVIN-AS - Advin Services LLC, US"
+    ]
+  },
+  {
+    "provider": "AS208555",
+    "slug": "as208555",
+    "file": "output/as208555.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      208555
+    ],
+    "names": [
+      "Mobinhost - Dade Pardazi Mobinhost Co LTD, IR"
+    ]
+  },
+  {
+    "provider": "AS401615",
+    "slug": "as401615",
+    "file": "output/as401615.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      401615
+    ],
+    "names": [
+      "ACCK-LTD - ACCK LLC, US"
+    ]
+  },
+  {
+    "provider": "AS209024",
+    "slug": "as209024",
+    "file": "output/as209024.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      209024
+    ],
+    "names": [
+      "MTS-CLOUD-A - MTS PJSC, RU"
+    ]
+  },
+  {
+    "provider": "AS48715",
+    "slug": "as48715",
+    "file": "output/as48715.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      48715
+    ],
+    "names": [
+      "SEFROYEKPARDAZENG-AS - Sefroyek Pardaz Engineering PJSC, IR"
+    ]
+  },
+  {
+    "provider": "AS201691",
+    "slug": "as201691",
+    "file": "output/as201691.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      201691
+    ],
+    "names": [
+      "weide - Fannavari Etelaate Samane Kavoshgar Ide Ltd., IR"
+    ]
+  },
+  {
+    "provider": "AS201106",
+    "slug": "as201106",
+    "file": "output/as201106.txt",
+    "configs": 1,
+    "ips": 4,
+    "asns": [
+      201106
+    ],
+    "names": [
+      "SPARTANHOST - Spartan Host Ltd, GB"
+    ]
+  },
+  {
+    "provider": "AS40034",
+    "slug": "as40034",
+    "file": "output/as40034.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      40034
+    ],
+    "names": [
+      "CONFLUENCE-NETWORK-INC - Confluence Networks Inc, VG"
+    ]
+  },
+  {
+    "provider": "AS38283",
+    "slug": "as38283",
+    "file": "output/as38283.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      38283
+    ],
+    "names": [
+      "CHINANET-SCIDC-AS-AP - CHINANET SiChuan Telecom Internet Data Center, CN"
+    ]
+  },
+  {
+    "provider": "AS152726",
+    "slug": "as152726",
+    "file": "output/as152726.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      152726
+    ],
+    "names": [
+      "DREAMENGINEERING-AS-AP - Dream Engineering, BD"
+    ]
+  },
+  {
+    "provider": "AS30148",
+    "slug": "as30148",
+    "file": "output/as30148.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      30148
+    ],
+    "names": [
+      "SUCURI-SEC - Sucuri, US"
+    ]
+  },
+  {
+    "provider": "AS26101",
+    "slug": "as26101",
+    "file": "output/as26101.txt",
+    "configs": 1,
+    "ips": 2,
+    "asns": [
+      26101
+    ],
+    "names": [
+      "YAHOO-BF1 - Yahoo Holdings Inc., US"
+    ]
+  },
+  {
+    "provider": "AS36647",
+    "slug": "as36647",
+    "file": "output/as36647.txt",
+    "configs": 1,
+    "ips": 2,
+    "asns": [
+      36647
+    ],
+    "names": [
+      "YAHOO-GQ1 - Yahoo Holdings Inc., US"
+    ]
+  },
+  {
+    "provider": "AS36646",
+    "slug": "as36646",
+    "file": "output/as36646.txt",
+    "configs": 1,
+    "ips": 2,
+    "asns": [
+      36646
+    ],
+    "names": [
+      "YAHOO-NE1 - Yahoo Holdings Inc., US"
+    ]
+  },
+  {
+    "provider": "AS13627",
+    "slug": "as13627",
+    "file": "output/as13627.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      13627
+    ],
+    "names": [
+      "AMBYRE - Ambyre LLC, US"
+    ]
+  },
+  {
+    "provider": "AS197234",
+    "slug": "as197234",
+    "file": "output/as197234.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      197234
+    ],
+    "names": [
+      "stylez - STYLEZ AI LTD, GB"
+    ]
+  },
+  {
+    "provider": "myLoc",
+    "slug": "myloc",
+    "file": "output/myloc.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      24961
+    ],
+    "names": [
+      "MYLOC-AS - WIIT AG, DE"
+    ]
+  },
+  {
+    "provider": "AS30900",
+    "slug": "as30900",
+    "file": "output/as30900.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      30900
+    ],
+    "names": [
+      "WEBWORLD-AS - Sternforth Ltd. trading as WebWorld, IE"
+    ]
+  },
+  {
+    "provider": "AS64050",
+    "slug": "as64050",
+    "file": "output/as64050.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      64050
+    ],
+    "names": [
+      "BGNL-HK - BGP Network Limited, HK"
+    ]
+  },
+  {
+    "provider": "AS43376",
+    "slug": "as43376",
+    "file": "output/as43376.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      43376
+    ],
+    "names": [
+      "DOTRO - DOTRO TELECOM SRL, RO"
+    ]
+  },
+  {
+    "provider": "AS44925",
+    "slug": "as44925",
+    "file": "output/as44925.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      44925
+    ],
+    "names": [
+      "THE-1984-AS - 1984 ehf, IS"
+    ]
+  },
+  {
+    "provider": "AS213468",
+    "slug": "as213468",
+    "file": "output/as213468.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      213468
+    ],
+    "names": [
+      "tietokettu - HD-decor Oy, FI"
+    ]
+  },
+  {
+    "provider": "AS137899",
+    "slug": "as137899",
+    "file": "output/as137899.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      137899
+    ],
+    "names": [
+      "ILAYERLIMITED-AS-AP - I LAYER LIMITED, HK"
+    ]
+  },
+  {
+    "provider": "AS140869",
+    "slug": "as140869",
+    "file": "output/as140869.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      140869
+    ],
+    "names": [
+      "TGL-AS-AP - Turing Group Limited, NZ"
+    ]
+  },
+  {
+    "provider": "AS152179",
+    "slug": "as152179",
+    "file": "output/as152179.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      152179
+    ],
+    "names": [
+      "GCNL-AS-AP - GLOBAL COMMUNICATION NETWORK LIMITED, HK"
+    ]
+  },
+  {
+    "provider": "AS202448",
+    "slug": "as202448",
+    "file": "output/as202448.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      202448
+    ],
+    "names": [
+      "mvps - MVPS LTD, CY"
+    ]
+  },
+  {
+    "provider": "AS210079",
+    "slug": "as210079",
+    "file": "output/as210079.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      210079
+    ],
+    "names": [
+      "EUROBYTE - EuroByte LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS34119",
+    "slug": "as34119",
+    "file": "output/as34119.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      34119
+    ],
+    "names": [
+      "WILDCARD-AS - Wildcard UK Limited, GB"
+    ]
+  },
+  {
+    "provider": "AS63150",
+    "slug": "as63150",
+    "file": "output/as63150.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      63150
+    ],
+    "names": [
+      "BAGE - BAGE CLOUD LLC, US"
+    ]
+  },
+  {
+    "provider": "AS198068",
+    "slug": "as198068",
+    "file": "output/as198068.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      198068
+    ],
+    "names": [
+      "PAGM-AS - CLOUD.DOG OU, EE"
+    ]
+  },
+  {
+    "provider": "AS59211",
+    "slug": "as59211",
+    "file": "output/as59211.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      59211
+    ],
+    "names": [
+      "ONEASIAHOST - OneAsiaHost, SG"
+    ]
+  },
+  {
+    "provider": "AS136557",
+    "slug": "as136557",
+    "file": "output/as136557.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      136557
+    ],
+    "names": [
+      "HOST-AS-AP - Host Universal Pty Ltd, AU"
+    ]
+  },
+  {
+    "provider": "AS151419",
+    "slug": "as151419",
+    "file": "output/as151419.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      151419
+    ],
+    "names": [
+      "LINKLESS-AS-AP - LINKLESS COMMUNICATIONS LIMITED, HK"
+    ]
+  },
+  {
+    "provider": "AS205399",
+    "slug": "as205399",
+    "file": "output/as205399.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      205399
+    ],
+    "names": [
+      "HOSTIGGER - Hostigger INC., US"
+    ]
+  },
+  {
+    "provider": "AS29182",
+    "slug": "as29182",
+    "file": "output/as29182.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      29182
+    ],
+    "names": [
+      "RU-JSCIOT - JSC IOT, RU"
+    ]
+  },
+  {
+    "provider": "AS219064",
+    "slug": "as219064",
+    "file": "output/as219064.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      219064
+    ],
+    "names": [
+      "Akenai-Products-AS - Akenai Products LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS6134",
+    "slug": "as6134",
+    "file": "output/as6134.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      6134
+    ],
+    "names": [
+      "XNNET - XNNET LLC, US"
+    ]
+  },
+  {
+    "provider": "AS204785",
+    "slug": "as204785",
+    "file": "output/as204785.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      204785
+    ],
+    "names": [
+      "TakeHost - Raul Ghita trading as _Ghita Telekom_, NO"
+    ]
+  },
+  {
+    "provider": "AS200823",
+    "slug": "as200823",
+    "file": "output/as200823.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      200823
+    ],
+    "names": [
+      "MHost-AS - MHost LLC, GE"
+    ]
+  },
+  {
+    "provider": "AS12734",
+    "slug": "as12734",
+    "file": "output/as12734.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      12734
+    ],
+    "names": [
+      "FIAT-AS1 - Stellantis Auto SAS, FR"
+    ]
+  },
+  {
+    "provider": "AS34959",
+    "slug": "as34959",
+    "file": "output/as34959.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      34959
+    ],
+    "names": [
+      "PROCLOUD - KVIKTEL LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS402279",
+    "slug": "as402279",
+    "file": "output/as402279.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      402279
+    ],
+    "names": [
+      "WAWO-GEOSCRY-08 - Geoscry Network LLC, US"
+    ]
+  },
+  {
+    "provider": "Huawei Cloud",
+    "slug": "huawei-cloud",
+    "file": "output/huawei-cloud.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      136907
+    ],
+    "names": [
+      "HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK"
+    ]
+  },
+  {
+    "provider": "AS6698",
+    "slug": "as6698",
+    "file": "output/as6698.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      6698
+    ],
+    "names": [
+      "virtualsystems - Virtual Systems LLC, UA"
+    ]
+  },
+  {
+    "provider": "AS50867",
+    "slug": "as50867",
+    "file": "output/as50867.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      50867
+    ],
+    "names": [
+      "ORG-LVA15-AS - HOSTKEY B.V., NL"
+    ]
+  },
+  {
+    "provider": "AS205548",
+    "slug": "as205548",
+    "file": "output/as205548.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      205548
+    ],
+    "names": [
+      "Zouter - ZOUTER LIMITED, GB"
+    ]
+  },
+  {
+    "provider": "AS1054",
+    "slug": "as1054",
+    "file": "output/as1054.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      1054
+    ],
+    "names": [
+      "ZONT-LLC - Zont LLC, US"
+    ]
+  },
+  {
+    "provider": "AS214822",
+    "slug": "as214822",
+    "file": "output/as214822.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      214822
+    ],
+    "names": [
+      "MTFINANCE-AS - MT FINANCE LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS44901",
+    "slug": "as44901",
+    "file": "output/as44901.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      44901
+    ],
+    "names": [
+      "belcloud - Belcloud LTD, BG"
+    ]
+  },
+  {
+    "provider": "AS213896",
+    "slug": "as213896",
+    "file": "output/as213896.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      213896
+    ],
+    "names": [
+      "CHERRYSERVERS6-AS - UAB _Cherry Servers_, LT"
+    ]
+  },
+  {
+    "provider": "AS200651",
+    "slug": "as200651",
+    "file": "output/as200651.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      200651
+    ],
+    "names": [
+      "FlokiNET - FlokiNET ehf, IS"
+    ]
+  },
+  {
+    "provider": "AS219464",
+    "slug": "as219464",
+    "file": "output/as219464.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      219464
+    ],
+    "names": [
+      "FORESTSNET-CLOUD - FORESTSNET LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS138195",
+    "slug": "as138195",
+    "file": "output/as138195.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      138195
+    ],
+    "names": [
+      "MOACKCOLTD-AS-AP - MOACK.Co.LTD, KR"
+    ]
+  },
+  {
+    "provider": "AS40994",
+    "slug": "as40994",
+    "file": "output/as40994.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      40994
+    ],
+    "names": [
+      "Alwyzon - Hohl IT e.U., AT"
+    ]
+  },
+  {
+    "provider": "AS13537",
+    "slug": "as13537",
+    "file": "output/as13537.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      13537
+    ],
+    "names": [
+      "MEGACOLO - Mega Colocation, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS18450",
+    "slug": "as18450",
+    "file": "output/as18450.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      18450
+    ],
+    "names": [
+      "WEBNX - WebNX, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS214998",
+    "slug": "as214998",
+    "file": "output/as214998.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      214998
+    ],
+    "names": [
+      "EMKC - Ertebatat Modern Kavir Co., IR"
+    ]
+  },
+  {
+    "provider": "AS208673",
+    "slug": "as208673",
+    "file": "output/as208673.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      208673
+    ],
+    "names": [
+      "ESTOXY-EE - ESTOXY OU, EE"
+    ]
+  },
+  {
+    "provider": "AS211507",
+    "slug": "as211507",
+    "file": "output/as211507.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      211507
+    ],
+    "names": [
+      "Aluy - Julian Achter, DE"
+    ]
+  },
+  {
+    "provider": "AS917",
+    "slug": "as917",
+    "file": "output/as917.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      917
+    ],
+    "names": [
+      "MISAKA - Misaka Network, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS60631",
+    "slug": "as60631",
+    "file": "output/as60631.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      60631
+    ],
+    "names": [
+      "PARVASYSTEM - Vandad Vira Hooman LLC, IR"
+    ]
+  },
+  {
+    "provider": "AS38333",
+    "slug": "as38333",
+    "file": "output/as38333.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      38333
+    ],
+    "names": [
+      "SYMBIO-AS-AU-AP - Symbio Networks, AU"
+    ]
+  },
+  {
+    "provider": "AS212194",
+    "slug": "as212194",
+    "file": "output/as212194.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      212194
+    ],
+    "names": [
+      "Yuusei - YUUSEI LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS29222",
+    "slug": "as29222",
+    "file": "output/as29222.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      29222
+    ],
+    "names": [
+      "Infomaniak-AS - Infomaniak Network SA, CH"
+    ]
+  },
+  {
+    "provider": "AS50214",
+    "slug": "as50214",
+    "file": "output/as50214.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      50214
+    ],
+    "names": [
+      "QWARTA - QWARTA LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS204957",
+    "slug": "as204957",
+    "file": "output/as204957.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      204957
+    ],
+    "names": [
+      "GREENFLOID-AS - ROUTE 95 LLC, US"
+    ]
+  },
+  {
+    "provider": "AS206443",
+    "slug": "as206443",
+    "file": "output/as206443.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      206443
+    ],
+    "names": [
+      "Sewim_Cloud - Sewim_Cloud, IR"
+    ]
+  },
+  {
+    "provider": "AS206411",
+    "slug": "as206411",
+    "file": "output/as206411.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      206411
+    ],
+    "names": [
+      "FASTWARP-LLP - Fastwarp LLP, GB"
+    ]
+  },
+  {
+    "provider": "AS62041",
+    "slug": "as62041",
+    "file": "output/as62041.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      62041
+    ],
+    "names": [
+      "Telegram - Telegram Messenger Inc, VG"
+    ]
+  },
+  {
+    "provider": "AS9930",
+    "slug": "as9930",
+    "file": "output/as9930.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      9930
+    ],
+    "names": [
+      "TTNET-MY - TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY"
+    ]
+  },
+  {
+    "provider": "AS57169",
+    "slug": "as57169",
+    "file": "output/as57169.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      57169
+    ],
+    "names": [
+      "EDIS-AS-EU - EDIS GmbH, AT"
+    ]
+  },
+  {
+    "provider": "AS50049",
+    "slug": "as50049",
+    "file": "output/as50049.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      50049
+    ],
+    "names": [
+      "RSL-AS-AP - RedSwitches, NL"
+    ]
+  },
+  {
+    "provider": "AS11878",
+    "slug": "as11878",
+    "file": "output/as11878.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      11878
+    ],
+    "names": [
+      "TZULO - tzulo, inc., US"
+    ]
+  },
+  {
+    "provider": "AS203476",
+    "slug": "as203476",
+    "file": "output/as203476.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      203476
+    ],
+    "names": [
+      "GANDI-AS-2 - GANDI SAS, FR"
+    ]
+  },
+  {
+    "provider": "AS38042",
+    "slug": "as38042",
+    "file": "output/as38042.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      38042
+    ],
+    "names": [
+      "SDCL-AS-AP - Sky Digital Co., Ltd., TW"
+    ]
+  },
+  {
+    "provider": "AS203534",
+    "slug": "as203534",
+    "file": "output/as203534.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      203534
+    ],
+    "names": [
+      "On1x - Erik Omarov, KZ"
+    ]
+  },
+  {
+    "provider": "AS131630",
+    "slug": "as131630",
+    "file": "output/as131630.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      131630
+    ],
+    "names": [
+      "LAZCO - Lazco Corporation, TW"
+    ]
+  },
+  {
+    "provider": "AS207713",
+    "slug": "as207713",
+    "file": "output/as207713.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      207713
+    ],
+    "names": [
+      "GIR-AS - GLOBAL INTERNET SOLUTIONS LLC, RU"
+    ]
+  },
+  {
+    "provider": "AS218732",
+    "slug": "as218732",
+    "file": "output/as218732.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      218732
+    ],
+    "names": [
+      "rapidoserver - Sajjad Khazaei, IR"
+    ]
+  },
+  {
+    "provider": "AS204427",
+    "slug": "as204427",
+    "file": "output/as204427.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      204427
+    ],
+    "names": [
+      "TWC-US - Timeweb, LLP, KZ"
+    ]
+  },
+  {
+    "provider": "AS206134",
+    "slug": "as206134",
+    "file": "output/as206134.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      206134
+    ],
+    "names": [
+      "NEKO-AS - NEKOBYTE INTERNATIONAL LIMITED, GB"
+    ]
+  },
+  {
+    "provider": "AS207043",
+    "slug": "as207043",
+    "file": "output/as207043.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      207043
+    ],
+    "names": [
+      "DEDIK-IO - DEDIK SERVICES LIMITED, GB"
+    ]
+  },
+  {
+    "provider": "AS202792",
+    "slug": "as202792",
+    "file": "output/as202792.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      202792
+    ],
+    "names": [
+      "CLOUD-TRANSIT - Clouvider Limited, GB"
+    ]
+  },
+  {
+    "provider": "AS400992",
+    "slug": "as400992",
+    "file": "output/as400992.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      400992
+    ],
+    "names": [
+      "ZHOUYISAT-COMMUNICATIONS - ZhouyiSat Communications, US"
+    ]
+  },
+  {
+    "provider": "AS12389",
+    "slug": "as12389",
+    "file": "output/as12389.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      12389
+    ],
+    "names": [
+      "ROSTELECOM-AS - PJSC Rostelecom, RU"
+    ]
+  },
+  {
+    "provider": "AS214640",
+    "slug": "as214640",
+    "file": "output/as214640.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      214640
+    ],
+    "names": [
+      "HOSTUP - Hostup AB, SE"
+    ]
+  },
+  {
+    "provider": "AS60404",
+    "slug": "as60404",
+    "file": "output/as60404.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      60404
+    ],
+    "names": [
+      "Liteserver - The Infrastructure Group B.V., NL"
+    ]
+  },
+  {
+    "provider": "AS49556",
+    "slug": "as49556",
+    "file": "output/as49556.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      49556
+    ],
+    "names": [
+      "webdade - Web Dadeh Paydar Co (Ltd), IR"
+    ]
+  },
+  {
+    "provider": "AS201814",
+    "slug": "as201814",
+    "file": "output/as201814.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      201814
+    ],
+    "names": [
+      "Mevspace - MEVSPACE sp. z o.o., PL"
+    ]
+  },
+  {
+    "provider": "AS55799",
+    "slug": "as55799",
+    "file": "output/as55799.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      55799
+    ],
+    "names": [
+      "IPTELECOM-AP - IPTELECOM ASIA, MY"
+    ]
+  },
+  {
+    "provider": "AS395126",
+    "slug": "as395126",
+    "file": "output/as395126.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      395126
+    ],
+    "names": [
+      "BECKS - Beck_s Superior Hybrids, Inc., US"
+    ]
+  },
+  {
+    "provider": "AS197715",
+    "slug": "as197715",
+    "file": "output/as197715.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      197715
+    ],
+    "names": [
+      "Serverbike - Serverbike LTD, GB"
+    ]
+  },
+  {
+    "provider": "Netcup",
+    "slug": "netcup",
+    "file": "output/netcup.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      197540
+    ],
+    "names": [
+      "netcup-AS - netcup GmbH, DE"
+    ]
+  },
+  {
+    "provider": "AS401701",
+    "slug": "as401701",
+    "file": "output/as401701.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      401701
+    ],
+    "names": [
+      "COGNETCLOUD-2 - cognetcloud INC, US"
+    ]
+  },
+  {
+    "provider": "AS208006",
+    "slug": "as208006",
+    "file": "output/as208006.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      208006
+    ],
+    "names": [
+      "ARVANCLOUD-CDN - ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C, AE"
+    ]
+  },
+  {
+    "provider": "AS19424",
+    "slug": "as19424",
+    "file": "output/as19424.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      19424
+    ],
+    "names": [
+      "CV-NET-1 - Cars Commerce, US"
+    ]
+  },
+  {
+    "provider": "AS203516",
+    "slug": "as203516",
+    "file": "output/as203516.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      203516
+    ],
+    "names": [
+      "AltunHOST - AltunHOST LTD, GB"
+    ]
+  },
+  {
+    "provider": "AS205282",
+    "slug": "as205282",
+    "file": "output/as205282.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      205282
+    ],
+    "names": [
+      "ie-tildapublishing-1 - TILDA PLATFORM CLOUD SERVICES CO. L.L.C, AE"
+    ]
+  },
+  {
+    "provider": "AS206446",
+    "slug": "as206446",
+    "file": "output/as206446.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      206446
+    ],
+    "names": [
+      "CLOUDLEASE - CLOUD LEASE Ltd, IL"
+    ]
+  },
+  {
+    "provider": "AS9498",
+    "slug": "as9498",
+    "file": "output/as9498.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      9498
+    ],
+    "names": [
+      "BBIL-AP - BHARTI Airtel Ltd., IN"
+    ]
+  },
+  {
+    "provider": "AS198651",
+    "slug": "as198651",
+    "file": "output/as198651.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      198651
+    ],
+    "names": [
+      "HOSTLINE - HOSTLINE, UAB, LT"
+    ]
+  },
+  {
+    "provider": "AS43541",
+    "slug": "as43541",
+    "file": "output/as43541.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      43541
+    ],
+    "names": [
+      "VSHOSTING - VSHOSTING-CDN, CZ"
+    ]
+  },
+  {
+    "provider": "AS210779",
+    "slug": "as210779",
+    "file": "output/as210779.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      210779
+    ],
+    "names": [
+      "BZL - BREEZLE LLC, US"
+    ]
+  },
+  {
+    "provider": "AS54994",
+    "slug": "as54994",
+    "file": "output/as54994.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      54994
+    ],
+    "names": [
+      "ML-1432-54994 - Meteverse Limited., CA"
+    ]
+  },
+  {
+    "provider": "AS328486",
+    "slug": "as328486",
+    "file": "output/as328486.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      328486
+    ],
+    "names": [
+      "Old Mutual Life Assurance Company (South Africa) Limited - Old Mutual Life Assurance Company (South Africa) Limited, ZA"
+    ]
+  },
+  {
+    "provider": "AS27257",
+    "slug": "as27257",
+    "file": "output/as27257.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      27257
+    ],
+    "names": [
+      "WEBAIR-INTERNET - Webair Internet Development Company Inc., US"
+    ]
+  },
+  {
+    "provider": "AS58262",
+    "slug": "as58262",
+    "file": "output/as58262.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      58262
+    ],
+    "names": [
+      "Nrp-Network - Negah Roshan Pars Company (PJS), IR"
+    ]
+  },
+  {
+    "provider": "AS41378",
+    "slug": "as41378",
+    "file": "output/as41378.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      41378
+    ],
+    "names": [
+      "KirinoNET - Kirino LLC, US"
+    ]
+  },
+  {
+    "provider": "AS39798",
+    "slug": "as39798",
+    "file": "output/as39798.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      39798
+    ],
+    "names": [
+      "MivoCloud - MivoCloud SRL, MD"
+    ]
+  },
+  {
+    "provider": "AS59279",
+    "slug": "as59279",
+    "file": "output/as59279.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      59279
+    ],
+    "names": [
+      "IDNIC-RMI-AS-ID - PT Raja Mitra Informatika, ID"
+    ]
+  },
+  {
+    "provider": "AS25693",
+    "slug": "as25693",
+    "file": "output/as25693.txt",
+    "configs": 1,
+    "ips": 1,
+    "asns": [
+      25693
+    ],
+    "names": [
+      "VIRMACH - Virtual Machine Solutions LLC, US"
+    ]
+  }
+]

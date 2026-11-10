@@ -1,0 +1,2 @@
+vless://18615aac-72e2-451b-b7c8-b492e63cf65a@185.242.113.75:443?path=/jx-8c3iiq92bemzqp&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Unknown%20%7C%20185.242.113.75%3A443
+vless://f201e0a2-0d5d-4068-ab63-6d0133d06b0f@45.85.218.45:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ams.servervless.de&type=ws&sni=ams.servervless.de#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Unknown%20%7C%2045.85.218.45%3A443

@@ -1,0 +1,1 @@
+trojan://psdB6gtoBT5oA4OoVa2djA@46.226.105.194:443?security=tls&sni=ovh2.alemttv.online&type=ws&host=ovh2.alemttv.online&path=%2F&fp=chrome&alpn=h3#🔒

@@ -1,0 +1,1 @@
+trojan://9b934dc3-e441-4e5c-97d6-681747d4d966@185.239.48.207:443?path=/Free-VPN-CF-Geo-Project/185.239.48.207=443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20-%20Rosh%20Ha%E2%80%98Ayin%20%7C%20185.239.48.207%3A443

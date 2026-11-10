@@ -1,0 +1,1 @@
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@31.57.190.17:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&alpn=http%2F1.1&type=ws&host=a.cwvps.eu.org&path=%2Fws#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Unknown%20%7C%2031.57.190.17%3A443

@@ -1,0 +1,1 @@
+trojan://43716b3b-df44-409e-beff-e571e39a889c@193.163.85.39:443?security=tls&sni=platyscelis.duckdns.org&type=ws&path=%2Fvpn#🔒

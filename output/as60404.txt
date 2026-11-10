@@ -1,0 +1,1 @@
+trojan://E2hdVoElK6qS7AvxEKbot5lBsX00vZqb@5.2.77.93:443?security=tls&sni=ws.universall.shop&type=ws&host=ws.universall.shop&path=%2Fen%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒

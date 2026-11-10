@@ -1,0 +1,2 @@
+vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?path=%2Fsequre%2Fws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=213.21.222.28.speed-storage.ru#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20-%20Unknown%20%7C%20213.21.222.28.speed-storage.ru%3A443
+vless://8de0e6f4-d365-fa64-d5ba-eed9ea513e06@91.239.23.241:443?security=tls&sni=latvia-3.kochvpn.pw&type=ws&path=%2Fstream%2Fws&fp=firefox#🔒

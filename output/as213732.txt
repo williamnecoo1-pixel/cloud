@@ -1,0 +1,2 @@
+vless://deadac90-e06c-5e09-84b2-f7e76d835ec8@37.32.44.70:443?security=tls&sni=live-saadi2301.telewebion.ir&type=ws&host=vod.ufduiudud.site&path=/p/tr/2/l/w/DGo7mTTWL/zUsdQy&fp=chrome&alpn=http/1.1&allowInsecure=0#🔒
+vless://34356465-3038-4138-b664-353865316639@37.32.44.67:443?security=tls&sni=dl.namava.ir&type=ws&host=dl.namava.ir&allowInsecure=0#🔒

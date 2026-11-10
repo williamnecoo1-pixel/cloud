@@ -1,0 +1,2 @@
+vless://56ed7930-c400-5c8b-8eba-e888a329204b@209.200.246.157:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=209.200.246.157&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%7C%20209.200.246.157%3A443
+vless://e7099864-b110-493c-9541-4a4638dc8299@146.103.42.161:443?security=tls&sni=de.hvumyrpstghekb.top&type=ws&path=%2FjryRJzwfISH4eaAVKgp2Zfw&fp=safari&alpn=http%2F1.1#🔒

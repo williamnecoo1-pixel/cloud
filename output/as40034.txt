@@ -1,0 +1,1 @@
+vless://2a9c29ab-9610-5f8b-85e3-c5a07dd20f32@www.speedteat.net:443?path=%2Fvless&security=tls&encryption=none&host=fr2.vless.site&type=ws&sni=fr2.vless.site#%F0%9F%87%BB%F0%9F%87%AC%20British%20Virgin%20Islands%20-%20Unknown%20%7C%20www.speedteat.net%3A443

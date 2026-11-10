@@ -1,0 +1,1 @@
+vless://Telegram%3A%40Free_VPN_CH@185.139.228.126:443?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%7C%20185.139.228.126%3A443
