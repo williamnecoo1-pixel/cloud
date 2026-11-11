@@ -1,5 +1,5 @@
-vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@site.walking-with-death.space:443?alpn=http%2F1.1&fp=chrome&host=site.walking-with-death.space&path=%2F&security=tls&sni=site.walking-with-death.space&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Tehran%20%7C%20site.walking-with-death.space%3A443
 vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@46.209.55.29:443?security=tls&sni=site.walking-with-death.space&type=ws&host=site.walking-with-death.space&path=/&fp=chrome&alpn=http/1.1&allowInsecure=0#🔒
+vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@site.walking-with-death.space:443?alpn=http%2F1.1&fp=chrome&host=site.walking-with-death.space&path=%2F&security=tls&sni=site.walking-with-death.space&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Tehran%20%7C%20site.walking-with-death.space%3A443
 vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@site.walking-with-death.space:443?alpn=http%2F1.1&fp=chrome&host=site.walking-with-death.space&path=%2F&security=tls&sni=site.walking-with-death.space&type=ws#4Sarina-826a07a487
 vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@client.walking-with-death.space:2083?alpn=http%2F1.1&fp=chrome&host=client.walking-with-death.space&path=%2F&security=tls&sni=client.walking-with-death.space&type=ws#4Nika-8d5f494f13
 vless://cc7a30b9-a661-4a22-b5a2-74fe5fef0851@opt.walking-with-death.space:2096?alpn=http%2F1.1&fp=chrome&host=opt.walking-with-death.space&path=%2F&security=tls&sni=opt.walking-with-death.space&type=ws#4Kian-0fd7239075
@@ -34,6 +34,6 @@ vless://3d0b7807-bac3-4335-bde5-24b3ee48cd82@5.160.35.248:5211?security=none&typ
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.249:6787?security=none&type=tcp&headerType=http#🔒
 vless://3d0b7807-bac3-4335-bde5-24b3ee48cd82@5.160.35.247:5211?security=none&type=tcp&headerType=http#🔒
 vless://5c65ddb9-041f-4df9-8416-d0b02b10aee5@5.160.35.247:5075?security=none&type=tcp&headerType=http#🔒
-vless://f6f6693f-365c-4ec0-bd1e-ebe9406ba595@5.160.35.250:5149?security=none&type=tcp&headerType=http#🔒
 vless://d5fdc459-436b-459d-beda-b06d70c93af1@5.160.35.249:5131?security=none&type=tcp&headerType=http#🔒
 vless://724c9e7f-5d7c-4fe8-bdc5-aae05d2f8664@5.160.35.246:5106?security=none&type=tcp&headerType=http#🔒
+vless://f6f6693f-365c-4ec0-bd1e-ebe9406ba595@5.160.35.250:5149?security=none&type=tcp&headerType=http#🔒

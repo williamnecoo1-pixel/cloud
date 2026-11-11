@@ -1,1 +1,2 @@
+vmess://eyJ2IjogIjIiLCAicHMiOiAiNTlf5Lit5Zu9LTEzLjg4TUIiLCAiYWRkIjogImhuY3UuZG9uZ2h1aS50ZWNoIiwgInBvcnQiOiAiNjExMjYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjE1OTE4OTBkLWVjMzMtNDE1OC04NDNlLThjNjc3MDhjYTkyZCJ9
 vless://286caff5-bc58-42f2-f707-e779dd66b7b4@i1.tikaltk.xyz:1515?path=/&security=&encryption=none&host=tamasha.com&type=ws#vless-30501

@@ -1,1 +1,2 @@
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@202.43.102.57:443?allowInsecure=1&sni=45.32.28.232#%F0%9F%87%B2%F0%9F%87%BE%20%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@my.singaporenodeserverone.kyiv.ua:443/?type=tcp&security=tls&sni=45.32.28.232#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF

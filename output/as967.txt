@@ -1,12 +1,10 @@
 trojan://Aimer@38.207.172.42:443?sni=agepj.ambercc.filegear-sg.me&type=tcp#@DeltaKroneckerGithub
-vless://64726966-0000-4000-8000-740000000000@103.247.28.203:443?security=tls&sni=parsa-panel-dy55x.railway1385-2a46.workers.dev&type=ws&host=parsa-panel-dy55x.railway1385-2a46.workers.dev&path=%2F&fp=firefox&allowInsecure=0#🔒
-vless://a6b0a207-5286-42a5-a98c-09761fc0afdb@38.55.107.91:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
-vless://40a97dff-33f6-47dc-8022-54a9a1a0d5a1@45.221.115.170:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
-vless://0b44f7c5-398f-4ff2-b970-9c08d25f2efc@209.146.114.46:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
-vless://830e557e-2354-4bc9-b81e-72f18f193190@91.213.174.82:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
-vless://b2dea4aa-632f-4ff8-a7a6-e8faf9ba2bc6@38.207.160.40:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
 trojan://va3E77I9fZCnCVcGKkxBCfz5@186.241.105.213:443?allowInsecure=0&sni=vpn.liumr.top#@vpnclashfa
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443?security=tls&sni=www.bilibili.com&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0HK_3%20%7C%20%E2%AC%87%EF%B8%8F%202.7MB%2Fs
+vless://b2dea4aa-632f-4ff8-a7a6-e8faf9ba2bc6@38.207.160.40:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
+vless://dc6cec4a-6c3f-44d9-bc3d-31ff65ec926d@91.213.189.132:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
+vless://0b44f7c5-398f-4ff2-b970-9c08d25f2efc@209.146.114.46:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
+vless://64726966-0000-4000-8000-740000000000@103.247.28.203:443?security=tls&sni=parsa-panel-dy55x.railway1385-2a46.workers.dev&type=ws&host=parsa-panel-dy55x.railway1385-2a46.workers.dev&path=%2F&fp=firefox&allowInsecure=0#🔒
 trojan://Aimer@38.207.172.42:443?sni=agepj.ambercc.filegear-sg.me&type=tcp#HK
 vmess://eyJhZGQiOiIyMDYuMjM3LjExLjE3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5MDkxZmQ2NC03ZThlLTRiN2EtOGFlNy04NDQ3NGYyMzQ5MjYiLCJuZXQiOiJub25lIiwicGF0aCI6IiIsInBvcnQiOiI1MDM3NiIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgRUU3QTVBIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgQkYyREM4IiwiYWRkIjoiMjMuMjM2LjY5LjM5IiwicG9ydCI6IjI0MTg3IiwidHlwZSI6Im5vbmUiLCJpZCI6IjEyYThlZTM2LTU5MzYtNDQ0OS05MGJkLWI1ZWFjNmRiNGMxZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

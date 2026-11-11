@@ -83,4 +83,5 @@ trojan://63872b0d-87dd-4474-b690-92773af2922e@d3.catcat321.com:20083?sni=sg.catx
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20056?sni=hk.catxstar.com&type=tcp#trojan-1872078933
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?type=raw&security=tls&sni=hk.catxstar.com&fp=android&headertype=none#GB
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@217.217.222.230:20123?sni=hk.catxstar.com&allowInsecure=0#GB
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@217.217.222.230:20123?allowInsecure=0&type=tcp&security=tls&fp=chrome&sni=hk.catxstar.com#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 vless://ed0b0682-5734-4a50-8728-db68d44a1b94@103.190.232.236:443?encryption=none&security=tls&sni=nvl-edge-dr-141026.pages.dev&fp=chrome&type=ws&host=nvl-edge-dr-141026.pages.dev&path=%2Fproxyip%3DProxyIP.HK.CMLiussss.Net#tls-ws_7968

@@ -1,0 +1,1 @@
+trojan://8GXLP3dEzm7T8wP5Jx0Ufg@199.107.164.105:443?security=tls&sni=quictest.burncommunity.ru&type=ws&host=quictest.burncommunity.ru&path=%2F&fp=random&alpn=http%2F1.1&allowInsecure=1#🔒

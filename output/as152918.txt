@@ -1,5 +1,3 @@
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@23.141.52.169:443/?type=ws&host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome#
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@23.141.12.134:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#HK
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@23.141.12.134:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#[🛜]
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@23.141.12.134:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#🇭🇰
+vless://aa559aef-0db6-4d68-850f-206b6cd2079f@185.92.47.93:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
 vless://8273201d-45fa-3e29-beb5-f2c79bc23bf5@185.92.47.57:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=82ee2658s70.csgfw.top&fp=chrome&security=reality&pbk=O2f0dq8rg1CuixizZDC226RZzUWFMNg2qjMSHwPP20Y&sid=74ee5f64#4Jadi-f35f3a57a3

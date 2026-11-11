@@ -1,6 +1,7 @@
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk010.zestapp778.com#%5A%69%6B%6B%4F%56%70%6E%42%6F%74%20%7C%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@cranberry.timing.singer.aliyunglsb.com:37062?sni=steampipe.akamaized.net&type=tcp#@DeltaKroneckerGithub
 trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@radiance.occupy.hefty.aliyunglsb.com:12240?sni=www.microsoft365.com&type=tcp#@DeltaKroneckerGithub
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk010.zestapp778.com#%5A%69%6B%6B%4F%56%70%6E%42%6F%74%20%7C%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://8f27a9e5-b5fe-4ac9-9238-7e6cc245897c@152.175.7.30:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
 trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@cranberry.timing.singer.aliyunglsb.com:37062?sni=steampipe.akamaized.net&type=tcp#HK
 trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@radiance.occupy.hefty.aliyunglsb.com:12240?sni=www.microsoft365.com&type=tcp#SG
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?encryption=none&security=tls&sni=hk010.zestapp778.com&fp=chrome&type=tcp&headerType=none#HK%20VLESS-14%20%7C%20free-nodes

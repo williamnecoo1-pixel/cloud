@@ -3,10 +3,11 @@ trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1
 trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?sni=64.74.163.118&fp=chrome&allowInsecure=1&type=tcp#@DeltaKroneckerGithub
 trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@Vip_Security
 trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?allowInsecure=1&sni=static.rutube.ru#@Vip_Security
-trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?allowInsecure=1&sni=static.rutube.ru#4Mohsen-4778
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#4Mohsen-4780
 trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&sni=static.rutube.ru#4Mohsen-4779
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#4Mohsen-4780
+trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?allowInsecure=1&sni=static.rutube.ru#4Mohsen-4778
 trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1&type=tcp#US
 trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1&sni=66.23.203.21&type=tcp#US
-trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?sni=66.23.203.21&allowInsecure=1&type=tcp&fp=chrome#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142/?type=tcp&security=tls&sni=64.94.95.118#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
+trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1&sni=#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 vless://c40ed630-4c4f-49d0-9ef3-362e802d47fc@usanode.velox-network.org:443?encryption=none&security=reality&pbk=3XDozLVIfNqaBb7viWiGxeraYaD7N0ejmmOpjPIV100&sid=a1ab5a56bcca12&sni=usanode.velox-network.org&fp=firefox&type=tcp&flow=xtls-rprx-vision#@DeltaKroneckerGithub

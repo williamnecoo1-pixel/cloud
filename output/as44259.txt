@@ -1,3 +1,4 @@
-vless://c1f5e91c-79e7-5135-b191-1056cff6e91e@38.89.142.153:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.89.142.153&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Jurong%20Town%20%7C%2038.89.142.153%3A443
 trojan://030ba667-fde3-498d-99bb-9a0187519dcf@192.142.4.64:40387?security=tls&sni=cdn.alibaba.com&type=tcp#🔒
 trojan://0f73d067-8fac-4bf4-a08e-ca2434ef5086@192.142.4.64:42405?security=tls&sni=cdn.alibaba.com&type=tcp#🔒
+vless://c1f5e91c-79e7-5135-b191-1056cff6e91e@38.89.142.153:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.89.142.153&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Jurong%20Town%20%7C%2038.89.142.153%3A443
+vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@192.142.4.33:8443/?type=ws&encryption=none&flow=&host=5465765525.ccfly.tech&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=5465765525.ccfly.tech&fp=chrome#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF

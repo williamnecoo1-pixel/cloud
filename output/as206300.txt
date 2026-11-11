@@ -1,11 +1,10 @@
 trojan://5KdDtpoJI58OTsoG0PwEYunqB0mkAEDm@161.114.15.215:30502?sni=www.cloudflare.com&allowInsecure=1&type=tcp#@DeltaKroneckerGithub
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@212.17.236.177:443?allowInsecure=1&sni=api.85s.me&ws=1&wspath=%2F#@DeltaKroneckerGithub
 trojan://5KdDtpoJI58OTsoG0PwEYunqB0mkAEDm@161.114.15.215:30502?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20of%20America%20%E2%80%A2%201944.5ms%20%E2%80%A2%20mrdevmohamed
-trojan://5KdDtpoJI58OTsoG0PwEYunqB0mkAEDm@161.114.15.215:30502?sni=www.cloudflare.com&allowInsecure=1&type=tcp#US
+trojan://5KdDtpoJI58OTsoG0PwEYunqB0mkAEDm@161.114.15.215:30502?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#US
 vless://fb69a6b9-980c-48c2-a94f-5f95868a2d2a@161.114.14.173:21899?flow=xtls-rprx-vision&fp=firefox&pbk=kvLUYW6fwHXutu8Z4On6mi61kjslCyCc8ErFffUM1D0&security=reality&sid=dedce016e3671418&sni=yahoo.com&type=tcp#US
 vless://fb69a6b9-980c-48c2-a94f-5f95868a2d2a@161.114.14.46:21899?flow=xtls-rprx-vision&fp=firefox&pbk=kvLUYW6fwHXutu8Z4On6mi61kjslCyCc8ErFffUM1D0&security=reality&sid=dedce016e3671418&sni=yahoo.com&type=tcp#US
-vless://25b3faeb-89b0-4dff-b0a3-0e70997dc962@103.193.173.51:39485/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=pzmFiyOtVaKJpJlXYC_hJcDw0hiPvPZ661uZn4NO0Xs&sid=b9#EPODONIOS
-vless://25b3faeb-89b0-4dff-b0a3-0e70997dc962@103.193.173.51:39485/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=pzmFiyOtVaKJpJlXYC_hJcDw0hiPvPZ661uZn4NO0Xs&sid=b9#
+trojan://5KdDtpoJI58OTsoG0PwEYunqB0mkAEDm@161.114.15.215:30502?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 vless://fb69a6b9-980c-48c2-a94f-5f95868a2d2a@161.114.14.97:21899/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=kvLUYW6fwHXutu8Z4On6mi61kjslCyCc8ErFffUM1D0&sid=dedce016e3671418#%40FREE2CONFIG%20-%20206
 vless://7aa3a024-e333-4b63-99a2-3db9d3b2054e@161.114.13.225:14451?type=ws&security=none&path=%2F&host=a.189.cn#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
 vless://fb69a6b9-980c-48c2-a94f-5f95868a2d2a@161.114.14.173:21899?flow=xtls-rprx-vision&fp=firefox&pbk=kvLUYW6fwHXutu8Z4On6mi61kjslCyCc8ErFffUM1D0&security=reality&sid=dedce016e3671418&sni=yahoo.com&type=tcp#vless-1943748890

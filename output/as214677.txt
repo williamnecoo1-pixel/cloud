@@ -1,5 +1,4 @@
 vmess://eyJhZGQiOiJteXZwc2hvc3RpbmcubmFtZS5uZyIsImFpZCI6MCwiaG9zdCI6Im15dnBzaG9zdGluZy5uYW1lLm5nIiwiaWQiOiI5NjQwOGY5YS1kZjAzLTQ0OGItYjdlNC1lYzhlMmMyMTY2ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn4yQIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098u7dae9c0cs220.gogocs.xyz&type=tcp&headerType=none&path=%2F#
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&security=tls&sni=u695098u7dae9c0cs220.gogocs.xyz&type=tcp#4Nika-5a6625cf1a
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s170.gogocs.xyz:443?security=tls&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#[469ms
 vless://723345e4-9c1b-4d92-a349-7c3742f9b61a@141.11.167.220:28737?mode=stream-one&path=/&security=none&encryption=none&extra={

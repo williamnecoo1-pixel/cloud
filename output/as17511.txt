@@ -1,4 +1,4 @@
+trojan://df283334-6f6e-4efb-9a8a-b8ecf3040924@150.66.13.75:443?security=tls&sni=tk15.1coinvp.vip&allowInsecure=1&type=tcp#4Sarina-4911
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@101.142.129.72:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20%C5%8Ctsu%20%7C%20101.142.129.72%3A443
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@101.142.129.72:443?encryption=none&security=tls&sni=shuma.ccwu.cc&fp=chrome&type=ws&host=shuma.ccwu.cc&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20%C5%8Ctsu%20%7C%20101.142.129.72%3A443%205
-trojan://df283334-6f6e-4efb-9a8a-b8ecf3040924@150.66.13.75:443?security=tls&sni=tk15.1coinvp.vip&allowInsecure=1&type=tcp#4Sarina-4911
 vmess://eyJhZGQiOiAibWF4MjYuZmxhc2g1Zy5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiaG9zdCI6ICJtYXgyNi5mbGFzaDVnLmNvbSIsICJpZCI6ICI0ZTI1ZjkxZi02MDNjLTRlODMtYjAwMi1jMjYwMzA3NTc4MTYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0FuaEJpbiIsICJwb3J0IjogIjgwIiwgInBzIjogIjRNb2hzZW4tMTY3NDUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==

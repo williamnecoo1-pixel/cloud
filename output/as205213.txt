@@ -1,1 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime18.workers.dev&type=ws#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime18.workers.dev&type=ws

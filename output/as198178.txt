@@ -1,10 +1,9 @@
-trojan://d3a97c92-a3b6-42fa-9f11-102084d654b3@138.124.107.35:443?path=/Free-VPN-CF-Geo-Project/138.124.107.35=443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20-%20Ankara%20%7C%20138.124.107.35%3A443
 trojan://d3a97c92-a3b6-42fa-9f11-102084d654b3@138.124.107.35:443?security=tls&sni=joss.gpj.web.id&type=ws&host=joss.gpj.web.id&fp=randomized#🔒
 trojan://8r%3C%5B9%27l6hAO%238ZQi@195.93.253.207:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#
 trojan://8r%3C%5B9%27l6hAO%238ZQi@195.93.253.207:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#
 trojan://Aimer@195.246.110.37:443?sni=agepq.ambercc.filegear-sg.me#🔒
+trojan://d3a97c92-a3b6-42fa-9f11-102084d654b3@138.124.107.35:443?path=/Free-VPN-CF-Geo-Project/138.124.107.35=443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20-%20Ankara%20%7C%20138.124.107.35%3A443
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#NL
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.128.99.24:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.indevs.in#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#[🛜]
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.93.253.207:2053/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.indevs.in
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.93.253.207:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL

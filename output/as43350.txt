@@ -4,8 +4,8 @@ trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.55:443?security=tls&sni
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?security=tls&sni=trus.moonfree.top&type=tcp#@DeltaKroneckerGithub
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.195:443?security=tls&sni=trus.moonfree.top#🔒
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.194:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@77.247.179.89:443?security=tls&sni=jp-h1.sshub.xyz&allowInsecure=1#🔒
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.192:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒
+trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@77.247.179.89:443?security=tls&sni=jp-h1.sshub.xyz&allowInsecure=1#🔒
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@77.247.179.86:443?security=tls&sni=jp-h1.sshub.xyz&allowInsecure=1#🔒
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?security=tls&sni=trus.moonfree.top&type=tcp#NL
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.53:443?security=tls&sni=trus.moonfree.top&type=tcp#NL

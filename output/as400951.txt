@@ -37,8 +37,8 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:45619?security=tls&
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:46424?security=tls&sni=de.01.naiun.bilibili.com#🇩🇪
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:48697?security=tls&sni=gh.01.naiun.bilibili.com#🇬🇭
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:46424?security=tls&sni=de.01.naiun.bilibili.com#🇩🇪
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.82:47909?security=tls&sni=is.01.naiun.bilibili.com#🇮🇸
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.88:47909?security=tls&sni=is.01.naiun.bilibili.com#🇮🇸
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.82:47909?security=tls&sni=is.01.naiun.bilibili.com#🇮🇸
 trojan://239dd177-86d8-4752-b311-054668080798@cn2hn.sub-nthu.com:35002#US
 trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@ngzydd.sub-zrj.com:121?sni=streaming.sub-zrj.com&type=tcp#US
 trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@ngzydd.sub-zrj.com:222?sni=streaming.sub-zrj.com&type=tcp#US

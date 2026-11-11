@@ -1,3 +1,5 @@
-vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?security=none&type=tcp&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2079
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?security=none&type=tcp&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2083
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?security=none&type=tcp&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2072
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?security=none&type=tcp&fp=chrome&encryption=none#055-%F0%9F%87%BA%F0%9F%87%B8%20US%20tcp%20%E2%9C%82%EF%B8%8F@GheychiAmoozesh
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?security=none&type=tcp&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2079
 vless://0395a16c-cb48-4614-bf19-7bf9ac7aed41@115.190.19.83:29185/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=Ox0EsEq7UYtFUy24Wg3_84XvN4gl3HhH21eX0nPj4x4&sid=689a9a#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Unknown%20%7C%20115.190.19.83%3A29185

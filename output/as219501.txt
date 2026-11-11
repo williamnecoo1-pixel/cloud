@@ -1,4 +1,5 @@
 vless://e3aa3d22-a95e-407b-aacc-d855b90a5d70@179.253.179.109:63053?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.derevohom.xyz#%5A%69%6B%6B%4F%56%70%6E%42%6F%74%20%7C%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@pl5.japancase.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=g_1VEWSkHGaqhSpzEG_7qhG2AR24WoSZEc_eLDZ4vyw&security=reality&sid=96738b5c79c4af75&sni=pl5.japancase.site&type=tcp#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@94.249.180.86:443?sni=amd.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%232
 vless://da8fab8e-4a25-4eb0-b224-88ab96c753ce@179.253.179.109:57443?type=tcp&security=tls&fp=firefox&sni=87.121.86.24#Бесплатный
 vless://ef988d56-9c18-408e-ae1f-a144a332ebce@179.253.179.109:62083?type=tcp&security=tls&fp=firefox&sni=177.3.220.159#Бесплатный

@@ -1,9 +1,9 @@
-vless://0335d20a-ddde-4528-b135-dd21430e1690@141.193.27.22:443?security=tls&sni=bomb.pasta-makers.online&type=ws&host=bomb.pasta-makers.online&path=/ws&fp=chrome&alpn=h2&allowInsecure=0#🔒
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@141.193.27.178:2096?sni=vle.amclubdns.dpdns.org
+vless://0335d20a-ddde-4528-b135-dd21430e1690@141.193.27.22:443?security=tls&sni=bomb.pasta-makers.online&type=ws&host=bomb.pasta-makers.online&path=/ws&fp=chrome&alpn=h2&allowInsecure=0#🔒
 vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?encryption=none&host=proud-cloud-5c50.113-8dc.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#US
 vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?encryption=none&host=proud-cloud-5c50.113-8dc.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#[🛜]
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@141.193.27.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#EPODONIOS
 vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?encryption=none&host=proud-cloud-5c50.113-8dc.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=proud-cloud-5c50.113-8dc.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@141.193.27.177:8880?sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#@DeltaKroneckerGithub
 vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?security=none&type=ws&host=proud-cloud-5c50.113-8dc.workers.dev#🔒
 vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@141.193.27.16:2087?encryption=none&security=tls&sni=valid22.validbv9501.ir&fp=chrome&type=ws&host=valid22.validbv9501.ir&path=%2FeyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ

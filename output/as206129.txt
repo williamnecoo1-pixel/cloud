@@ -1,4 +1,7 @@
-vless://e1862eef-e3f2-4e27-b0a5-ddf8df384af9@89.187.7.4:2166?encryption=none&security=none&type=httpupgrade&host=89.187.7.4&path=%2FTelegram%3D%40AmyraxVPN#🆔ar14n24b%20🔓%20VL-HTTPUPGRADE-N/A%20❔%20XX%2092ms
-vless://e1862eef-e3f2-4e27-b0a5-ddf8df384af9@89.187.7.4:2166?encryption=none&security=none&type=httpupgrade&host=89.187.7.4&path=%2FTelegram%3D%40AmyraxVPN#FR
-vless://e1862eef-e3f2-4e27-b0a5-ddf8df384af9@89.187.7.4:2166?encryption=none&security=none&type=httpupgrade&host=89.187.7.4&path=/Telegram=@AmyraxVPN#FR🇫🇷
+vless://e1862eef-e3f2-4e27-b0a5-ddf8df384af9@89.187.7.4:2166?&type=ws&headerType=none&host=89.187.7.4&path=/Telegram=@AmyraxVPN#🇫🇷
+vless://e1862eef-e3f2-4e27-b0a5-ddf8df384af9@89.187.7.4:2166?&type=ws&headerType=none&host=89.187.7.4&path=/Telegram=@AmyraxVPN#FR
+vless://e1862eef-e3f2-4e27-b0a5-ddf8df384af9@89.187.7.4:2166?&type=ws&headerType=none&host=89.187.7.4&path=%2FTelegram%3D%40AmyraxVPN#[142552]
+vless://e1862eef-e3f2-4e27-b0a5-ddf8df384af9@89.187.7.4:2166?&type=ws&headerType=none&host=89.187.7.4&path=%2FTelegram%3D%40AmyraxVPN#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 vless://e1862eef-e3f2-4e27-b0a5-ddf8df384af9@89.187.7.4:2166?encryption=none&security=none&type=httpupgrade&host=89.187.7.4&path=%2FTelegram%3D%40AmyraxVPN
+vless://e1862eef-e3f2-4e27-b0a5-ddf8df384af9@89.187.7.4:2166?security=none&type=httpupgrade&host=89.187.7.4&path=/Telegram=@AmyraxVPN#🔒
+vless://e1862eef-e3f2-4e27-b0a5-ddf8df384af9@89.187.7.4:2166?&type=ws&headerType=none&host=89.187.7.4&path=%2FTelegram%3D%40AmyraxVPN#🇫🇷

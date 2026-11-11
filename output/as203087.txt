@@ -1,13 +1,12 @@
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#🇰🇿
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=firefox&security=reality&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83#@DeltaKroneckerGithub
-vless://f6b58665-c524-4c60-a939-d8f27123e079@109.248.198.219:443?security=tls&sni=a.kz-1.bnc-gt.co.uk&type=ws&path=/ws/&fp=qq&allowInsecure=0#🔒
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=firefox&security=reality&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83#KZ
 trojan://humanity@109.248.170.245:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20Karaganda%20%7C%20109.248.170.245%3A443
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#KZ
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&type=raw&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=83&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#[🛜]
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=83#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&sni=yahoo.com#Kazakhstan
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=firefox&security=reality&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83#Kazakhstan
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?sni=yahoo.com&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%BF%5Bwww.v2nodes.com%5D%20vless-KZ-1...
 vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@109.248.198.219:443?fp=firefox&security=tls&serviceName=grpc&sni=a.kz-1.bnc-gt.co.uk&type=grpc#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20Karaganda%20%7C%20109.248.198.219%3A443
 vless://846cedee-2a52-4a62-a0b9-11850ead6a8b@46.8.43.125:443/?type=tcp&encryption=none&flow=&sni=kz-central.v8x2b.lol&fp=firefox&security=reality&pbk=ER-T5En54-sn6IXy7jU8vQVcBbOiWvznnezf3qZ273w&sid=#%40FREE2CONFIG%20-%20104
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#🇰🇿
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%BF%20MolidoVPN%2001%20VIP

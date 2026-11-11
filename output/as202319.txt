@@ -1,4 +1,5 @@
+vless://9098ab3f-b8b3-5094-9e69-b7162050e012@185.166.104.6:443?security=tls&sni=full-node.online&type=ws&host=tron.full-node.online&path=/api/v3/ws-s8-a3a96ce9&fp=chrome&alpn=http/1.1&allowInsecure=0#🔒
 vless://48e512fc-b86b-4c8c-fab3-828e6dac7db4@bama.ir:443?encryption=none&security=tls&sni=bama.ir&alpn=h2,http/1.1&fp=chrome&type=ws&host=rulsvitalone-5c37c1327f-app.apps.ir-thr-ba1.arvancaas.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20bama.ir%3A443
 vless://f7d73ea4-27d4-41c2-d34c-aa1581bcf83f@bama.ir:443?encryption=none&security=tls&sni=bama.ir&alpn=h2,http/1.1&fp=chrome&type=ws&host=rulsvitalone-3b8673c740-nanov.apps.ir-thr-ba1.arvancaas.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20bama.ir%3A443%203
-vless://9098ab3f-b8b3-5094-9e69-b7162050e012@185.166.104.7:443?security=tls&sni=full-node.online&type=ws&host=tron.full-node.online&path=/api/v3/ws-s8-a3a96ce9&fp=chrome&alpn=http/1.1&allowInsecure=0#🔒
+vless://392afad2-43e3-4414-a5c3-b529a44df4e3@avalpardakht.com:80/?type=tcp&encryption=none&flow=#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 vless://392afad2-43e3-4414-a5c3-b529a44df4e3@avalpardakht.com:80?path=/%40v2rayNG_VPNN&security=none&encryption=none&host=7.arsalanv2.sbs&type=ws#[🇮🇷
