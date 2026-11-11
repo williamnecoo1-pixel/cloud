@@ -1,103 +1,76 @@
 const fs = require("fs");
 const path = require("path");
-const dns = require("dns").promises;
 const net = require("net");
+
+// إجبار السكريبت يستعمل DNS ديال Google و Cloudflare باش ما يتعطلش
+const nodeDns = require("dns");
+nodeDns.setServers(["8.8.8.8", "1.1.1.1"]);
+const dns = nodeDns.promises;
 
 const SOURCE_FILE = "sub.txt";
 const OUTPUT_DIR = "output";
-const WORKERS = 80;
+const WORKERS = 25; // تقللنا من 80 لـ 25 باش ما يتبلوكاش DNS
+const DNS_TIMEOUT = 3000; // 3 ثواني كافيين
 
 const GOOGLE_URLS = [
   "https://www.gstatic.com/ipranges/goog.json",
   "https://www.gstatic.com/ipranges/cloud.json"
 ];
 
+const DEFAULT_SOURCES = [
+  "https://github.com/Mohamedhnini-a/testeur/raw/refs/heads/main/working_configs.txt",
+  "https://github.com/Mohamedhnini-a/testeur-2/raw/refs/heads/main/working_configs.txt"
+];
+
 const DNS_CACHE = new Map();
 const ASN_CACHE = new Map();
 const ASN_NAME_CACHE = new Map();
 
-// ============ خريطة ASN → اسم المزود ============
+// ============ لائحة الشركات المعروفة ============
 const KNOWN_PROVIDERS = {
-  // === CDN / Edge ===
-  13335: "Cloudflare",
+  // CDN / Edge
+  13335: "Cloudflare", 209242: "Cloudflare", 400095: "Cloudflare", 14789: "Cloudflare", 395747: "Cloudflare",
+  15169: "Google", 396982: "Google Cloud", 19527: "Google", 139070: "Google", 36384: "Google",
+  16509: "AWS", 14618: "AWS", 8987: "AWS CloudFront", 24544: "AWS", 7203: "AWS",
+  8075: "Microsoft Azure", 8068: "Microsoft Azure", 20940: "Akamai", 16625: "Akamai", 63949: "Akamai (Linode)", 33905: "Akamai",
   54113: "Fastly",
-  20940: "Akamai",
-  16625: "Akamai",
-  63949: "Akamai (Linode)",
-  15169: "Google",
-  396982: "Google Cloud",
-  19527: "Google",
-  139070: "Google",
-  36384: "Google",
-  16509: "AWS",
-  14618: "AWS",
-  8987: "AWS CloudFront",
-  8075: "Microsoft Azure",
-  8068: "Microsoft Azure",
-  // === Clouds / VPS ===
-  14061: "DigitalOcean",
+  // Clouds / VPS
+  14061: "DigitalOcean", 393406: "DigitalOcean",
   20473: "Vultr",
-  24940: "Hetzner",
-  213230: "Hetzner",
+  24940: "Hetzner", 213230: "Hetzner", 215859: "Hetzner",
   16276: "OVH",
   31898: "Oracle Cloud",
   12876: "Scaleway",
-  51167: "Contabo",
-  24961: "myLoc",
-  8560: "IONOS",
-  9009: "M247",
-  45102: "Alibaba Cloud",
-  132203: "Tencent Cloud",
-  55990: "Huawei Cloud",
+  51167: "Contabo", 141995: "Contabo", 40021: "Contabo",
+  45102: "Alibaba Cloud", 37963: "Alibaba Cloud", 134963: "Alibaba Cloud",
+  132203: "Tencent Cloud", 45090: "Tencent Cloud",
   136907: "Huawei Cloud",
   197540: "Netcup",
-  199524: "Gcore",
-  204287: "PQ Hosting",
-  210644: "Aeza",
-  3214: "Xtom",
-  214943: "Xtom",
-  29802: "HVC",
-  60068: "Datacamp (CDN77)",
-  212238: "Datacamp",
-  59711: "DreamHost",
-  16265: "Leaseweb",
-  28753: "Leaseweb",
-  30633: "Leaseweb",
-  60781: "Leaseweb",
-  395954: "Leaseweb",
-  9002: "RETN",
-  62240: "Clouvider",
-  49392: "Melbicom",
+  199524: "Gcore", 59245: "Gcore", 205196: "Gcore",
+  210644: "Aeza", 197695: "Aeza",
+  9009: "M247",
   30058: "Hivelocity",
-  55081: "24Shells",
-  62005: "eServer",
-  197695: "Aeza",
-  214943: "Xtom",
+  60068: "Datacamp (CDN77)", 212238: "Datacamp", 
+  59711: "DreamHost",
+  62240: "Clouvider",
+  3214: "Xtom"
 };
 
+// باش نعرفو نعطيو الأولوية فـ الترتيب
+const KNOWN_ORDER = [
+  "Cloudflare", "AWS", "AWS CloudFront", "Google", "Google Cloud", 
+  "Fastly", "Microsoft Azure", "Akamai", "Akamai (Linode)", 
+  "Hetzner", "OVH", "DigitalOcean", "Oracle Cloud", "Vultr", 
+  "Scaleway", "Alibaba Cloud", "Tencent Cloud", "Huawei Cloud", "Contabo"
+];
+
 const NAME_KEYWORDS = [
-  [/cloudflare/i, "Cloudflare"],
-  [/google/i, "Google"],
-  [/fastly/i, "Fastly"],
-  [/akamai/i, "Akamai"],
-  [/amazon|aws/i, "AWS"],
-  [/microsoft|azure/i, "Microsoft Azure"],
-  [/hetzner/i, "Hetzner"],
-  [/digitalocean/i, "DigitalOcean"],
-  [/vultr|choopa/i, "Vultr"],
-  [/ovh/i, "OVH"],
-  [/oracle/i, "Oracle Cloud"],
-  [/scaleway|online sas/i, "Scaleway"],
-  [/contabo/i, "Contabo"],
-  [/linode/i, "Akamai (Linode)"],
-  [/alibaba/i, "Alibaba Cloud"],
-  [/tencent/i, "Tencent Cloud"],
-  [/huawei/i, "Huawei Cloud"],
-  [/leaseweb/i, "Leaseweb"],
-  [/gcore/i, "Gcore"],
-  [/datacamp|cdn77/i, "Datacamp (CDN77)"],
-  [/m247/i, "M247"],
-  [/ionos|1&1/i, "IONOS"],
+  [/cloudflare/i, "Cloudflare"], [/google/i, "Google"], [/fastly/i, "Fastly"],
+  [/akamai/i, "Akamai"], [/amazon|aws/i, "AWS"], [/microsoft|azure/i, "Microsoft Azure"],
+  [/hetzner/i, "Hetzner"], [/digitalocean/i, "DigitalOcean"], [/vultr|choopa/i, "Vultr"],
+  [/ovh/i, "OVH"], [/oracle/i, "Oracle Cloud"], [/scaleway|online sas/i, "Scaleway"],
+  [/contabo/i, "Contabo"], [/linode/i, "Akamai (Linode)"], [/alibaba/i, "Alibaba Cloud"],
+  [/tencent/i, "Tencent Cloud"], [/huawei/i, "Huawei Cloud"], [/gcore/i, "Gcore"]
 ];
 
 // ============ Utilities ============
@@ -148,14 +121,12 @@ function ipv6Number(ip) {
   return groups.reduce((n, part) => (n << 16n) | BigInt("0x" + (part || "0")), 0n);
 }
 
-// لتحويل IPv6 إلى 32 nibble مقلوبة (لـ Team Cymru)
 function ipv6ToReversedNibbles(ip) {
   let value = ip.toLowerCase();
   if (value.includes(".")) {
     const idx = value.lastIndexOf(":");
     const [a, b, c, d] = value.slice(idx + 1).split(".").map(Number);
-    const hex4 = ((a << 8) | b).toString(16).padStart(4, "0") + ":" +
-                 ((c << 8) | d).toString(16).padStart(4, "0");
+    const hex4 = ((a << 8) | b).toString(16).padStart(4, "0") + ":" + ((c << 8) | d).toString(16).padStart(4, "0");
     value = value.slice(0, idx + 1) + hex4;
   }
   const parts = value.split("::");
@@ -172,11 +143,8 @@ function isPrivateIP(ip) {
   const v = net.isIP(ip);
   if (v === 4) {
     const p = ip.split(".").map(Number);
-    return p[0] === 10 || p[0] === 127 ||
-           (p[0] === 172 && p[1] >= 16 && p[1] <= 31) ||
-           (p[0] === 192 && p[1] === 168) ||
-           (p[0] === 169 && p[1] === 254) ||
-           p[0] === 0;
+    return p[0] === 10 || p[0] === 127 || (p[0] === 172 && p[1] >= 16 && p[1] <= 31) ||
+           (p[0] === 192 && p[1] === 168) || (p[0] === 169 && p[1] === 254) || p[0] === 0;
   }
   if (v === 6) {
     const l = ip.toLowerCase();
@@ -206,15 +174,12 @@ function matchIP(ip, ranges) {
   const version = net.isIP(ip);
   if (!version) return false;
   let value;
-  try {
-    value = version === 4 ? ipv4Number(ip) : ipv6Number(ip);
-  } catch { return false; }
+  try { value = version === 4 ? ipv4Number(ip) : ipv6Number(ip); } catch { return false; }
   return ranges.some(r => r.version === version && (value >> r.shift) === r.network);
 }
 
 async function loadGoogleRanges() {
-  const frontend = [];
-  const cloud = [];
+  const frontend = [], cloud = [];
   for (let i = 0; i < GOOGLE_URLS.length; i++) {
     try {
       const r = await fetch(GOOGLE_URLS[i], { signal: AbortSignal.timeout(20000) });
@@ -223,9 +188,7 @@ async function loadGoogleRanges() {
       const prefixes = data.prefixes.flatMap(p => [p.ipv4Prefix, p.ipv6Prefix].filter(Boolean));
       if (i === 0) frontend.push(...prefixes);
       else cloud.push(...prefixes);
-    } catch (e) {
-      log(`[GOOGLE RANGE FAIL] ${e.message}`);
-    }
+    } catch (e) { log(`[GOOGLE RANGE FAIL] ${e.message}`); }
   }
   return { frontend: compileRanges(frontend), cloud: compileRanges(cloud) };
 }
@@ -237,11 +200,9 @@ async function lookupASN(ip) {
     try {
       const version = net.isIP(ip);
       let query;
-      if (version === 4) {
-        query = ip.split(".").reverse().join(".") + ".origin.asn.cymru.com";
-      } else if (version === 6) {
-        query = ipv6ToReversedNibbles(ip) + ".origin.asn.cymru.com";
-      } else return null;
+      if (version === 4) query = ip.split(".").reverse().join(".") + ".origin.asn.cymru.com";
+      else if (version === 6) query = ipv6ToReversedNibbles(ip) + ".origin.asn.cymru.com";
+      else return null;
 
       const records = await dns.resolveTxt(query);
       if (!records || !records.length) return null;
@@ -271,25 +232,24 @@ async function lookupASNName(asn) {
   return promise;
 }
 
+// تسمية المزود (تجميع الـ ASNs حسب سمية الشركة)
 function classifyProvider(asn, asName) {
   if (KNOWN_PROVIDERS[asn]) return KNOWN_PROVIDERS[asn];
   if (asName) {
     for (const [re, name] of NAME_KEYWORDS) {
       if (re.test(asName)) return name;
     }
+    // إلا مالقاش فـ اللائحة، كياخد السمية الحقيقية ديال الشركة من Team Cymru
+    return asName.split(",")[0].trim(); 
   }
   return `AS${asn}`;
 }
 
 async function classifyIP(ip, googleRanges) {
-  // Fast path: Google ranges
   if (googleRanges) {
-    if (matchIP(ip, googleRanges.frontend))
-      return { provider: "Google Frontend", asn: 15169, asName: "GOOGLE, US" };
-    if (matchIP(ip, googleRanges.cloud))
-      return { provider: "Google Cloud", asn: 396982, asName: "GOOGLE-CLOUD-PLATFORM, US" };
+    if (matchIP(ip, googleRanges.frontend)) return { provider: "Google", asn: 15169, asName: "GOOGLE, US" };
+    if (matchIP(ip, googleRanges.cloud)) return { provider: "Google Cloud", asn: 396982, asName: "GOOGLE-CLOUD-PLATFORM, US" };
   }
-
   if (isPrivateIP(ip)) return { provider: "Private IP", asn: null, asName: null };
 
   const info = await lookupASN(ip);
@@ -329,10 +289,14 @@ async function resolveHost(host) {
 }
 
 async function fetchSources() {
-  if (!fs.existsSync(SOURCE_FILE)) throw new Error("sub.txt not found");
+  let sources = [...DEFAULT_SOURCES]; 
 
-  const sources = fs.readFileSync(SOURCE_FILE, "utf8")
-    .split(/\r?\n/).map(x => x.trim()).filter(x => x && !x.startsWith("#"));
+  if (fs.existsSync(SOURCE_FILE)) {
+    const fileContent = fs.readFileSync(SOURCE_FILE, "utf8");
+    const fileSources = fileContent.split(/\r?\n/).map(x => x.trim()).filter(x => x && !x.startsWith("#"));
+    sources.push(...fileSources);
+  }
+  sources = [...new Set(sources)];
 
   const collected = [];
   let index = 0;
@@ -350,6 +314,7 @@ async function fetchSources() {
         if (!r.ok) { log(`[SOURCE FAILED] ${r.status} ${source}`); continue; }
         const content = await r.text();
         collected.push(...extractConfigs(content));
+        log(`[SOURCE OK] جاب ${content.length} حرف من ${source.split('/').pop()}`);
       } catch (e) {
         log(`[SOURCE ERROR] ${e.message}`);
       }
@@ -369,18 +334,13 @@ async function main() {
 
   log("Loading Google IP ranges...");
   const googleRanges = await loadGoogleRanges();
-  log(`Google Frontend ranges: ${googleRanges.frontend.length}`);
-  log(`Google Cloud ranges: ${googleRanges.cloud.length}`);
-
+  
   log("Fetching configuration sources...");
   const configs = await fetchSources();
   log(`Total unique configs: ${configs.length}`);
 
-  // provider -> Set<config>
   const providerConfigs = new Map();
-  // provider -> { asns: Set, names: Set, ips: Set }
   const providerMeta = new Map();
-  // ip -> { provider, asn, asName }
   const ipMap = new Map();
 
   let completed = 0, unresolved = 0, invalid = 0;
@@ -436,25 +396,49 @@ async function main() {
   await Promise.all(Array.from({ length: Math.min(WORKERS, configs.length) }, processWorker));
 
   // ===== Save outputs =====
-  // 1) Per-provider files
   const providerSummary = [];
-  for (const [provider, set] of [...providerConfigs].sort((a, b) => b[1].size - a[1].size)) {
-    const slug = providerSlug(provider) || "unknown";
-    const file = path.join(OUTPUT_DIR, `${slug}.txt`);
-    fs.writeFileSync(file, [...set].join("\n") + (set.size ? "\n" : ""));
-    const meta = providerMeta.get(provider) || { asns: new Set(), names: new Set(), ips: new Set() };
-    providerSummary.push({
-      provider,
-      slug,
-      file,
-      configs: set.size,
-      ips: meta.ips.size,
-      asns: [...meta.asns],
-      names: [...meta.names]
-    });
+  let otherConfigs = new Set(); 
+
+  // ترتيب المزودين: الأولوية للمعروفين ومن بعد بالعدد
+  const sortedProviders = [...providerConfigs].sort((a, b) => {
+    const aIdx = KNOWN_ORDER.indexOf(a[0]);
+    const bIdx = KNOWN_ORDER.indexOf(b[0]);
+    
+    if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx;
+    if (aIdx !== -1) return -1;
+    if (bIdx !== -1) return 1;
+    return b[1].size - a[1].size;
+  });
+
+  for (const [provider, set] of sortedProviders) {
+    // إلا كان المزود عندو 20 ولا كثر، نسجلو فـ ملف بوحدو
+    if (set.size >= 20) {
+      const slug = providerSlug(provider) || "unknown";
+      const file = path.join(OUTPUT_DIR, `${slug}.txt`);
+      fs.writeFileSync(file, [...set].join("\n") + (set.size ? "\n" : ""));
+      
+      const meta = providerMeta.get(provider) || { asns: new Set(), names: new Set(), ips: new Set() };
+      providerSummary.push({
+        provider,
+        slug,
+        file,
+        configs: set.size,
+        ips: meta.ips.size,
+        asns: [...meta.asns],
+        names: [...meta.names]
+      });
+    } else {
+      // إلا كانو قلال (أقل من 20)، نجمعوهم فـ ملف واحد باش ما نعمروش GitHub
+      for (const config of set) otherConfigs.add(config);
+    }
   }
 
-  // 2) IP → provider map
+  // حفظ الملفات الصغار المتبقيين
+  if (otherConfigs.size > 0) {
+    fs.writeFileSync(path.join(OUTPUT_DIR, "_other_providers.txt"), [...otherConfigs].join("\n") + "\n");
+  }
+
+  // حفظ خريطة الـ IPs
   const ipLines = [...ipMap.entries()]
     .sort((a, b) => a[0].localeCompare(b[0]))
     .map(([ip, info]) => {
@@ -463,13 +447,13 @@ async function main() {
     });
   fs.writeFileSync(path.join(OUTPUT_DIR, "_ip_providers.tsv"), ipLines.join("\n") + "\n");
 
-  // 3) providers.json
+  // حفظ الـ JSON ديال الإحصائيات
   fs.writeFileSync(
     path.join(OUTPUT_DIR, "_providers.json"),
     JSON.stringify(providerSummary, null, 2) + "\n"
   );
 
-  // 4) Summary
+  // حفظ ملف الإحصائيات النهائي
   const summaryLines = [
     "IP → PROVIDER CLASSIFICATION",
     "============================",
