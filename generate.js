@@ -9,7 +9,7 @@ const dns = nodeDns.promises;
 
 const SOURCE_FILE = "sub.txt";
 const OUTPUT_DIR = "output";
-const WORKERS = 25; // تقللنا من 80 لـ 25 باش ما يتبلوكاش DNS
+const WORKERS = 80; // تقللنا من 80 لـ 25 باش ما يتبلوكاش DNS
 const DNS_TIMEOUT = 3000; // 3 ثواني كافيين
 
 const GOOGLE_URLS = [
