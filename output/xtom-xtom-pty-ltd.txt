@@ -10,11 +10,12 @@ trojan://65fQmPHHbPcBCfvSHt@au-4.tr202605.com:443#4Mohsen-3474
 trojan://G9CHhXltVx@96.9.213.108:12646?allowInsecure=0#hamedp71-4-%F0%9F%87%BA%F0%9F%87%B8
 trojan://2af31107-e577-4995-8247-e8a57855e90b@103.136.146.143:10011?security=tls&sni=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&allowInsecure=1&type=tcp#Channel%20id:%20@AlienVPN402
 trojan://2ni2H9zUKdDCjREL8Z@au-1.tr202613.com:443?sni=au-1.tr202613.com&type=tcp#@DeltaKroneckerGithub
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.128.222.55:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
 trojan://owreRY1bmquS1WcYN2@193.187.119.41:443?type=tcp#AU
 trojan://owreRY1bmquS1WcYN2@193.187.119.75:443?security=tls&sni=au-3.tr202605.com&type=tcp&allowInsecure=1#AU
 trojan://owreRY1bmquS1WcYN2@au-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#AU
 trojan://q6UYkw9nUn6MYZz8Sp@au-2.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#AU
 trojan://q6UYkw9nUn6MYZz8Sp@sg-1.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#SG
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.149.46.74:443?fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%20103.149.46.74%3A443
+vless://affb10d4-3835-4b1f-b5a3-3481489911b6@172.93.186.31:443?&security=tls&fp=chrome&sni=cat.ilovezhenjiu.top&type=ws&headerType=none&host=cat.ilovezhenjiu.top&path=%2Fcgciws#🇺🇸
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@45.66.128.2:443?security=tls&sni=v1n3.11676767.xyz&type=ws&path=%2Fpicture%2Flessonsfp%3Dchrome&host=v1n3.11676767.xyz#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP%20%235
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.128.222.55:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
