@@ -58,7 +58,7 @@ const KNOWN_PROVIDERS = {
 
 // باش نعرفو نعطيو الأولوية فـ الترتيب
 const KNOWN_ORDER = [
-  "Cloudflare", "AWS", "AWS CloudFront", "Google", "Google Cloud", 
+  "Cloudflare", "AWS CloudFront", "Google", "Google Cloud", "AWS",
   "Fastly", "Microsoft Azure", "Akamai", "Akamai (Linode)", 
   "Hetzner", "OVH", "DigitalOcean", "Oracle Cloud", "Vultr", 
   "Scaleway", "Alibaba Cloud", "Tencent Cloud", "Huawei Cloud", "Contabo"
@@ -330,7 +330,12 @@ async function main() {
   const start = Date.now();
   log("IP → PROVIDER CLASSIFIER STARTED");
 
-  if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  // 1. مسح المجلد القديم كامل باش نتفاداو دوك 1000 ملف
+  if (fs.existsSync(OUTPUT_DIR)) {
+    fs.rmSync(OUTPUT_DIR, { recursive: true, force: true });
+    log("Old output directory cleaned.");
+  }
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
   log("Loading Google IP ranges...");
   const googleRanges = await loadGoogleRanges();
@@ -399,7 +404,7 @@ async function main() {
   const providerSummary = [];
   let otherConfigs = new Set(); 
 
-  // ترتيب المزودين: الأولوية للمعروفين ومن بعد بالعدد
+  // ترتيب المزودين: الأولوية للمعروفين (Cloudflare اللول)
   const sortedProviders = [...providerConfigs].sort((a, b) => {
     const aIdx = KNOWN_ORDER.indexOf(a[0]);
     const bIdx = KNOWN_ORDER.indexOf(b[0]);
@@ -411,9 +416,15 @@ async function main() {
   });
 
   for (const [provider, set] of sortedProviders) {
-    // إلا كان المزود عندو 20 ولا كثر، نسجلو فـ ملف بوحدو
-    if (set.size >= 20) {
-      const slug = providerSlug(provider) || "unknown";
+    // واش هاد المزود كاين فـ اللائحة المعروفة (Cloudflare, AWS, Google...)?
+    if (KNOWN_ORDER.includes(provider)) {
+      let slug = providerSlug(provider) || "unknown";
+      
+      // باش نضمنو السميات اللي طلبتي بالضبط
+      if (provider === "AWS CloudFront") slug = "cloudfront";
+      if (provider === "Cloudflare") slug = "cloudflare";
+      if (provider === "Google") slug = "google";
+
       const file = path.join(OUTPUT_DIR, `${slug}.txt`);
       fs.writeFileSync(file, [...set].join("\n") + (set.size ? "\n" : ""));
       
@@ -428,12 +439,12 @@ async function main() {
         names: [...meta.names]
       });
     } else {
-      // إلا كانو قلال (أقل من 20)، نجمعوهم فـ ملف واحد باش ما نعمروش GitHub
+      // أي شركة مامعروفة (a1telekom, abrarvan...) كتصب هنا
       for (const config of set) otherConfigs.add(config);
     }
   }
 
-  // حفظ الملفات الصغار المتبقيين
+  // حفظ الملفات الصغار المتبقيين (الشركات اللي مامعروفاش)
   if (otherConfigs.size > 0) {
     fs.writeFileSync(path.join(OUTPUT_DIR, "_other_providers.txt"), [...otherConfigs].join("\n") + "\n");
   }
