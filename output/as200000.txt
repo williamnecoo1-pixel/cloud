@@ -3,6 +3,6 @@ trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#%F0%9F%8
 trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#UA
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#UA
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#🌐سرور
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#[🛜]
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#🇨🇦

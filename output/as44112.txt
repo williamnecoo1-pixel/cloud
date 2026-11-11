@@ -1,5 +1,6 @@
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?path=/v1&security=none&encryption=none&type=ws#RU
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?path=/v1&security=none&encryption=none&type=ws#[🛜]
+vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?encryption=none&security=none&type=ws&path=/v1#🇺🇸
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?path=/v1&security=none&encryption=none&type=ws#@hopev2ray❤️‍🔥
 vless://18669c97-4d3e-03e9-a94e-b250e7aac408@77.222.35.164:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DulhUFMYzxIsucjtPONJQMszzyi9V6bqQ9WI3GjGFAY&security=reality&sid=abc123&sni=ya.ru&type=tcp#🇩🇪
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.233:2200?path=%2Fv1&security=&encryption=none&type=ws&sni=tn.tmn141246.ru#[🇷🇺

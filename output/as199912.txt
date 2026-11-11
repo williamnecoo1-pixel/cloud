@@ -1,5 +1,4 @@
 vless://4c5a54b3-774e-4391-b78e-f3e9fa928792@194.24.161.220:443?security=tls&sni=borsch2.spravedlivost.fun&type=ws&path=%2Fapi%2Fmetric%2Fws&fp=firefox#🔒
-vless://4c5a54b3-774e-4391-b78e-f3e9fa928792@194.24.161.220:443?encryption=none&fp=firefox&path=%2Fapi%2Fmetric%2Fws&security=tls&sni=borsch2.spravedlivost.fun&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Unknown%20%7C%20194.24.161.220%3A443
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@91.239.208.213:443?flow=xtls-rprx-vision&security=tls&sni=fr213.mechvpn.online&fp=chrome&type=tcp&path=/&allow_insecure=0#[13949][FR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.133:443?sni=fr133.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#
 vless://dff6aeff-54dd-4d04-ad68-c79fbf89f9f0@88.214.24.198:35443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=Fvm8Nk9_xIHnKlrqywijuK6FDWP7zSyNV_ap8qH__EQ&sid=cc024cc0b79b6bad#🔒

@@ -1,10 +1,7 @@
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=/&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#IR
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=/&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#[🛜]
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#[🛜]
-vless://d232ff60-0f45-418d-8eae-a03982d9a7cf@yeksanaat.ir:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&encryption=none&path=/&host=g1.nybaz.space&security=none#@v2reya88
-vless://d232ff60-0f45-418d-8eae-a03982d9a7cf@yeksanaat.ir:8880?type=ws&encryption=none&path=/&host=g1.nybaz.space&security=none#🔵@chillguy_vpn
-vless://536b1843-a13a-4a57-b778-bfc58e6cadb9@yeksanaat.ir:2082?type=ws&encryption=none&path=/&host=g1.nybaz.space&security=none#filembad-128
-vless://d232ff60-0f45-418d-8eae-a03982d9a7cf@yeksanaat.ir:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&host=g1.nybaz.space&type=ws#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:71.86ms
+vless://acf01633-4f02-4c03-ba31-1b7da7744d22@yeksanaat.ir:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&encryption=none&path=/&host=g1.nybaz.space&security=none#@v2reya88
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=/&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#@hopev2ray🤍
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=/&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#Telegram:@v2rayng3
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?security=none&type=ws&host=azsv1.drpingservice.com&path=/#🔒

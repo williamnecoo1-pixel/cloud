@@ -1,8 +1,5 @@
 vmess://eyJhZGQiOiJteXZwc2hvc3RpbmcubmFtZS5uZyIsImFpZCI6MCwiaG9zdCI6Im15dnBzaG9zdGluZy5uYW1lLm5nIiwiaWQiOiI5NjQwOGY5YS1kZjAzLTQ0OGItYjdlNC1lYzhlMmMyMTY2ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn4yQIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
-vless://47667ac5-ac51-7fc6-181f-65321ee2387b@62.84.172.69:443?encryption=none&security=tls&sni=svg-2.onrender.com&fp=chrome&type=ws&path=%252Fws%252F47667ac5-ac51-7fc6-181f-65321ee2387b&host=svg-2.onrender.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%7C%2062.84.172.69%3A443
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=7dae9c0cs220.gogocs.xyz&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u695098u7dae9c0cs220.gogocs.xyz#EPODONIOS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.56.7.90:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s170.gogocs.xyz:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=s170.gogocs.xyz&path=%2F#
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098u7dae9c0cs220.gogocs.xyz&type=tcp&headerType=none&path=%2F#
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&security=tls&sni=u695098u7dae9c0cs220.gogocs.xyz&type=tcp#4Nika-5a6625cf1a
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s170.gogocs.xyz:443?security=tls&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#[469ms
 vless://723345e4-9c1b-4d92-a349-7c3742f9b61a@141.11.167.220:28737?mode=stream-one&path=/&security=none&encryption=none&extra={

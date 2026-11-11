@@ -1,6 +1,4 @@
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@Vip_Security
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.9:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#🇷🇺
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@130.17.2.27:2200?encryption=none&host=rzd.ru&path=/v1&security=none&type=ws#🏳️
 vless://23e18cb4-9db3-4eb1-93d3-26c62095159d@217.177.74.229:443?security=reality&flow=xtls-rprx-vision&sni=yandex.ru&type=tcp&fp=firefox&pbk=xSvlclDt9Oz7WKqoCCyuT3mEGnLwyp5ciOUClsZADH8&sid=d4331052#🔒
 vless://23e18cb4-9db3-4eb1-93d3-26c62095159d@217.177.74.229:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=firefox&pbk=xSvlclDt9Oz7WKqoCCyuT3mEGnLwyp5ciOUClsZADH8&sid=d4331052&type=tcp&headerType=none
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@31.172.67.215:2200?encryption=none&type=ws&path=%2Fv1#4Sarina-10316

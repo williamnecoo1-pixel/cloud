@@ -1,4 +1,4 @@
-vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru1.cdn-global.pro:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=UetBYGh2t6FbQNZ53W3Eb3bpH5-p-WJ1wklLbOs5RH0&sni=ru1.cdn-global.pro&sid=af6055545fb955b0&spx=%2F#
+vless://f0be198c-db8c-4622-8803-ba3c8c8db515@89.19.223.139:8443#⚙️
 vless://604c8c22-1524-4a3f-b85f-d3375482dcc4@89.19.223.238:8443?type=tcp&security=none&encryption=none#@DeltaKroneckerGithub
 vless://f0be198c-db8c-4622-8803-ba3c8c8db515@89.19.223.139:8443?#🇸🇪
 vless://d7790b85-9659-4558-a405-e0ab57d32984@89.19.223.97:8443?&type=tcp&headerType=none&path=%2F#

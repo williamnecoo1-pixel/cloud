@@ -1,9 +1,9 @@
+vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?security=tls&type=ws&path=%2F&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%2085.133.244.214%3A443%203
 vless://7da761e2-f954-41b7-9723-2c8a470e98ab@193.111.236.47:443?security=tls&sni=v2fars.shop&type=ws&host=v2fars.shop&path=%2Fapi&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&allowInsecure=0#🔒
 vless://fb03abb3-53d2-4d6b-bbdb-fa0da87916ea@185.84.158.197:443?security=tls&sni=ger.x2net.top&type=ws&path=/&fp=chrome&alpn=http/1.1&allowInsecure=1#🔒
+vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?path=/&security=none&encryption=none&type=ws#IR
 vmess://eyJ2IjoiMiIsInBzIjoiQHZwbmNsYXNoZmEgLSAxNTRcbiIsImFkZCI6IjE4NS44NC4xNTguMTQ5IiwicG9ydCI6IjQ3OTYiLCJ0eXBlIjoiaHR0cCIsImlkIjoiZjM3OTc5YjItNDUzMC00MzU2LTg4ZTQtMTI0MmQxZGExYjc5IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImJhbGUuYWksd2ViLmJhbGUuYWksd2ViLmlnYXAubmV0IiwidGxzIjoiIn0=
 vmess://eyJhZGQiOiIxODUuODQuMTU4LjQzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhbWlyLmFtaXJwb3J0LnNicyIsImlkIjoiM2NjZDdjOTYtZmM0Yi00OTIxLWJmMzMtMjZmZWY2OWMwMDRhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiJCeSBFYnJhU2hhIPCfpoIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?path=/&security=none&encryption=none&type=ws#IR
-vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?security=tls&type=ws&path=%2F&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%2085.133.244.214%3A443%203
 vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?path=/&security=none&encryption=none&type=ws#[🛜]
 vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?path=/&security=none&encryption=none&type=ws#@Cnetvpn
 vless://6e0af6cc-4968-4bce-b228-3a44fca6526c@87.248.154.3:1123?security=none&type=tcp#🔒

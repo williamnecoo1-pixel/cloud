@@ -1,6 +1,9 @@
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#FI
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#[🛜]
-vless://37a47219-f12e-416a-a3fc-cc27603ffc25@104.245.243.3:443?type=xhttp&security=reality&path=/&sni=res.cdn.office.net&fp=safari&pbk=0xVsi6JYS-gJFUILwuePsB32jvWtxRT_okJSmcWEQEc#
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:8443?mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🏳[openproxylist.com]
+vless://bb20d3fc-fc15-0935-11c5-82775c39e6b0@104.245.240.9:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇺🇸US-🚀@VPNine1
+vless://bb20d3fc-fc15-0935-11c5-82775c39e6b0@104.245.240.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#🔵@chillguy_vpn
+vless://bb20d3fc-fc15-0935-11c5-82775c39e6b0@104.245.240.8:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#[49707]
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#@Tarkshodeh
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?encryption=none&security=reality&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&type=xhttp&path=%2F&mode=auto#AutoAiVPN700756
 vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@104.245.243.2:443?path=%2F&security=reality&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&type=xhttp&sni=cdn.steamstatic.com&fp=ios

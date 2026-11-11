@@ -1,7 +1,7 @@
-vless://53555197-bf0a-49e6-bea1-211fcfc1d962@45.81.252.143:2053?security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&allowInsecure=0&sni=germany3.banovano.space#@DeltaKroneckerGithub
-vless://53555197-bf0a-49e6-bea1-211fcfc1d962@germany3.banovano.space:2053?encryption=none&type=grpc&security=tls&sni=germany3.banovano.space&fp=edge&alpn=h2#@DeltaKroneckerGithub
 vless://53555197-bf0a-49e6-bea1-211fcfc1d962@45.81.252.143:2053?alpn=h2&encryption=none&security=tls&sni=germany3.banovano.space&type=grpc#🆔ar14n24b%20🔒%20VL-GRPC-N/A%20❔%20XX%20120ms
 vless://53555197-bf0a-49e6-bea1-211fcfc1d962@germany3.banovano.space:2053?alpn=h2&encryption=none&security=tls&sni=germany3.banovano.space&type=grpc#🆔ar14n24b%20🔒%20VL-GRPC-N/A%20❔%20XX%20145ms
+vless://53555197-bf0a-49e6-bea1-211fcfc1d962@germany3.banovano.space:2053?encryption=none&type=grpc&security=tls&sni=germany3.banovano.space&fp=edge&alpn=h2#@DeltaKroneckerGithub
+vless://53555197-bf0a-49e6-bea1-211fcfc1d962@45.81.252.143:2053?security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&allowInsecure=0&sni=germany3.banovano.space#@DeltaKroneckerGithub
 vless://53555197-bf0a-49e6-bea1-211fcfc1d962@45.81.252.143:2053?alpn=h2&encryption=none&security=tls&sni=germany3.banovano.space&type=grpc#LT
 vless://53555197-bf0a-49e6-bea1-211fcfc1d962@germany3.banovano.space:2053?alpn=h2&encryption=none&security=tls&sni=germany3.banovano.space&type=grpc#LT
 vless://53555197-bf0a-49e6-bea1-211fcfc1d962@germany3.banovano.space:2053?security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=germany3.banovano.space#[🛜]

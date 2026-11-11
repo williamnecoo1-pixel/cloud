@@ -1,6 +1,6 @@
 vmess://eyJhZGQiOiIxOTMuOTMuMTY5LjExNiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjOGMwOTNkZS1kZGRmLTQyYzYtOWZjYi1mNzMxM2JlYmNlMmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwNTAiLCJwcyI6IkJ5IEVicmFTaGEg8J+arCIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyNiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://5f271797-ccb6-4440-9baa-6631f4a39123@185.239.2.138:443?security=reality&encryption=none&pbk=MYj8k-lUdGWse9LHnbefX_H08UveyniMgw5pAcgMdhU&headerType=&fp=chrome&type=tcp&sni=www.aparat.com&sid=aa#none
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.34:8880?security=none&type=tcp&host=rubika.ir,igap.net,splus.ir,skyroom.online,myket.ir,tamin.ir,cafebazaar.ir&headerType=http#🔒
-vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.39:8880?security=none&type=tcp&host=rubika.ir,igap.net,splus.ir,skyroom.online,myket.ir,tamin.ir,cafebazaar.ir&headerType=http#🔒
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.37:8880?security=none&type=tcp&host=rubika.ir,igap.net,splus.ir,skyroom.online,myket.ir,tamin.ir,cafebazaar.ir&headerType=http#🔒
+vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.39:8880?security=none&type=tcp&host=rubika.ir,igap.net,splus.ir,skyroom.online,myket.ir,tamin.ir,cafebazaar.ir&headerType=http#🔒
 vless://ad482dbf-8b1e-45ed-ad01-d9348fbf51cc@185.239.2.101:12002?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&flow=xtls-rprx-vision&pbk=wKh_qTcfwcqcHSdTLjRrdJVN-qCCCwacxZ6O6TMJY2o#IR

@@ -1,5 +1,5 @@
-trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?security=tls&sni=sourceforge.net&type=ws&path=/websocket&Host=sourceforge.net#TROJAN%20%7C%20%40PulseConfigs%20%7C%20e2c8f7
-trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?security=tls&sni=sourceforge.net&type=ws&path=/websocket&Host=sourceforge.net#%F0%9F%87%A7%F0%9F%87%ACBG-95.164.33.62-0780
 trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?security=tls&sni=sourceforge.net&type=ws&path=/websocket&Host=sourceforge.net#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20-%20Unknown%20%7C%2095.164.33.62%3A443%204
+trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?security=tls&sni=sourceforge.net&type=ws&path=/websocket&Host=sourceforge.net#%F0%9F%87%A7%F0%9F%87%ACBG-95.164.33.62-0780
+trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?security=tls&sni=sourceforge.net&type=ws&path=/websocket&Host=sourceforge.net#TROJAN%20%7C%20%40PulseConfigs%20%7C%20e2c8f7
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.51.24:2501?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#🔒
 vless://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&sid=7554c6ea#EE

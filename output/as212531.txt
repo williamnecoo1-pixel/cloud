@@ -1,7 +1,8 @@
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@80.208.229.140:443?security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=%2F&allowInsecure=0#🔒
 trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=1#🔒
 trojan://humanity@212.24.104.79:2053?allowInsecure=0&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%7C%20212.24.104.79%3A2053
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#4Mohsen-3379
 trojan://d72d3a9f-9510-4bda-ba57-673b26dcf465@212.24.103.3:2053?security=tls&sni=uplod.ir&type=tcp#sshocean-lt1_tcp
 vless://70d73194b3424d7c826dcf2d3ad3adff@109.235.70.90:443?flow=xtls-rprx-vision&fp=chrome&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&security=reality&sid=96e03e0f184639ef&sni=www.asus.com&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%7C%20109.235.70.90%3A443
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@212.24.105.101:443?encryption=none&fp=&pbk=MbRONgV8ADD5B_aKDBv15LAW2a8QZok5bkkZexRRVAs&security=reality&sid=2301ac8aee8bf6d4&sni=b58e68t.lt1.h1clayd.click&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%7C%20212.24.105.101%3A443
 vless://965f5b8b-b762-4281-bb45-60fb1e346c94@212.24.107.219:37801?security=&encryption=mlkem768x25519plus.native.0rtt.IiGsoDr-_kzB_Q070YWKe1YVWwgdZCUpD5QG6-590Dg&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%7C%20212.24.107.219%3A37801
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@212.24.105.101:443?encryption=none&fp=&pbk=MbRONgV8ADD5B_aKDBv15LAW2a8QZok5bkkZexRRVAs&security=reality&sid=2301ac8aee8bf6d4&sni=b58e68t.lt1.h1clayd.click&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%7C%20212.24.105.101%3A443

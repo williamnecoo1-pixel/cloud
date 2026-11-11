@@ -1,0 +1,2 @@
+vless://c792dd9a-1693-4246-b71b-5ea51beb6e83@39.109.50.208:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
+vless://4c2cc856-aa2c-41d3-bd92-9fad535d6250@39.109.50.124:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒

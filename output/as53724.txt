@@ -1,6 +1,6 @@
 trojan://8r%3C%5B9%27l6hAO%238ZQi@199.119.137.77:2053?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@199.119.137.41:2053?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram#
 trojan://8r%3C%5B9%27l6hAO%238ZQi@199.119.137.78:2053?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram#
+trojan://8r%3C%5B9%27l6hAO%238ZQi@199.119.137.41:2053?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram#
 trojan://humanity@199.119.137.32:8443?security=tls&sni=www.cordweave.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
 trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com#[8754][JP][0][SS][None][yaney_01][2024-01-18][2026-07-25
 vmess://eyJhZGQiOiAiMTAzLjIxNC42OC41NyIsICJ2IjogMiwgInBzIjogIlsxMzddW0pQXVswXVtWTUVTU11bTm9uZV1beWFuZXlfMDFdWzIwMjQtMDEtMThdWzIwMjYtMDctMjkgMDI6MDRdIiwgInBvcnQiOiAiMTAwMDEiLCAiaWQiOiAiZWJjYTVmNjgtYmY1OS00MDgxLWU2NTgtZjE1ODgzOWMyZjVjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogInRscyJ9

@@ -20,9 +20,9 @@ trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@157.254.38.210:20063?security=tls&
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20048?allowInsecure=1&sni=hk.catxstar.com&type=tcp#trojan-1854012037
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20006?allowInsecure=1&sni=hk.catxstar.com&type=tcp#trojan-1854014252
 trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@154.64.226.149:9150?security=tls&sni=hk.catxstar.com&type=tcp&fp=chrome#🔒
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@157.254.38.210:20123?sni=hk.catxstar.com&allowInsecure=0#US
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug8J+Hr/Cfh7VKUC0xMjMuMTA4LjcwLjIxMS0wODMxIiwiYWRkIjoiMTIzLjEwOC43MC4yMTEiLCJwb3J0IjoiODA4MCIsInR5cGUiOiJhdXRvIiwiaWQiOiJlZmI3NDhlYy1jOTIxLTQyYTEtYWM5ZS0xZDU0ODVkNmM0NDciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbSIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgU2hhdGFrVlBOIDczMDU3MiIsImFkZCI6IjExNi4yMDYuOTMuMTY1IiwicG9ydCI6IjM5OTc1IiwidHlwZSI6Im5vbmUiLCJpZCI6ImJiODkyMDc4LTk4ZWYtNDMyMS1lZGY0LTRjNDA4ZWRkNWFlMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@157.254.38.210:20123?sni=hk.catxstar.com&allowInsecure=0#US
 vless://cf16297a-79ef-454b-94e3-030ae8503886@103.137.215.177:443?encryption=none&security=reality&pbk=Vwm4rDhe5zEjYsSO9vcR0zdeansCTL6GOtXXNWlZXG0&sid=0123456789abcdef&sni=www.apple.com&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Unknown%20%7C%20103.137.215.177%3A443
 vless://e28c2204-a259-4f0c-b9a5-57e390fc3ab0@103.137.215.233:443?encryption=none&security=reality&pbk=k_w0QOrnHpsCOiQsz-EY7NZs14BpB2fn2_zHt0UTMGw&sid=d8324dce91b5c3a6&sni=www.apple.com&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Unknown%20%7C%20103.137.215.233%3A443
 vless://7b102311-43fd-4e8f-877e-8090623c101d@proxyip.jp.cmliussss.net:443?fp=chrome&host=vp10.pages.dev&path=%2F+&security=tls&sni=vp10.pages.dev&type=ws#vless-1853979352

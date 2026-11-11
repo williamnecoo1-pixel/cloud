@@ -5,6 +5,9 @@ trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.85.99.178:2096?sni=vle.amclubd
 trojan://d1a4cbb2943e4d27addae29bd449907a@195.54.161.249:9443?security=reality&sni=apple.com&pbk=4GpsOZbpJebCusrB0RnY4OcKroFdXGneQ04VmkggIlE&sid=aabbccdd&type=tcp&fp=random#GB
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#US
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&encryption=none#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.238.203.14:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws
+vless://77dc177b-79d9-49ac-92e1-2f1011faa5e3@45.149.172.74:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=U3L2Aed8YfC7Aw2sRv_DJDnbOXVP-XUiyxQe3_h7LT8&security=reality&sid=626d38f0ea642e3b&sni=www.logitech.com&type=tcp#5⛽@oneclickvpnkeys
+vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=/vless&security=none&type=ws#🐊84@v2ray_configs_pools
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#United%20States
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&encryption=none#United%20States
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#🔒
@@ -40,8 +43,8 @@ vless://f14d0d37-9c0e-4376-9d33-94aba1859e47@45.150.174.82:8443?security=reality
 vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@91.238.82.243:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#🔒
 vless://196d7017-b91c-43dc-87ca-d88de911145b@91.238.82.240:443?security=reality&flow=xtls-rprx-vision&sni=maviks.ru&type=tcp&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.85.99.177:8880?sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳&allowInsecure=0#🔒
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@154.85.99.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.85.99.77:8880?sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳&allowInsecure=0#🔒
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.85.99.20:8880?type=ws&host=ip.langmanshanxi.top&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@154.85.99.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.85.99.254:8880?type=ws&host=yg.bantony199.top&path=%2F#🔒
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@154.85.99.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.85.99.20:8880?type=ws&host=ip.langmanshanxi.top&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒

@@ -1,8 +1,9 @@
 trojan://1234567890@148.253.215.61:443?sni=kfm-bn0.pages.dev#@DeltaKroneckerGithub
-trojan://1234567890@148.253.215.61:443?sni=kfm-bn0.pages.dev#DE
-trojan://humanity@148.253.212.42:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@148.253.210.248:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%7C%20148.253.210.248%3A443
 vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@148-253-210-191.sslip.io:443?alpn=http%2F1.1&host=148-253-210-191.sslip.io&path=%2Ftest-ws&security=tls&sni=148-253-210-191.sslip.io&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%7C%20148-253-210-191.sslip.io%3A443
+trojan://1234567890@148.253.215.61:443?sni=kfm-bn0.pages.dev#DE
+trojan://humanity@148.253.212.42:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@148.253.210.248:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/udfyfws&security=tls&encryption=none&insecure=1&host=octopusss5.info&type=ws&allowInsecure=1&sni=octopusss5.info#🇫🇷[openproxylist.com]
 vless://e7353f42-1b08-4521-b145-c1d4c4ab0233@148.253.211.190:15092?mode=multi&security=reality&encryption=none&authority=&pbk=iC8Bb2OV8PgEI0_4RPZecUE3vm6vsLnZ42zvbPeVIgw&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=shved.bkwidjet.ru&sid=cb4d31a32bc04d7e
 vless://e7353f42-1b08-4521-b145-c1d4c4ab0233@148.253.211.190:443?security=reality&encryption=none&pbk=iC8Bb2OV8PgEI0_4RPZecUE3vm6vsLnZ42zvbPeVIgw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=es.bkwidjet.ru&sid=cb4d31a32bc04d7e
 vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?security=reality&type=tcp&packetEncoding=none&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=bdac121c7debdaba&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8#🇸🇪

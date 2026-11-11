@@ -1,6 +1,6 @@
 vless://219d848d-60f2-4321-8275-72b9b575b37e@158.224.90.175:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20158.224.90.175%3A443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.214.50:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.90.158:443?encryption=none&security=tls&sni=zdyd.kpcloud.eu.org&type=ws&path=%2Fblue
-vless://219d848d-60f2-4321-8275-72b9b575b37e@158.224.90.175:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@216.221.213.149:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒
+vless://219d848d-60f2-4321-8275-72b9b575b37e@158.224.90.175:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@216.221.213.189:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒

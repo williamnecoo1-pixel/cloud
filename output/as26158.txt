@@ -1,6 +1,6 @@
+trojan://dns68@135.84.79.80:443/?type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=trojan.putata.us.kg#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20135.84.79.80%3A443
+trojan://dns68@135.84.79.80:443/?type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=trojan.putata.us.kg#%40Hope_Net-join-us...
 trojan://dns68@135.84.79.80:443/?type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=trojan.putata.us.kg
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@135.84.79.178:2096?sni=vle.amclubdns.dpdns.org
-trojan://dns68@135.84.79.80:443/?type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=trojan.putata.us.kg#%40Hope_Net-join-us...
-trojan://dns68@135.84.79.80:443?security=tls&sni=trojan.putata.us.kg&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20135.84.79.80%3A443
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.79.30:8880?security=none&type=ws&host=vms.lifetime35.workers.dev&path=/#🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.79.177:8880/?type=ws&encryption=none&flow=&host=ip.langmanshanxi.top&path=%2FTelegram%40WangCai2%2F%3Fed%3D2560
