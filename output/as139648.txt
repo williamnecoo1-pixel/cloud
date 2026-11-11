@@ -1,1 +1,0 @@
-trojan://humanity@103.218.173.218:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD%20%284%29

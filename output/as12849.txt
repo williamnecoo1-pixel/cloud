@@ -1,1 +1,0 @@
-vless://808a0627-05e5-47b3-8d27-edd65020ef09@37.142.205.77:20443?type=tcp&security=reality&headerType=none&fp=chrome&sni=://microsoft.com&flow=xtls-rprx-vision&pbk=p8q3yhwdryc9YfL-xSO78M03SIF5LrizXc_7R9ARYQ8&sid=183d612c&spx=/#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20-%20Tel%20Aviv%20%7C%2037.142.205.77%3A20443

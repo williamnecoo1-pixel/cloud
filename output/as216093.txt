@@ -1,1 +1,0 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.87.11.56:8000?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560&fp=chrome#

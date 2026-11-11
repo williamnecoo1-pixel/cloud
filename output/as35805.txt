@@ -1,1 +1,0 @@
-vless://9c55c7eb-d53e-40fa-a0c9-e25d2a345073@94.43.238.112:2053?&security=tls&fp=random&sni=jp-osa.862400.xyz&type=ws&headerType=none&host=jp-osa.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A_110719001

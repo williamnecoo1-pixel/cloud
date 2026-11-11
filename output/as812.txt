@@ -1,1 +1,0 @@
-vless://3bcbd5cd-e791-4770-8bc7-7b1d941c9513@pooya.ddns.net:443?path=%2FSxDYl9d8vvt7fVuJ4SOPKqC6&security=tls&encryption=none&alpn=h2,http/1.1&host=sahnama.com&fp=chrome&type=ws&sni=sahnama.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Scarborough%20%7C%20pooya.ddns.net%3A443

@@ -1,3 +1,0 @@
-trojan://Aimer@199.231.45.35:443/?type=tcp&security=tls&sni=agepn.ambercc.filegear-sg.me
-trojan://7xsV2m8WAA4poyMgu9wpRQr8il1xQH_k@199.231.45.10:443?security=tls&sni=ws.universall.shop&type=ws&host=ws.universall.shop&path=%2Fen%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒
-trojan://Aimer@199.231.45.35:443/?type=tcp&security=tls&sni=agepn.ambercc.filegear-sg.me#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF

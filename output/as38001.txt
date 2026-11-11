@@ -1,5 +1,0 @@
-vless://3e33f29c-44aa-49aa-94f7-fac8fd018b9e@38.225.102.22:43000?security=tls&flow=xtls-rprx-vision-udp443&sni=www.hkust.edu.hk&fp=edge&allowInsecure=0#🔒
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.77:43000?security=reality&flow=xtls-rprx-vision&sni=www.hkust.edu.hk&type=tcp&fp=firefox&pbk=fpW2C8i9N9DM6kVILbCOhxxCgRUhZikdM8sGT1Nb8iw&sid=9cb783#🔒
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.31:43000?security=reality&flow=xtls-rprx-vision&sni=www.hkust.edu.hk&type=tcp&fp=edge&pbk=uqShUD8Z-3FH3StSBpj9sQrLSOkyGD_AkIgSEuWMwVI&sid=8c6d66793d191a#🔒
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.82:43000?security=reality&flow=xtls-rprx-vision&sni=www.hkust.edu.hk&type=tcp&fp=ios&pbk=rMfhtOgMGfc1eZXxx7vxBC1RzSH3MJ5MAaZOE-Vx2WU&sid=c28eecde4a#🔒
-vless://54af7d89-3ac6-426b-82c2-993984064066@113.29.230.65:8880?security=reality&flow=xtls-rprx-vision&sni=www.apple.com&type=tcp&fp=chrome&pbk=afyGbyVtSnU4-TVYh_UG3eAOwjrH2MNgxcxKeD_aOEM&sid=93c21ebdd1f7349e#🔒

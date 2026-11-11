@@ -1,1 +1,0 @@
-trojan://114514@109.121.39.70:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjaaa.hhllfly.kdns.fr&path=%2F#@DeltaKroneckerGithub

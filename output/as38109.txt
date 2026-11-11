@@ -1,1 +1,0 @@
-vless://49e6a7af-97c5-4c33-b749-e59d7b5eaa30@120.143.180.126:28030?security=tls&sni=mot.gike.dpdns.org&type=ws&host=mot.gike.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20120.143.180.126%3A28030

@@ -1,1 +1,0 @@
-vless://fd35f1f2-2244-4f76-95a2-b16499336ccc@45.144.18.80:1080?security=tls&sni=api.api50951.ir&type=grpc&serviceName=api.api50951.ir&allowInsecure=0#🔒

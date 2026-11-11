@@ -1,1 +1,0 @@
-vless://2c5e1028-528f-4017-8832-addcb6797ddf@88.151.114.24:443?security=tls&sni=ru.dostupnety.website&type=ws&host=ru.dostupnety.website&path=%2Fws-hidden&fp=chrome#🔒

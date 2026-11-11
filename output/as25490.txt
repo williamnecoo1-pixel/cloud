@@ -1,2 +1,0 @@
-vless://e10286ec-90b8-4026-aa69-b43016a6bd6e@193.33.133.106:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=max.ru&pbk=437aLH3no_OoVjc1kHenwwiLl02NVggpFLESF-Nu1Fs&sid=27e53bbcab7593d7&spx=/#
-vless://77864cb4-7791-4e01-97ed-0aaf6904389f@193.33.133.189:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=fi1.foxnezia.dev&fp=firefox&pbk=Ga_FpKnw8ZXngh86KkciKc7SrKNljVat1_8fkyVWbjY&sid=4fd3840415403f31&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20LTE%2067%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel

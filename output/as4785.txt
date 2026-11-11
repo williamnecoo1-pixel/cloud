@@ -1,2 +1,0 @@
-trojan://Fn9TZuYXiFYhsyp65T@os-2.rise-fuji.com:443?sni=os-2.rise-fuji.com&type=tcp#@DeltaKroneckerGithub
-trojan://Fn9TZuYXiFYhsyp65T@os-2.rise-fuji.com:443?sni=os-2.rise-fuji.com&type=tcp#JP

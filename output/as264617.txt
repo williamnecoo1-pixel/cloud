@@ -1,2 +1,0 @@
-vless://e7e8f531-d60e-4a78-ad15-c63a01b425b8@1.swsconnecction.com:443?security=reality&encryption=none&pbk=vEV9q98bop1SNwYT5WKNHJOjktWvksieudOQEXgJbhU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1.swsconnecction.com&sid=3139c392#%F0%9F%87%B5%F0%9F%87%A6%20Panama%20-%20Unknown%20%7C%201.swsconnecction.com%3A443
-vless://721bacfe-ff09-4e63-a735-686015bc1351@185.191.238.195:8443?encryption=none&security=reality&sni=s3.netavex.com&fp=chrome&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0&type=xhttp&path=%2Fassets%2Fv2%2Fpkg#@DeltaKroneckerGithub

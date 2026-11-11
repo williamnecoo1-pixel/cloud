@@ -1,3 +1,0 @@
-vless://ecf12398-8689-4c8d-91e2-8f1aeb8bd556@31.77.188.214:443?mode=auto&path=/3c0ffc0e4b37&security=reality&encryption=none&extra={
-vless://ecf12398-8689-4c8d-91e2-8f1aeb8bd556@31.77.188.214:443?mode=auto&path=/3c0ffc0e4b37&security=reality&encryption=none&extra={#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
-vless://ecf12398-8689-4c8d-91e2-8f1aeb8bd556@gerpes.aios-store.ru:45006?mode=gun&security=reality&encryption=none&pbk=T1DzX4CYLd98VHpbbGrVHGnWsXlWVud1AcGM6mqhulc&fp=chrome&spx=%2F5eb6fb3476782fe&type=grpc&serviceName=aios-de&sni=www.python.org&sid=d6afc6488f1d1758#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF

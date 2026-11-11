@@ -1,4 +1,0 @@
-vless://98dee83a-6343-402b-9a50-53269419a29f@109.122.241.82:40988?security=none&type=tcp&headerType=http#🔒
-vless://2dc574d3-b220-451d-9909-724e4fd1acf1@109.122.242.218:2086?security=none&type=ws&host=Join_Bade_Channel@JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&path=%2F#🔒
-vless://e84ecae4-4379-4607-b358-3e18ebaca089@109.122.241.5:995?security=none&type=tcp#🔒
-vless://003bbc5c-6a2f-46d4-a484-feb67f305a4e@109.122.241.46:2099?security=none&type=tcp&headerType=http&path=/favicon.ico&host=speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20109.122.241.46%3A2099

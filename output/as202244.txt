@@ -1,1 +1,0 @@
-vless://a7baa744-565f-4b46-9c61-8447391e9c62@demain.fgnconnection.life:8443?encryption=none&path=%2Fupload&security=none&type=ws&name=TG%3AYoutubeUnBlockRu#@DeltaKroneckerGithub

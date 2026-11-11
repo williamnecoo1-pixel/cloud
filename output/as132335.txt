@@ -1,2 +1,0 @@
-trojan://ttfang@166.0.244.206:2053?allowInsecure=1&sni=ttfang.fange.me&ws=1&wspath=%2F#166.0.244.206%3A2053
-vmess://eyJ2IjoiMiIsInBzIjoiIiwiYWRkIjoiMTg4LjIwOC4xNDEuMTc3IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIwOTcwODM0Zi01YjRkLTQ0ZGEtZDg5MC0xOWRjYjJhNzJkNGMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=

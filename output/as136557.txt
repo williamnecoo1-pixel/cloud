@@ -1,1 +1,0 @@
-vless://6105f7b4-8b5b-4cf4-97a7-4c46b02485f5@45.128.12.173:443?security=tls&sni=aka.ms&type=ws&host=zerocore.ddns.net&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒

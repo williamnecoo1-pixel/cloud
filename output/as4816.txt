@@ -1,2 +1,0 @@
-vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@103.44.255.81:443?allowInsecure=0&sni=445566.666888.lol&type=ws&host=445566.666888.lol&path=/?ed=2560fp=chromefp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Unknown%20%7C%20103.44.255.81%3A443%202
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@103.44.255.81:443?allowInsecure=0&sni=re1.ylks0033.dpdns.org&type=ws&host=re1.ylks0033.dpdns.org&path=/?ed=2560security=tls#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Unknown%20%7C%20103.44.255.81%3A443

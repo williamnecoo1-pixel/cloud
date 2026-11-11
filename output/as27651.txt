@@ -1,1 +1,0 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@186.67.70.55:443?security=tls&sni=ja.ylks01.eu.org&type=ws&path=%2F%3Fproxyip#%F0%9F%87%A8%F0%9F%87%B1%20Chile%20-%20Santiago%20%7C%20186.67.70.55%3A443

@@ -1,3 +1,0 @@
-trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@decal.chowder.grimy.aliyungslb.com:443?sni=edge.steam-dns.top.comcast.net&type=tcp#@DeltaKroneckerGithub
-trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@decal.chowder.grimy.aliyungslb.com:443?sni=edge.steam-dns.top.comcast.net&type=tcp#%F0%9F%87%BA%F0%9F%87%B8
-trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@decal.chowder.grimy.aliyungslb.com:443?sni=edge.steam-dns.top.comcast.net&type=tcp#US

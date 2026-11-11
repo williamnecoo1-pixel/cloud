@@ -1,1 +1,0 @@
-vless://9a7c1d8e-1234-4567-890a-bcdef0123456@65.254.242.180:443?security=tls&sni=mydomain.com&type=ws&host=mydomain.com&path=%2Fv2raypath#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%20%7C%2065.254.242.180%3A443

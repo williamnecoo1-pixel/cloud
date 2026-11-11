@@ -1,3 +1,0 @@
-vless://112e4e31-1cab-446c-8be4-c416f3b5470b@ir8.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir8.boilersforpellets.com&type=ws&sni=ir8.boilersforpellets.com#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20ir8.boilersforpellets.com%3A443
-vless://2547fcff-03a0-453d-bc20-acd66ef75611@194.56.148.186:9560?security=none&type=tcp&host=varzesh3.com&path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&headerType=http#🔒
-vless://12486672-3116-48b2-8495-2d7223874a7b@am.citymobileshop.top:1433?security=none&encryption=none&type=ws&host=snapp.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40megavpn_link%20%5B7%5D

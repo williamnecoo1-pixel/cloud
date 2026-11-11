@@ -1,6 +1,0 @@
-vless://0292e6d7-2c8c-4404-b980-04a0b8365028@trbot.zoro03.shop:47536?type=grpc&mode=multi&allowInsecure=1#vless-57093
-vless://bf923569-ff69-4638-b1d3-38e3348d9571@bia.gdsrguydsrghj.ir:1010?security=&encryption=none&headerType=http&type=tcp#vless-24923
-vless://274ffda8-7918-4ced-aec8-ee5996f3b2a6@bia.gdsrguydsrghj.ir:600?security=none&encryption=none&headerType=http&type=tcp#vless-25084
-vless://6d9ced8b-5e9d-4e0b-b2b5-7b66ed1bd491@109.122.251.107:1885?security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20109.122.251.107%3A1885
-vless://dd936ba9-81bc-445b-89d3-6d993745d56c@109.122.251.152:2020/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20109.122.251.152%3A2020
-vless://31617c4b-9726-4cb1-aaee-de5adab21a43@109.122.251.188:7000?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20109.122.251.188%3A7000

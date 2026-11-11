@@ -1,1 +1,0 @@
-trojan://humanity@125.7.24.251:443?security=tls&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=%2Fassignment#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Sydney%20%7C%20125.7.24.251%3A443

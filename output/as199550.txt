@@ -1,4 +1,0 @@
-vless://8b543cf1-64ee-4126-988a-593b9ac4e1df@45.159.148.157:443/?encryption=none&flow=&host=alef.ir&type=tcp&headerType=http#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
-vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@45.159.148.197:60003?security=none&type=tcp&host=zarebin.ir&headerType=http#%F0%9F%91%89%F0%9F%86%94%40Goodbaye_filtering%0A%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%0A%C2%AE%EF%B8%8FHIRAGI%20LTD%0A%F0%9F%85%BF%EF%B8%8Fping%3A128ms%0A%E2%9A%A1VIP%20Strict%20%7C%20VLESS%20IPv4
-vless://fb224824-0cef-4dde-829b-91ee0277bf06@45.159.148.48:4246?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒
-vless://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@45.159.148.76:55956?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒

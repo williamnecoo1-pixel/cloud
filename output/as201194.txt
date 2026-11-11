@@ -1,3 +1,0 @@
-vless://76721725-687e-4c0d-b4bc-c783822c38bb@185.118.15.114:443?security=none&encryption=none&headerType=none&type=tcp#IR_1106_@Surfboardv2ray
-vless://981d217a-17c5-4e9f-9147-8c9ad3c0707b@185.118.15.148:28995?security=none&type=tcp#🔒
-vless://cf0e11b6-dc9e-881b-3ee9-6c8d879ab3c8@185.118.15.56:443?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒

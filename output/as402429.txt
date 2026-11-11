@@ -1,2 +1,0 @@
-vless://cb06778c-91e6-480a-a791-a49dcfa940d5@199.127.153.13:43000?security=reality&encryption=none&pbk=iLJlXL4PvOVex6GXgDLywQQ_j6_uJ7YMVlePIYwceF8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=1a72a06c#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
-vless://cb06778c-91e6-480a-a791-a49dcfa940d5@199.127.153.13:43000/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=reality&pbk=iLJlXL4PvOVex6GXgDLywQQ_j6_uJ7YMVlePIYwceF8&sid=1a72a06c#4Nika-a8b1b5e7f2

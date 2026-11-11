@@ -1,1 +1,0 @@
-vless://c1ac03ed-1d20-4a82-85d5-81e48121879f@43.229.254.106:80?path=%2Fvless&security=none&encryption=none&host=id3.v2vless.xyz&type=ws#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20-%20Unknown%20%7C%2043.229.254.106%3A80

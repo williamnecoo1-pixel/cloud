@@ -1,1 +1,0 @@
-vless://1fb46fdc-e3e4-35d1-bd46-685d775b5762@55.55.55.55:443?type=tcp&security=reality&sni=booking.com&fp=chrome&flow=xtls-rprx-vision&pbk=YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU&sid=6ba85179e30d4fc2#US

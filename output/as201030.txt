@@ -1,2 +1,0 @@
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@5.182.34.178:2096?sni=vle.amclubdns.dpdns.org
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.34.238:8880?security=none&type=tcp#🔒

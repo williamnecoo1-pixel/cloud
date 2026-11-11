@@ -1,2 +1,0 @@
-vless://1ad89e52-ed32-4acf-88f7-caeadb4cd493@212.80.31.132:882?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#vless-6343
-vless://c190d148-6362-4d50-a2ec-2119e4c28d45@212.16.71.25:9460?security=reality&flow=xtls-rprx-vision&sni=tgju.org&type=tcp&fp=chrome&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#🔒

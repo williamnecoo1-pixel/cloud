@@ -1,1 +1,0 @@
-vless://30e9c5c8-ed28-4cd9-b008-dc67277f8b02@4.5:443?security=tls&sni=edgetunnel-2z2.pages.dev&alpn=&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#4.5

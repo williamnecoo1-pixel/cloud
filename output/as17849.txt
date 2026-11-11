@@ -1,7 +1,0 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.199.33.104:22672?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#EPODONIOS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@113.60.219.145:27435?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Yongin-si%20%7C%20113.60.219.145%3A27435
-vless://93b99881-df03-4597-9146-0c11e46387f7@124.80.20.114:25177?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20124.80.20.114%3A25177
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.80.75.68:15772?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Yongin-si%20%7C%20124.80.75.68%3A15772
-vless://93b99881-df03-4597-9146-0c11e46387f7@124.80.75.68:25346?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Yongin-si%20%7C%20124.80.75.68%3A25346
-vless://93b99881-df03-4597-9146-0c11e46387f7@124.80.75.68:26658?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Yongin-si%20%7C%20124.80.75.68%3A26658
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.80.75.68:39658?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#%F0%9F%87%B0%F0%9F%8

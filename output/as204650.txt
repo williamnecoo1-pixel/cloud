@@ -1,7 +1,0 @@
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgSVItMi4xODkuMTE3LjEwODozNTAxMCIsICJhZGQiOiAiMi4xODkuMTE3LjEwOCIsICJwb3J0IjogIjM1MDEwIiwgImlkIjogImNkMzQ4Yzk0LWFiZmYtNDljNy1hM2VmLTU0NzVmZWM4OWQ0YyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjEwMCJ9
-vless://f43617b5-1a02-4776-bffe-85c30a27458a@2.189.117.240:8080?security=none&type=tcp&headerType=http#🔒
-vless://610a9061-8934-4200-bdf1-2fddcf6dec49@2.189.117.31:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒
-vless://64274cc4-6375-407c-8670-13eaf31a5eba@2.189.117.37:443?security=none&type=tcp&host=analytics.google.com&headerType=http#🔒
-vless://f43617b5-1a02-4776-bffe-85c30a27458a@2.189.117.143:8080?security=none&type=tcp&headerType=http#🔒
-vless://f43617b5-1a02-4776-bffe-85c30a27458a@2.189.117.141:8080?security=none&type=tcp&headerType=http#🔒
-vless://0d5cdec3-ff6c-49cb-9d7d-206d7c7d1437@2.189.111.71:443?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7IR_113_%40Surfboardv2ray

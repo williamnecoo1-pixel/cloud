@@ -1,2 +1,0 @@
-vless://89cf53e7-e429-4a3b-8926-08e7f27092bf@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#vless-67199
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@132.243.165.215:2083?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20-%20Chisinau%20%7C%20132.243.165.215%3A2083

@@ -1,1 +1,0 @@
-trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&sni=sbank.ir#4Sarina-4893

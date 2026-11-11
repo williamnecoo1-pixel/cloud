@@ -1,8 +1,0 @@
-trojan://NISHIKUITAN111@185.176.24.104:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒
-trojan://bpb-trojan@185.176.24.2:443?allowInsecure=0&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&ws=1&wspath=%2Ftr9vfP2lflALkJrNsQ%3Fed%3D2560#RELAY%F0%9F%9A%A9%20%7C%20403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV-443%20%7C%202.34ms
-trojan://slch2024@185.176.24.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc&ws=1&wspath=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@185.176.24.178:2096?sni=vle.amclubdns.dpdns.org
-vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@185.176.24.120:8443?security=tls&sni=cgpg-at0.pages.dev&type=ws&host=cgpg-at0.pages.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.24.224:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
-vless://7e458bd8-ed76-6d70-2938-cb33adc09206@185.176.24.24:443?security=tls&sni=ct.otds.nyc.mn&type=xhttp&host=ct.otds.nyc.mn&path=/xhttp&fp=chrome#🔒
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.24.140:2087?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_10

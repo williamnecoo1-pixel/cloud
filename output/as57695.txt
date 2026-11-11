@@ -1,1 +1,0 @@
-trojan://2af31107-e577-4995-8247-e8a57855e90b@194.114.138.1:10011?security=tls&sni=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&allowInsecure=1&type=tcp#Channel%20id:%20@AlienVPN402

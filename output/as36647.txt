@@ -1,1 +1,0 @@
-vless://565b50d4-604d-4a60-9fc2-d9d3dac0aec6@yahoo.com:443?encryption=none&type=ws&security=tls&path=%2Fid-pusat&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20yahoo.com%3A443

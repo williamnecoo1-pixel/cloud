@@ -1,3 +1,0 @@
-trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@194.146.26.40:443?allowInsecure=1&sni=4-193-105-141.nhost.00cdn.com#@DeltaKroneckerGithub
-trojan://e74d5160-825d-11ee-a8ff-1239d0255272@194.146.26.95:443?security=tls&sni=uplod.ir&type=tcp#TR%20howdy%20tcp
-trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@194.146.26.40:443?allowInsecure=1&sni=4-193-105-141.nhost.00cdn.com#TR

@@ -1,4 +1,0 @@
-vless://8f29e0c2-1cdf-49ad-807d-7e9ad2c55637@212.80.10.211:65235?security=none&type=tcp&host=speedtest.net&headerType=http#🔒
-vless://0a32cad0-8752-4309-af82-22aae4c83aa7@212.80.10.29:10196?type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http#🔒
-vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#🇮🇷
-vless://e6802b02-48e7-48fa-945c-a4e08e5cf09e@212.80.10.88:8001?security=reality&flow=xtls-rprx-vision&sni=highspeedinternet.com&type=tcp&fp=chrome&pbk=4BNkudIPt7bMS-DZ2olXt3AMgJhGxPzqta9G-ES5KCU&sid=74afcbbb#🔒

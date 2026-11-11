@@ -1,1 +1,0 @@
-trojan://769c2da7-add3-42e8-a03c-07be9fcf483c@146.19.215.81:443?security=tls&headerType=none&type=tcp&sni=zaelot.cc#%40v2rayng_org-

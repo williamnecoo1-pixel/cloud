@@ -1,2 +1,0 @@
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@185.179.82.201:443?encryption=none&security=tls&sni=shuma.ccwu.cc&fp=chrome&type=ws&host=shuma.ccwu.cc&path=%2F#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20-%20Unknown%20%7C%20185.179.82.201%3A443
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.179.82.246:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20-%20Unknown%20%7C%20185.179.82.246%3A443

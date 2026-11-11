@@ -1,2 +1,0 @@
-vless://698e5db2-31ad-44ba-8158-59a03edbfd92@45.131.66.247:20002?security=tls&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&type=ws&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&path=%2F%40Marisa_kristi&fp=chrome#[17391][DE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16
-vless://1036ed52-d1fe-410e-a961-0db84299dd5e@2.56.245.9:20357?path=%2F&security=none&encryption=none&host=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&type=ws#@meli_proxyy

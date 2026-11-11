@@ -1,2 +1,0 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.69:587?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%20103.180.161.69%3A587
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.123:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%20103.180.161.123%3A587

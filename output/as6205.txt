@@ -1,1 +1,0 @@
-vless://62a1c62a-99bf-466e-8270-0aa37fb74be0@104.247.189.230:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=DGsei9cK5PqALlHa6zaFx82PWRvEK_9-D9TtyiDeNRs&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20Wi-Fi%201%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel

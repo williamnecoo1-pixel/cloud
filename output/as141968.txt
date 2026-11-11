@@ -1,2 +1,0 @@
-trojan://21887810-2e7d-11ed-918b-1239d0255272@idtj-ikd.bonds.id:443?allowInsecure=0#@De
-trojan://4f7f8560-5873-11ed-b732-225401db9d57@103.180.125.251:443?sni=Blog.Irancell.IR#

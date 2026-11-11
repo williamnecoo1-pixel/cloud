@@ -1,3 +1,0 @@
-vmess://eyJhZGQiOiIxNTguNTguMTg4LjIxIiwicG9ydCI6IjQ1MDYxIiwiaWQiOiIwOTZiYjc5OS02NTU0LTRiYWMtODIyZS0zYWE1NjRlYTMxZmYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidiI6IjIiLCJwcyI6Ilx1RDgzQ1x1RERFRVx1RDgzQ1x1RERGNyBJcmFuIC0gVGVocmFuIHwgMTU4LjU4LjE4OC4yMTo0NTA2MSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInR5cGUiOiJub25lIiwic2VydmVyUG9ydCI6MCwibmF0aW9uIjoiXHVEODNDXHVEREVFXHVEODNDXHVEREY3SVIifQ==
-vless://d9569dcd-b246-ebec-50a9-bc9dc5c43041@185.2.15.126:443?security=tls&sni=iran.ir&type=xhttp&host=iran.ir&path=/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒
-vless://d1182cea-8c20-4ce2-98ca-92547ac9646e@185.2.15.232:8080?security=none&type=tcp&host=speedtest.net&headerType=http#🔒

@@ -1,1 +1,0 @@
-trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#@Alirewa-S2-59

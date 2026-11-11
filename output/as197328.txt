@@ -1,2 +1,0 @@
-vless://VIPNETWORK@85.133.253.243:443?security=none&encryption=none&headerType=none&type=tcp#vless-16307
-vless://2563d4a2-1d3f-4bce-83c8-65a334ae1b14@85.133.241.70:2020?security=none&type=tcp&host=fast.com&headerType=http#🔒

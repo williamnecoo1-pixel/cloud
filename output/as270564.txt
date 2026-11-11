@@ -1,1 +1,0 @@
-vless://fc898b52-ff3f-488b-8ef8-ab6bb2108504@24.152.37.183:40379?security=reality&encryption=none&pbk=mrx7ZxuUz4aON74DU6ylqadNokiUc95AxZq2SQNFwEo&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=ee2880689d8068&fp=chrome#05%20%C2%B7%20%F0%9F%87%A7%F0%9F%87%B7%20Fobia%20%C2%B7%20%F0%9F%90%8C%202.4%20Mb%20%C2%B7%20Brazil

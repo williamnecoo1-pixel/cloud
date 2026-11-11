@@ -1,4 +1,0 @@
-trojan://e62db6f7-88ea-425d-90de-a9ba7770b1d6@163.123.192.33:443?type=tcp&sni=16-163-218-240.nhost.00cdn.com&allowInsecure=1#4Sarina-4940
-trojan://e62db6f7-88ea-425d-90de-a9ba7770b1d6@163.123.192.36:443?type=tcp&sni=16-163-218-240.nhost.00cdn.com&allowInsecure=1#4Sarina-4941
-trojan://7f4e8527-79da-49c3-8ca8-64eef120882f@163.123.192.149:443?security=tls&sni=download.xn--mes358acgm99l.com&allowInsecure=1&type=tcp#4Mohsen-3564
-trojan://6f9d4a83-4682-48d5-a217-7938860b0070@163.123.192.146:443?security=tls&sni=4-193-105-141.nhost.00cdn.com&fp=firefox&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%E3%80%90YouTube%20%40Play%E5%AE%9E%E9%AA%8C%E5%AE%A4%E3%80%91

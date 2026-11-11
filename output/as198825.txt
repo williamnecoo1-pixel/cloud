@@ -1,3 +1,0 @@
-vless://2400a6f1-c074-49a6-8255-a3b10ba35d9e@fr-1.bnc-gt.co.uk:443?&security=tls&fp=qq&sni=fr-1.bnc-gt.co.uk&type=ws&headerType=none&host=fr-1.bnc-gt.co.uk&path=%2Fws%2F#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%7C%20fr-1.bnc-gt.co.uk%3A443
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@82.22.2.225:443?fp=qq&security=tls&serviceName=grpc&sni=b-wl.fr-2.bnc-gt.co.uk&type=grpc#FR
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@82.22.2.225:443?fp=qq&security=tls&serviceName=grpc&sni=b-wl.fr-2.bnc-gt.co.uk&type=grpc#vless-1946055078

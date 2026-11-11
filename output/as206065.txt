@@ -1,4 +1,0 @@
-trojan://7ee633a0-0490-4607-9a88-4b7299dabecb@109.230.91.202:443?security=tls&sni=gr1.grtj.sulindac.top&type=grpc&serviceName=gr1.grtj.sulindac.top#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20109.230.91.202%3A443
-vmess://eyJhZGQiOiAiODEuOTEuMTU4Ljk4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3Nzg2NGFkYy1iNzk1LTRhODItODIxMi1mMmYzMTY5YjExOWIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjI5NzQ1IiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1XUy1OQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgSVItODEuOTEuMTU4Ljk4OjI5NzQ1IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
-vless://fba209ab-cb28-45bd-ba29-d6d12b335ebe@188.136.206.97:43213?security=tls&sni=info1.gamavpn.li&type=ws&path=%2F%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒
-vless://e8fbac3b-04c2-4016-b56f-eee23b35f8c8@45.144.124.143:443?path=%2F&security=&encryption=none&host=45.144.124.143&type=ws#******-@SPEEDS_VPN`

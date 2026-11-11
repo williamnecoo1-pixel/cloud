@@ -1,6 +1,0 @@
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?security=&encryption=none&headerType=&type=tcp#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
-vless://604c8c22-1524-4a3f-b85f-d3375482dcc4@89.19.223.238:8443?type=tcp&security=none&encryption=none#@DeltaKroneckerGithub
-vless://f0be198c-db8c-4622-8803-ba3c8c8db515@89.19.223.139:8443?#🇸🇪
-vless://d7790b85-9659-4558-a405-e0ab57d32984@89.19.223.97:8443?&type=tcp&headerType=none&path=%2F#
-vless://4fb684c9-977f-4a7c-82a5-1f70fc141510@89.19.223.4:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nRgYtKEwbv--hj7Yh_kqXhPXLOK1xSzdOGA8Q6mCUyU&sid=372c05b48fe83e5b&sni=yandex.com&path=&host=&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%E2%80%94%20%7C%20193%20%7C%20%40ByeWhiteLists2
-vless://4fb684c9-977f-4a7c-82a5-1f70fc141510@89.19.223.62:3443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nRgYtKEwbv--hj7Yh_kqXhPXLOK1xSzdOGA8Q6mCUyU&sid=372c05b48fe83e5b&sni=yandex.com&path=&host=&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%E2%80%94%20%7C%20195%20%7C%20%40ByeWhiteLists2

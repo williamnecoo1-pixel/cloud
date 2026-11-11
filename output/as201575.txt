@@ -1,2 +1,0 @@
-trojan://humanity@89.36.137.173:443?allowInsecure=1&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#@DeltaKroneckerGithub
-vless://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083/?type=tcp&encryption=none&flow=&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome&packetEncoding=xudp#4Kian-1317cc5e77

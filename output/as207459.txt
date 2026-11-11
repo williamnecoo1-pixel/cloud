@@ -1,7 +1,0 @@
-vless://d5b25051-c06c-4af5-9cd6-b6000310177c@213.142.150.73:443?encryption=none&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=-FkwzDH8lJExoLie681Fqrfrnm-Wj72TQdPyshWkO1c&sid=ce310cc046141015&type=tcp&headerType=none#
-vless://f9a5e327-8960-4123-b0ec-e037ec739224@46.31.79.63:45458/?type=grpc&encryption=none&flow=#[14298][TR][0][VLESS][None][freeconfigv2][2023-09-22][2026-11-10
-vless://315145cd-0955-4594-98e7-e1390e90ef33@46.31.76.3:80?security=reality&sni=journalofbigdata.springeropen.com&type=xhttp&host=bleep.global.ssl.fastly.net&path=%2Fpwpw&fp=chrome&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&sid=5942e2#🔒
-vless://4a58fbe1-9d81-431f-9ea6-a22515a5af86@213.142.134.9:6900?security=reality&sni=Uplader-Game.zx-shop.ir&type=tcp&fp=chrome&pbk=1_9XT9SMmExJYv7ejpQwzYTXmZlqX7grBo5KNxk_IFE&sid=f49fd7abeda30e80#🔒
-vless://53353c51-ab85-4f1d-b81c-d855a0cdeeba@213.142.132.75:443?type=ws&path=/#%F0%9F%87%B9%F0%9F%87%B7%20WS-None%20%7C%20%40v2nodes
-vless://3588f520-67db-48b3-e80f-24f03a82e84e@213.142.134.198:56504?security=tls&sni=speedtest.net&type=ws&path=/@game_file2020---@l9lIIII---@game_file2020---@game_file2020---@game_file2020---@game_file2020&fp=chrome&alpn=http/1.1&allowInsecure=1#🔒
-vless://67525da1-a606-4725-98f3-513c13904d9d@213.142.133.184:11928?type=tcp#🔒

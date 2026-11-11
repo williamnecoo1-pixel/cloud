@@ -1,2 +1,0 @@
-vless://c54dd620-fa5f-46de-82c2-9d1492ee74e4@103.98.215.248:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tor2.jarviskit.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%7C%20103.98.215.248%3A443
-vless://turboo-server@canada.turboo-server.com:10538?type=grpc&security=reality&sni=discordapp.com&fp=firefox&pbk=lTkMprNNGET2C1Mxr9YH_MUopv4zttTN8pCa-GwNBwU&sid=eeb0316389#CA

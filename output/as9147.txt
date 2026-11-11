@@ -1,2 +1,0 @@
-vless://e3ad2103-0f2d-4926-bc46-562dd3fbd3ba@212.86.94.176:31388?security=none&type=grpc#🔒
-vless://629f0805-3f8f-41a1-8297-3b065bcf84a8@212.86.94.194:18164?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒

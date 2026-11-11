@@ -1,1 +1,0 @@
-vless://12345678-1488-6769-2024-234720041116@188.43.105.233:1443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lb8ZrTxeZ-_r4fnFMjqH0-H-egSCxYU9_qmyRRrD-Xc&security=reality&sid=67&sni=static.vk.com&spx=%2F&type=tcp#

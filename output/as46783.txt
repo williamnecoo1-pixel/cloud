@@ -1,1 +1,0 @@
-vless://9d98d1db-e679-45df-8e15-741cfb06031f@154.51.41.193:443?sni=tele-eyz.pages.dev&type=ws&host=tele-eyz.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%20%237

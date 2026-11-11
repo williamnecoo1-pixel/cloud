@@ -1,2 +1,0 @@
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@185.139.7.55:17756?allowInsecure=0#🔒
-vless://870028b4-69aa-45f5-a6fd-5063870ab641@45.154.197.56:17007?encryption=none&security=none&sni=45.154.197.56&type=tcp&headerType=none#adi%7c0620%2b-%2bfree_share

@@ -1,1 +1,0 @@
-trojan://dea22174-850a-48f9-8974-976d46adc215@200.180.163.38:443?allowInsecure=1&sni=666.85s.me&ws=1&wspath=%2F#@DeltaKroneckerGithub

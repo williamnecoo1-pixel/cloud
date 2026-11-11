@@ -1,1 +1,0 @@
-vless://9d98d1db-e679-45df-8e15-741cfb06031f@36.38.117.86:12203?security=tls&sni=tele-eyz.pages.dev&type=ws&path=%2Ffp%3Dchrome&host=tele-eyz.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%232

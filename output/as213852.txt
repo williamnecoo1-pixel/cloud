@@ -1,7 +1,0 @@
-vless://172b0030-57a1-4121-9405-fdc2168c2dc5@46.34.163.15:443?type=tcp&security=reality&sni=speedtest.net&fp=safari&pbk=lOSV30_ooEIjNnh43qQZzYqv7F7R6DCh9kyA5N36tmE&sid=6b#@DeltaKroneckerGithub
-vless://55a92b4f-3e28-4545-a49e-9a8f82d541d4@62.60.220.95:2222?type=ws&host=www.mansory.com,www.netflix.com,www.cloudflare.com,www.lamborghini.com,upera.shop,satra.ir,www.zula.ir#🔒
-vless://9b930f59-9447-43bb-ab22-2a847344de33@62.60.218.219:30443?security=none&type=tcp&host=cafeariel.ir&headerType=http#🔒
-vless://05d780e3-2e9f-40b5-98f0-9f5294d9f0e4@62.60.192.104:1001?security=none&type=tcp&host=divar.ir&headerType=http#🔒
-vless://fcc8b2f5-7be7-48b7-af2b-f79cd7c6befe@62.60.194.124:57725?type=tcp&host=fast.com&headerType=http#🔒
-vless://e3aa8899-8584-4eef-9b71-0f7453672c4a@62.60.198.103:8443?security=reality&flow=xtls-rprx-vision&sni=speedtest.net&type=tcp&fp=chrome&pbk=oEUevfK4ZYD7IXa3KkveDQLScHeXIkilyrRWDj-DpDo&sid=e8#🔒
-vless://01860891-2645-420f-a494-a653d960f58d@62.60.192.110:2096?security=none&type=tcp&host=speedtest.net&headerType=http#🔒

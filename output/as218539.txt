@@ -1,1 +1,0 @@
-vless://e5223c33-b104-4f05-a893-9863e5b49592@104.234.46.135:443?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Unknown%20%7C%20104.234.46.135%3A443

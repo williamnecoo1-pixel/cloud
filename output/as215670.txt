@@ -1,1 +1,0 @@
-vless://62a08ea5-0564-47b4-a92c-25be07ad6358@109.248.18.63:443?type=grpc&security=reality&fp=firefox&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&sid=6ba85179e30d4fc2&sni=360.yandex.ru&serviceName=grpc&spx=/#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20Pavlodar%20%7C%20109.248.18.63%3A443

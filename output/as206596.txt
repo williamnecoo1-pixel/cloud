@@ -1,2 +1,0 @@
-vless://4f21615d-d8c1-466a-88b0-4a86ac3907cf@91.231.144.169:6556?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#vless-24891
-vless://Telegram-Parsashonam-10@103.130.147.66:443?mode=auto&path=%2Fp4r34m&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=p4r34m.hendevaneh.sbs&type=xhttp&allowInsecure=0&sni=p4r34m.hendevaneh.sbs#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Qom%20%7C%20103.130.147.66%3A443

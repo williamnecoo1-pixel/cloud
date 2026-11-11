@@ -1,2 +1,0 @@
-trojan://DdshthlezG@95.47.138.133:443?allowInsecure=0&sni=us1.wxgqlfx.vip&ws=1&wspath=%2FTG%40wxgqlfx
-vless://60d06568-b005-48bf-ba28-bac13b3a12ce@95.47.138.133:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%7C%2095.47.138.133%3A443%202

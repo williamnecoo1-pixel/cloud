@@ -1,2 +1,0 @@
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@www.visa.cn:443?security=tls&fp=chrome&sni=tl.520783.xyz&type=ws&headerType=none&host=tl.520783.xyz&path=/assets/dist/app-update-payload.dat#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Unknown%20%7C%20www.visa.cn%3A443
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@www.visa.cn:443?&security=tls&fp=edge&sni=tl.520783.xyz&type=ws&headerType=none&host=tl.520783.xyz&path=%2Fassets%2Fdist%2Fapp-update-payload.dat#
