@@ -1,0 +1,1 @@
+trojan://Aimer@199.231.45.35:443/?type=tcp&security=tls&sni=agepn.ambercc.filegear-sg.me

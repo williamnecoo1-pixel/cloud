@@ -1,0 +1,1 @@
+vless://286caff5-bc58-42f2-f707-e779dd66b7b4@i1.tikaltk.xyz:1515?path=/&security=&encryption=none&host=tamasha.com&type=ws#vless-30501

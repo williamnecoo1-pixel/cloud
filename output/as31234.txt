@@ -1,1 +1,3 @@
 vless://e3f4a5b6-c7d8-3456-9012-23456789abcd@185.115.36.248:443?type=ws&encryption=none&host=proxy.aslivpn.ir&path=/@Filter_breaker&security=tls&sni=proxy.aslivpn.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20-%20Uzhhorod%20%7C%20185.115.36.248%3A443
+vless://c3d4e5f6-a7b8-3456-9012-cdef01234567@185.115.36.248:8443?type=ws&encryption=none&host=vpn.aslivpn.ir&path=/@Filter_breaker&security=tls&sni=vpn.aslivpn.ir&fp=chrome#
+vless://e3f4a5b6-c7d8-3456-9012-23456789abcd@185.115.36.248:443?type=ws&encryption=none&host=proxy.aslivpn.ir&path=/@Filter_breaker&security=tls&sni=proxy.aslivpn.ir&fp=chrome#

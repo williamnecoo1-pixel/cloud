@@ -1,0 +1,3 @@
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@133.18.140.38:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd
+trojan://e42b8392-782e-43f4-8403-1f006c2173ab@133.18.227.50:30000?security=tls&sni=cdn.jp-01.planb.cat&type=tcp#4Sarina-4938
+trojan://14bdba6dede262387ebdebaa706e1c90@trs02.bolab.net:443?security=tls&sni=trs02.bolab.net#[602][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10

@@ -1,0 +1,1 @@
+vless://51d22c42-5342-4715-a927-1b76226dd4cf@80.94.83.211:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@vipv2rey@vipv2rey&sni=join-telegram-channel-vipv2rey.mamare.ir#Vipv2rey

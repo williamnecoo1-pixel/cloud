@@ -1,0 +1,1 @@
+vless://d9569dcd-b246-ebec-50a9-bc9dc5c43041@185.237.85.243:443?security=tls&sni=iran.ir&type=xhttp&host=iran.ir&path=/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒

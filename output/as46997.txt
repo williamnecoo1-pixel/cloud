@@ -1,1 +1,5 @@
+trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#4Sarina-4892
+trojan://faf42aa0a9ad4c1e@134.195.101.32:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp#4Sarina-5028
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@103.152.113.60:443?encryption=none&security=tls&sni=mkvmh.alnm.a7e.hh.vavava.kdns.fr&fp=chrome&type=ws&host=mkvmh.alnm.a7e.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Jose%20%7C%20103.152.113.60%3A443
+vless://1e2b6632-576e-4592-821d-74415ca6fb68@pq.us06.yydjc.top:443?type=tcp&encryption=none&headerType=none&quicSecurity=none&security=reality&flow=xtls-rprx-vision&insecure=0&sni=iosapps.itunes.apple.com&pbk=GRpUsIrhrxRKshbSbWFs1YmTyWzhTQXjAyjpRIFo1zs&sid=beadc711&fp=chrome#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%F0%9F%8E%88%20%23a8dac5

@@ -1,0 +1,1 @@
+vless://6cdaf496-ccc9-4df8-9187-bf1ffeddf17e@hes.purplrose.ir:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=maze.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=maze.purplrose.ir#4Mohsen-9006

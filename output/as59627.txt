@@ -1,0 +1,1 @@
+vless://8a2cf60a-f8d2-4a91-bb16-0b48dc0aaa44@185.40.153.243:3443?type=tcp&sni=yandex.ru&fp=chrome&pbk=KsrjfNV8vXF6jfvf5wxjakhyRdp95BWmazLRBEjKj1w&sid=356971052a1bfc37&flow=xtls-rprx-vision&allowInsecure=1#vless-67230

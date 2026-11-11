@@ -1,0 +1,1 @@
+vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&fp=chrome&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&security=reality&sid=c6&sni=www.google.com&type=tcp#@DeltaKroneckerGithub

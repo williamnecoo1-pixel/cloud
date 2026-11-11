@@ -1,0 +1,1 @@
+vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@178.209.51.115:444?security=tls&flow=xtls-rprx-vision-udp443&sni=opensuse.org&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20-%20Zurich%20%7C%20178.209.51.115%3A444

@@ -1,1 +1,2 @@
 vless://c7ee3eef-e6d1-427c-b836-f49db70e6f6b@202.187.7.166:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7Lwn4e+TVktMiIsImFkZCI6IjE5Mi4yMjguMTM4LjE2MSIsInBvcnQiOiIxMDA4NiIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=

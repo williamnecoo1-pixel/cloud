@@ -1,0 +1,3 @@
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp-ak.astralweb.tech&fp=chrome&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&type=tcp&headerType=none#JP
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp-ak.astralweb.tech&fp=chrome&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&type=tcp&headerType=none#[🛜]
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp-ak.astralweb.tech&fp=chrome&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&type=tcp&headerType=none#🇯🇵139741

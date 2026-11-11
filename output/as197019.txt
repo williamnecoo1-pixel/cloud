@@ -1,0 +1,1 @@
+trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=amepo.ambercc.filegear-sg.me&allowInsecure=1

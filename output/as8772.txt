@@ -1,0 +1,1 @@
+trojan://09191dbf-e7f7-4e7d-b405-c4785ea992bf@95.164.9.196:2053?allowInsecure=0&sni=ftp.debian.org#@Hope_Net-join-us-on-Telegram

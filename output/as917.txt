@@ -1,1 +1,2 @@
 vless://74e76447-7fe3-4043-9c17-ffbc70da161e@209.209.58.159:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
+vless://e0595be7-7ed5-4686-b722-131f84759cbd@170.39.224.151:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&security=reality&pbk=9DgUjILQ09AQXzkLYgzk1_rt_yXMbuFo26k25eRau0o&sid=d4e5f6a7#

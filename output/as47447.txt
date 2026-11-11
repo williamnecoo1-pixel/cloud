@@ -1,0 +1,3 @@
+trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🔥Join+Telegram:@Farah_VPN🟣
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.38.4.126:443?sni=de126.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#
+vless://2d37cd89-d6e5-4d58-a688-8b0208a48e6e@185.127.94.27:8443?type=xhttp&security=reality&path=/drive/u/0/folders/1HIRFy4Qzu61k9AoQPd-1kv8wA_3vsk2E&sni=drive.google.com&fp=chrome&pbk=BG0noERXu_3wOPcZOeu9vl35QIFilTAWFXMZx-nzpVY&sid=58b2fc#DE

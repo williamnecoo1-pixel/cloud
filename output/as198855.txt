@@ -1,0 +1,2 @@
+trojan://TECp75tHHP@91.108.249.171:443?allowInsecure=0&sni=google.com#%F0%9F%87%BA%F0%9F%87%B8%20REALITY%7CUS%F0%9F%87%BA%F0%9F%87%B8%20%7C%20google.com-443%20%7C%204.99ms
+vless://a0bd3ae7-5955-4080-af16-3a2040e3a34c@91.108.249.72:8443?flow=xtls-rprx-vision&security=reality&sni=www.faceit.com&fp=qq&pbk=HHvePC1AS3_pZT-Ommfdj_WLvgvWBmXhELTKEYmkMwc&sid=8456fc06a3dc4a25#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN

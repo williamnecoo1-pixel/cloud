@@ -1,0 +1,1 @@
+vless://08a32b45-acc9-4533-beac-dbc011309de5@itsea.osaip.net:443?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=violet&security=tls&fp=chrome&insecure=0&sni=#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D

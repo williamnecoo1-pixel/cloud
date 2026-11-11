@@ -1,0 +1,1 @@
+vless://e947c1b3-5eee-4007-b29e-e960c73242b3@217.60.199.81:56833?security=tls&sni=iro.goodratkhooda.info&type=tcp&alpn=http/1.1&allowInsecure=1#🔒

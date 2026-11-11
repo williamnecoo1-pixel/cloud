@@ -1,0 +1,1 @@
+vless://569e0f36-7694-4127-a49e-5fb980733251@131.143.240.14:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=sDaV2DjU0KgZJ3oE66gXgOKbN6t67OBzH5IZDmgiSAE&sid=#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2016

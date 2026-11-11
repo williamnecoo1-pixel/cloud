@@ -1,0 +1,2 @@
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#REALITY%20%7C%20%40PulseConfigs%20%7C%20d3a966
+vless://9f287123-2b97-4b43-8ddd-d3354a0ed6bc@188.227.107.152:8443?security=tls&sni=www.speedtest.net&type=grpc&fp=chrome#🔒

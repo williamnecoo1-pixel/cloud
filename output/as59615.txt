@@ -1,0 +1,1 @@
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@192.144.37.23:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20-%20Unknown%20%7C%20192.144.37.23%3A443

@@ -1,0 +1,2 @@
+vless://adad57ce-8a4d-4272-bb71-b297ca370165@162.247.5.96:443?sni=hk.qhahd.shop&type=ws&host=hk.qhahd.shop&allowInsecure=0#🔒
+vless://94fadaf3-ccd8-4734-b372-8772c9bfd147@162.247.5.91:443?security=tls&sni=tw.qhahd.shop&type=ws&host=tw.qhahd.shop&path=%2Fbing#🔒

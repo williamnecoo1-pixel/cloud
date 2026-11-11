@@ -1,0 +1,1 @@
+vless://d2519b5e-495e-462e-9703-bbf68011d2f3@185.230.160.117:443?encryption=none&security=tls&sni=cgdk.rtfa.electrocitymarket.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2F#@DeltaKroneckerGithub

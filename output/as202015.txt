@@ -1,0 +1,2 @@
+vless://48dce7a6-e7a9-4d63-a0a5-7b812d998610@91.193.19.58:443?mode=auto&path=/update/check&security=reality&encryption=none&pbk=cDVaCGB7-oxPwRr8h_U3JFRmLw6EzPP062X_hN6U4zk&fp=chrome&spx=/&type=xhttp&sni=github.com&sid=3f72fa9a09a38c97#US
+vless://48dce7a6-e7a9-4d63-a0a5-7b812d998610@91.193.19.58:443?encryption=none&fp=firefox&path=/update/check&pbk=cDVaCGB7-oxPwRr8h_U3JFRmLw6EzPP062X_hN6U4zk&security=reality&sid=3f72fa9a09a38c97&sni=github.com&type=xhttp#4Jadi-702564e16b

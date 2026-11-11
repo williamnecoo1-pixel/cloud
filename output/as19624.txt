@@ -1,0 +1,2 @@
+vless://f68435e2-ac00-4374-8c03-c1d36e171088@31.14.40.67:1443?flow=xtls-rprx-vision&fp=firefox&pbk=poY0RYff_huOMS_JWLfko7nAw6neo3QPGD2InLlJuh0&security=reality&sid=0911f3e34348cb95&sni=buha.snowfalls.top&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%20Misha%20Lan%20VPN
+vless://f68435e2-ac00-4374-8c03-c1d36e171088@31.14.40.121:1443?flow=xtls-rprx-vision&fp=firefox&pbk=poY0RYff_huOMS_JWLfko7nAw6neo3QPGD2InLlJuh0&security=reality&sid=0911f3e34348cb95&sni=buha.snowfalls.top&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%20Misha%20Lan%20VPN

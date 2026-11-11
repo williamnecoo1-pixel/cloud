@@ -1,0 +1,1 @@
+vless://b0f68b4d-1062-4560-96ea-042b03d9a44f@78.135.80.142:657?type=grpc&security=reality&sni=game-center.ir&fp=chrome&pbk=4V9rR_oU_XHHMv4r_J7KjUazB99W6FEIKUJdXersxXI#TR

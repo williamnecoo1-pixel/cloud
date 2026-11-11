@@ -1,0 +1,2 @@
+vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp#[🇹🇷
+vless://8e1cf581-b6d3-4e00-bc8c-cf4b58b41766@93.180.133.214:443?security=reality&encryption=none&pbk=Wy7CQ2IzF7p8HvEVo_YB4VTPyEpaHtKOqnyLzdTCLD0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.qualcomm.com&sid=90d417329fe3f214#

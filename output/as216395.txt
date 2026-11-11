@@ -1,0 +1,1 @@
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@de3.japancase.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de3.japancase.site&fp=ios&pbk=iaJ8vIpfWkkzA-Tegc_wIQSF7DWKm2yTYCd3kvaGXig&sid=d9d9e325a7f069e2&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN

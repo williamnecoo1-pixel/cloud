@@ -1,0 +1,1 @@
+vless://1b60cff4-49ce-4bf3-9027-e4f9c47d6158@27.44.143.169:14343?encryption=none&flow=xtls-rprx-vision&security=tls&sni=thuk.huaweiyouxuan.com&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0

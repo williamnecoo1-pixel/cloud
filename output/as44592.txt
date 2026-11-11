@@ -1,0 +1,1 @@
+trojan://87f6eb37-36af-4347-95c7-8b3b0a3e9194@80.78.132.177:443?security=tls&sni=download.windowsupdate1.com#4Mohsen-3586

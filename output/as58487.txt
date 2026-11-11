@@ -1,0 +1,1 @@
+vless://0b7d73f8-0965-4c17-8709-3b86d2eeff86@202.10.40.89:8443?security=reality&encryption=none&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=amproject.my.id&sid=5b4a12ef7e1694dd#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20-%20Unknown%20%7C%20202.10.40.89%3A8443

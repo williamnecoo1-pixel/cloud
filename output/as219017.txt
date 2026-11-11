@@ -1,0 +1,1 @@
+vless://Telegram:@Free_VPN_CH@195.206.242.122:2053?encryption=none&security=tls&sni=ðŸ”’

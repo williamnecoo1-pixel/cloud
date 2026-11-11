@@ -1,0 +1,3 @@
+vless://d2edc028-3452-46b5-8098-c22690cd4549@zavqeron.ir:2053?path=/tr2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#DE
+vless://d2edc028-3452-46b5-8098-c22690cd4549@zavqeron.ir:2053?path=/tr2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#[🛜]
+vless://d2edc028-3452-46b5-8098-c22690cd4549@zavqeron.ir:2053?path=/tr2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#configprxy

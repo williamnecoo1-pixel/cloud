@@ -1,0 +1,4 @@
+trojan://AnadoluSpeed@92.205.184.138:443?sni=telegram.org&type=tcp#@DeltaKroneckerGithub
+trojan://AnadoluSpeed@tr1.euroline.cloud:443?sni=telegram.org&peer=telegram.org&security=tls#@DeltaKroneckerGithub
+trojan://AnadoluSpeed@92.205.184.138:443?sni=telegram.org&type=tcp#DE
+trojan://AnadoluSpeed@tr1.euroline.cloud:443?sni=telegram.org&peer=telegram.org&security=tls#DE

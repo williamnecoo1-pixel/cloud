@@ -1,0 +1,3 @@
+trojan://7E62D6D5-1880-EAA4-96E9-FFD6E81B9446@oss-shanghai.micron-qwer.com:20041?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#@DeltaKroneckerGithub
+trojan://AC2AE18C-C16B-6293-4B78-9B5CF563E5E2@oss-shanghai.micron-qwer.com:20048?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#@DeltaKroneckerGithub
+trojan://AC2AE18C-C16B-6293-4B78-9B5CF563E5E2@oss-shanghai.micron-qwer.com:20046?security=tls&sni=mpvideo.qpic.cn&insecure=1&allowInsecure=1&type=tcp&headerType=none#@DeltaKroneckerGithub

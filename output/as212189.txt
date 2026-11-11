@@ -1,0 +1,1 @@
+vless://bf8fb0b8-affc-42f3-9e82-f9a821066de1@188.94.156.216:443?security=reality&encryption=none&pbk=cEKfInbAE2ZWB3RH-MYQiIfA2aAPO6wZT_TNCPgh7TE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=kz-ala-1.blook.network&sid=85b45f16#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20Unknown%20%7C%20188.94.156.216%3A443

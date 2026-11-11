@@ -1,2 +1,3 @@
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@148.153.234.37:443?encryption=none&security=tls&sni=ahmedquran19.xyz&fp=chrome&alpn=http%2F1.1&type=ws&host=ahmedquran19.xyz&path=%2Fcurrent_time#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20148.153.234.37%3A443
+trojan://ttfang@164.52.2.98:443?sni=ttfang.fange.me#🔒
 vless://9a78eb28-cc71-4eea-acbe-cbd130739fbb@164.52.2.98:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@148.153.234.37:443?encryption=none&security=tls&sni=ahmedquran19.xyz&fp=chrome&alpn=http%2F1.1&type=ws&host=ahmedquran19.xyz&path=%2Fcurrent_time#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20148.153.234.37%3A443

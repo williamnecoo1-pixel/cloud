@@ -3,3 +3,4 @@ vless://37ed12f6-95b4-5b3f-b9a5-00cdef1d7333@38.76.247.230:443/?type=ws&encrypti
 vless://b403fc80-0a34-5433-8264-7e0b98e669b8@38.76.247.230:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.76.247.230&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%2038.76.247.230%3A443%202
 vless://cc9bd61b-9c4f-5ace-8a93-f23a868d6ee9@38.76.247.230:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.76.247.230&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%2038.76.247.230%3A443%203
 vless://d8b137a4-d641-566e-8f85-05f82b787215@38.76.247.230:443?security=tls&sni=zula.ir&type=ws&host=38.76.247.230&path=/vless&fp=chrome&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%2038.76.247.230%3A443%204
+vless://d8b137a4-d641-566e-8f85-05f82b787215@38.76.247.230:443?security=tls&sni=zula.ir&type=ws&host=38.76.247.230&path=/vless&fp=chrome&allowInsecure=1#🔒

@@ -1,0 +1,2 @@
+trojan://18d2cd7a-ba92-40a2-abcd-d8ebe1ef0c1a@kkkhhh.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:14104?sni=156.yuanul.com&type=tcp#@DeltaKroneckerGithub
+trojan://18d2cd7a-ba92-40a2-abcd-d8ebe1ef0c1a@kkkhhh.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:13207?sni=140.yuanul.com&type=tcp#@DeltaKroneckerGithub

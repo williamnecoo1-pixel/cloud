@@ -1,0 +1,1 @@
+vless://8@cert.ir:80?path=/&security=none&encryption=none&host=ghbi.ir&type=ws

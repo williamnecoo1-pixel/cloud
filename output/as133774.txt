@@ -1,0 +1,17 @@
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24548?sni=mpvideo.qpic.cn&type=tcp#@DeltaKroneckerGithub
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24542?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#@DeltaKroneckerGithub
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24545?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#@DeltaKroneckerGithub
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24549?sni=mpvideo.qpic.cn&type=tcp#@DeltaKroneckerGithub
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24547?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#@DeltaKroneckerGithub
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24541?sni=mpvideo.qpic.cn&type=tcp#@DeltaKroneckerGithub
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24546?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#@DeltaKroneckerGithub
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24543?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#@DeltaKroneckerGithub
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24541?sni=mpvideo.qpic.cn&type=tcp#CN
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24548?sni=mpvideo.qpic.cn&type=tcp#CN
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24549?sni=mpvideo.qpic.cn&type=tcp#CN
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24542?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#CN
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24543?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#CN
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24545?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#CN
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24546?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#CN
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24547?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#CN
+vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565?&type=ws&headerType=none&path=%2F#

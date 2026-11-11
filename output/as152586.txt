@@ -1,0 +1,1 @@
+trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443?allowInsecure=1&sni=wfi.sahnama.com#%5BTrojan%2025%5D%20%40ResistalProxy

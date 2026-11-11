@@ -1,0 +1,1 @@
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=edge&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D

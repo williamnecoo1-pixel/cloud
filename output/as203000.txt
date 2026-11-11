@@ -1,0 +1,1 @@
+trojan://humanity@185.129.118.96:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#trojan-7

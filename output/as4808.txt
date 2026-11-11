@@ -1,0 +1,2 @@
+trojan://d4f89111885.wns.windows.com@123.125.94.170:1576?security=tls&sni=egsource1.mzsourcenode.info&type=tcp&allowInsecure=1#🔒
+trojan://d4f89111885.wns.windows.com@123.125.94.170:1357?sni=uksource1.mzsourcenode.info&allowInsecure=1#🔒

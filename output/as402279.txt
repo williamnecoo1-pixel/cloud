@@ -1,1 +1,6 @@
+trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&sni=2.27.109.179.sslip.io#EPODONIOS
 vless://85aa7866-8c43-442f-aa66-b1551b5860c5@2.27.109.236:443?security=tls&sni=thus-k.netnode.cc.cd&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn&fp=chrome#🔒
+trojan://XuMweB2PWs@2.27.109.179:45464?allowInsecure=1&sni=2.27.109.179&type=tcp#HK
+vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@ldsub.dwz.ccwu.cc:8881?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk&type=tcp&headerType=none#DE
+vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@ldsub.dwz.ccwu.cc:8881?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk&type=tcp&headerType=none#[🛜]
+vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@ldsub.dwz.ccwu.cc:8881?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk&type=tcp&headerType=none#🇬🇧

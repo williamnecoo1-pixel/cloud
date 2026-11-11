@@ -1,0 +1,2 @@
+vless://f44f5cc3-df22-4183-a61b-c653485dd7f9@82.64.120.239:443?security=tls&type=ws&path=%2Fjx-o4e0xzvx0107se&host=jyfrj1cims.dev.onappjet.com&packetEncoding=xudp&sni=jyfrj1cims.dev.onappjet.com&fp=chrome&encryption=none#@DeltaKroneckerGithub
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@82.64.152.55:20304/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome

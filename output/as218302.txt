@@ -1,0 +1,2 @@
+vless://ab671d2b-1969-a168-c2fa-2cf714b44828@87.107.163.115:28443?security=tls&sni=palangsorati.buxtep.ir&type=ws&host=palangsorati.buxtep.ir&path=%2Fws28443&fp=chrome&alpn=http%2F1.1#🔒
+vless://ab671d2b-1969-a168-c2fa-2cf714b44828@palangsorati.buxtep.ir:28443?path=/ws28443&security=tls&encryption=none&alpn=http/1.1&insecure=1&host=palangsorati.buxtep.ir&fp=chrome&type=ws&allowInsecure=1&sni=palangsorati.buxtep.ir#[🇮🇷

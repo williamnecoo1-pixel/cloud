@@ -1,0 +1,1 @@
+vless://dcf8e133-09a2-4884-abf9-80356bb334ac@23.132.28.51:443?security=reality&encryption=none&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=candy.atlasparser.site&sid=a7c31f92#%C2%AE%EF%B8%8FSH%CE%9EN%E2%84%A2%E1%B4%A2%E1%B4%87%CA%80%E1%B4%8F%F0%9F%8C%90T.me%2FShervini

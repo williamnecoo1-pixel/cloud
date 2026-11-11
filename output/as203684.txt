@@ -1,0 +1,1 @@
+vless://49953fd1-1733-4936-84a6-15f54c995d76@109.95.61.79:2089?security=none&type=tcp&host=cdn.divar.ir&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20109.95.61.79%3A2089

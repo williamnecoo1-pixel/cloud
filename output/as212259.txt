@@ -1,0 +1,2 @@
+vless://2a88deea-221d-3f06-9846-4067c6f725ee@family.bucket.6.kfc-520.com:10019?&security=reality&flow=xtls-rprx-vision&pbk=pqXjD4or04GC_CbVnjNLFhJkfxcIXSAbxzLsBad2TCI&sid=6b4135b5fd&fp=firefox&sni=www.sap.com&type=tcp&headerType=none&host=www.sap.com&path=%2F#@DeltaKroneckerGithub
+vless://2a88deea-221d-3f06-9846-4067c6f725ee@family.bucket.7.kfc-520.com:10014?&security=reality&flow=xtls-rprx-vision&pbk=e7VmsvYFVaiDl82Z5K0WnMvfBwHAEsJlrWE1cFmsiiI&sid=feecfdb471b39f&fp=firefox&sni=www.sony.com&type=tcp&headerType=none&host=www.sony.com&path=%2F#@DeltaKroneckerGithub

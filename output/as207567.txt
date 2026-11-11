@@ -1,0 +1,2 @@
+vless://683f302b-ab0f-4778-a85d-51b49ae669a1@217.60.73.247:443?security=reality&flow=xtls-rprx-vision&sni=dashboard2.uferbuslub.com&type=tcp&fp=qq&pbk=obxu9ydOCgTBZmYfmBHH_bfP31zMVHvexrPol9PKoSQ&sid=1ae19cbe6d819b27#🔒
+vless://0f5c4655-aaee-4ea5-8a49-ea56516d2a60@pol.pink-service.ru:443?type=tcp&security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=chrome&sni=pol.pink-service.ru&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#@DeltaKroneckerGithub

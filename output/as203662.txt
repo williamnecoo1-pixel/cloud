@@ -1,0 +1,2 @@
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@151.245.112.193:8443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=/#🇵🇱
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@151.245.112.193:8443?type=ws&security=tls&fp=firefox&sni=fs.qicai99.com&host=fs.qicai99.com#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn

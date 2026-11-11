@@ -1,1 +1,2 @@
 vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#🇩🇪
+vless://62610fc6-8333-41f9-9258-08915e4343ab@carsvideo.top:443?security=reality&encryption=none&pbk=Q-rq2mbtEzi7v1l_F3pnncMyy7QOTtNqyg7hz5hxMGw&fp=firefox&type=grpc&sni=fly.io&sid=e29da9ac2615c2cd#%F0%9F%87%A9%F0%9F%87%AA192923%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M

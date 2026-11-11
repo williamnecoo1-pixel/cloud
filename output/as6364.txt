@@ -1,0 +1,1 @@
+trojan://DdshthlezG@185.73.38.41:8443?allowInsecure=0&sni=us1.wxgqlfx.vip&ws=1&wspath=%2FTG%40wxgqlfx

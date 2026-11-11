@@ -1,1 +1,2 @@
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@176.105.253.98:443/?type=ws&encryption=none&flow=&host=v.aivpn.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=v.aivpn.filegear-sg.me&alpn=h3&fp=random#%F0%9F%93%A418%40oneclickvpnkeys
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@176.105.253.98:443?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒

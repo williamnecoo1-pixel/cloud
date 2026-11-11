@@ -1,0 +1,11 @@
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#US
+vless://awlix_ir@85.9.194.75:443?encryption=mlkem768x25519plus.native.0rtt.axhmyvi6WAeIVHyKYLuHz7cMMow5FBwwSjs9-TIWxRY&security=none&type=tcp&headerType=none#US
+vless://awlix_ir@85.9.194.75:443?encryption=mlkem768x25519plus.native.0rtt.axhmyvi6WAeIVHyKYLuHz7cMMow5FBwwSjs9-TIWxRY&security=none&type=tcp&headerType=none#[🛜]
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[🛜]
+vless://924fe46b-b6e0-479e-ae7f-a3661680e706@95.111.212.241:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=BSTnEthBXhb_UyuWpLBDxg82-C-wcpU2_kOD5ohS12g&sid=3a697adb4c58d495&type=tcp&headerType=none&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#@filembad
+vless://924fe46b-b6e0-479e-ae7f-a3661680e706@95.111.212.241:443?security=reality&encryption=none&pbk=BSTnEthBXhb_UyuWpLBDxg82-C-wcpU2_kOD5ohS12g&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=3a697adb4c58d495#[69407]
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#امریکا🇺🇸.
+vless://awlix_ir@85.9.194.75:443?encryption=mlkem768x25519plus.native.0rtt.axhmyvi6WAeIVHyKYLuHz7cMMow5FBwwSjs9-TIWxRY&security=none&type=tcp&headerType=none#@awlix_ir
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#4Sarina-6137ddb27e
+vless://awlix_ir@85.9.194.75:443?encryption=mlkem768x25519plus.native.0rtt.axhmyvi6WAeIVHyKYLuHz7cMMow5FBwwSjs9-TIWxRY&security=none&type=tcp&headerType=none#🇺🇸
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@194.113.73.136:4655?security=none&encryption=none&headerType=none&type=tcp#

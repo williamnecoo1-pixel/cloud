@@ -1,1 +1,2 @@
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@185.238.74.193:443/?type=ws&encryption=none&host=acedo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=acedo.ambercc.filegear-sg.me#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20-%20Unknown%20%7C%20185.238.74.193%3A443
+vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@185.238.74.193:443?security=tls&sni=nvl.esslh.filegear-sg.me&type=ws&host=nvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#🔒

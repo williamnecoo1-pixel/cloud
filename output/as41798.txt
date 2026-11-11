@@ -1,0 +1,4 @@
+vless://84124a40-4b02-4762-a3a6-6cf43f297724@kzmain.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#TCP,
+vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&host=/?BIA_TELEGRAM-TGRVPN&headerType=none&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20Astana%20%7C%20193.124.204.145%3A49853
+vless://57f03653-3af9-4f11-895b-23672338b0ac@194.58.42.166:8081?encryption=none&security=none&type=grpc#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20Almaty%20%7C%20194.58.42.166%3A8081
+vless://2ce0960b-fed2-4c17-b2ed-a4a5d18e8bd3@194.58.42.214:443?encryption=none&security=reality&pbk=Prr6JvDC5zYwU0lKszA8VpWU9mglYdRAW2VlnCL83TE&sni=brd-398.convix-kino.com&fp=safari&allowInsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20Almaty%20%7C%20194.58.42.214%3A443

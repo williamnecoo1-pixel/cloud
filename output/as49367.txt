@@ -1,0 +1,2 @@
+vless://79d4382f-4b36-4bb5-8226-a154a2bdb97b@158.58.172.189:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&alpn=h2&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40v2nodes%3A%3AIT
+vless://1820765e-c193-4ae1-a96c-f2c476becb4b@95.141.37.73:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=

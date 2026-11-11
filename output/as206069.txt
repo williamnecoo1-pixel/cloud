@@ -1,0 +1,1 @@
+vless://e9ba40f7-4ab8-4885-8a2d-f7decff555cb@nb.381209.xyz:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L3IbrhYgXNRkRHYFtjkrXxQz48WxoaD77TIHJj-QS2I&security=reality&sid=b9ae0f639a2097&sni=www.kisrating.com&type=tcp#🇯🇵

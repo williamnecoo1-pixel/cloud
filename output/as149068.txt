@@ -1,0 +1,2 @@
+trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@103.72.96.55:443/?type=tcp&security=tls&sni=hanoiidc2.5gsieutocdo.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#@DeltaKroneckerGithub
+trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@103.72.96.55:443/?type=tcp&security=tls&sni=hanoiidc2.5gsieutocdo.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#VN
