@@ -1,1551 +1,419 @@
 IP → PROVIDER CLASSIFICATION
 ============================
-Total configs: 144488
-Classified IPs: 53188
-Providers found: 1536
-Unresolved hosts: 8505
-Invalid configs: 287
-DNS cache: 12891
-ASN cache: 53035
-ASN name cache: 1562
-Duration: 1939.97s
-Finished: 2026-11-11T07:24:06.012Z
+Total configs: 144681
+Classified IPs: 53136
+Providers found: 1551
+Unresolved hosts: 8498
+Invalid configs: 288
+DNS cache: 12887
+ASN cache: 52967
+ASN name cache: 1580
+Duration: 2081.16s
+Finished: 2026-11-11T10:02:56.964Z
 
 BREAKDOWN BY PROVIDER
 ---------------------
-Cloudflare                   configs=52710  ips=17853  ASN=13335,209242,14789,400095,395747
-Fastly                       configs= 5834  ips= 1112  ASN=54113
-AWS                          configs= 5075  ips= 3153  ASN=16509,14618,24544
-AS3215                       configs= 4363  ips= 1760  ASN=3215
-Unknown                      configs= 3952  ips= 2179  ASN=-
-Hetzner                      configs= 3700  ips= 1791  ASN=24940,212317,213230,215859
-OVH                          configs= 3621  ips=  993  ASN=16276
-AS63023                      configs= 2907  ips=  247  ASN=63023
-AS400940                     configs= 2828  ips=  346  ASN=400940
-Datacamp                     configs= 1897  ips=   74  ASN=212238
-Oracle Cloud                 configs= 1884  ips=  995  ASN=31898
-Alibaba Cloud                configs= 1795  ips=  601  ASN=45102,37963,134963
-DigitalOcean                 configs= 1374  ips=  907  ASN=14061,393406
-Vultr                        configs= 1031  ips=  601  ASN=20473
-Scaleway                     configs=  807  ips=  124  ASN=12876
-Gcore                        configs=  768  ips=  399  ASN=199524,59245,205196
-AS9123                       configs=  704  ips=  368  ASN=9123
-AS215540                     configs=  678  ips=  371  ASN=215540
-Leaseweb                     configs=  649  ips=  143  ASN=7203,59253,28753,60781,205544,30633,133752,32613,134351,393886,396190
-Akamai (Linode)              configs=  564  ips=  294  ASN=63949
-AS62563                      configs=  547  ips=   37  ASN=62563
-AS36352                      configs=  527  ips=  128  ASN=36352
-Aeza                         configs=  506  ips=  299  ASN=210644,197695
-AS205585                     configs=  493  ips=   55  ASN=205585
-AS34879                      configs=  489  ips=   41  ASN=34879
-Datacamp (CDN77)             configs=  488  ips=  129  ASN=60068
-AS207957                     configs=  479  ips=  238  ASN=207957
-AS136258                     configs=  476  ips=   83  ASN=136258
-AS57724                      configs=  449  ips=   20  ASN=57724
-AS24875                      configs=  448  ips=   40  ASN=24875
-AS133618                     configs=  408  ips=   29  ASN=133618
-AS56971                      configs=  404  ips=  197  ASN=56971
-AS57043                      configs=  400  ips=  156  ASN=57043
-AS49791                      configs=  387  ips=   77  ASN=49791
-AS14197                      configs=  383  ips=  198  ASN=14197
-AS203273                     configs=  373  ips=  193  ASN=203273
-AS215439                     configs=  368  ips=  174  ASN=215439
-Hivelocity                   configs=  359  ips=  143  ASN=30058
-AS219337                     configs=  358  ips=   93  ASN=219337
-AS41745                      configs=  357  ips=  155  ASN=41745
-AS47764                      configs=  356  ips=  248  ASN=47764
-AS44620                      configs=  355  ips=   83  ASN=44620
-AS54600                      configs=  343  ips=  264  ASN=54600
-Contabo                      configs=  342  ips=  103  ASN=141995,51167,40021
-AS3462                       configs=  342  ips=  106  ASN=3462
-AS200019                     configs=  337  ips=   48  ASN=200019
-AS213535                     configs=  336  ips=  149  ASN=213535
-Microsoft Azure              configs=  332  ips=  159  ASN=8075
-Tencent Cloud                configs=  324  ips=  153  ASN=132203,45090
-AS218656                     configs=  306  ips=   39  ASN=218656
-AS216071                     configs=  300  ips=  173  ASN=216071
-AS401401                     configs=  298  ips=    2  ASN=401401
-AS9808                       configs=  287  ips=   66  ASN=9808
-AS4766                       configs=  283  ips=  237  ASN=4766
-AS215730                     configs=  279  ips=  170  ASN=215730
-AS205502                     configs=  278  ips=   26  ASN=205502
-AS58212                      configs=  273  ips=   84  ASN=58212
-AS202468                     configs=  266  ips=  175  ASN=202468
-AS213807                     configs=  265  ips=   56  ASN=213807
-AS218736                     configs=  246  ips=   60  ASN=218736
-AS200350                     configs=  241  ips=  202  ASN=200350
-AS214716                     configs=  228  ips=  114  ASN=214716
-AS398787                     configs=  222  ips=  190  ASN=398787
-AS25198                      configs=  220  ips=  102  ASN=25198
-AS906                        configs=  217  ips=  140  ASN=906
-AS154177                     configs=  216  ips=  113  ASN=154177
-AS154653                     configs=  212  ips=    5  ASN=154653
-AS214159                     configs=  210  ips=   28  ASN=214159
-Netcup                       configs=  206  ips=  117  ASN=197540
-AS211273                     configs=  204  ips=   73  ASN=211273
-AS979                        configs=  202  ips=   68  ASN=979
-AS204720                     configs=  202  ips=   81  ASN=204720
-AS211619                     configs=  200  ips=   12  ASN=211619
-AS204044                     configs=  200  ips=   62  ASN=204044
-AS274327                     configs=  198  ips=  198  ASN=274327
-AS209693                     configs=  196  ips=  137  ASN=209693
-AS59642                      configs=  195  ips=   54  ASN=59642
-AS397273                     configs=  193  ips=   55  ASN=397273
-AS49505                      configs=  185  ips=  147  ASN=49505
-Google Frontend              configs=  184  ips=  134  ASN=15169
-M247                         configs=  179  ips=  114  ASN=9009
-AS198154                     configs=  179  ips=   81  ASN=198154
-AS54801                      configs=  179  ips=    1  ASN=54801
-AS49556                      configs=  179  ips=   34  ASN=49556
-AS219064                     configs=  177  ips=   92  ASN=219064
-AS25820                      configs=  176  ips=   80  ASN=25820
-AS202422                     configs=  173  ips=   45  ASN=202422
-AS204104                     configs=  172  ips=   51  ASN=204104
-AS197574                     configs=  171  ips=   46  ASN=197574
-AS35179                      configs=  163  ips=   18  ASN=35179
-AS27647                      configs=  162  ips=   59  ASN=27647
-AS210976                     configs=  160  ips=   89  ASN=210976
-AS208677                     configs=  159  ips=  103  ASN=208677
-AS9370                       configs=  159  ips=   68  ASN=9370
-AS219284                     configs=  153  ips=   22  ASN=219284
-AS50340                      configs=  151  ips=   56  ASN=50340
-AS16125                      configs=  148  ips=  100  ASN=16125
-AS204957                     configs=  148  ips=   40  ASN=204957
-AS51852                      configs=  147  ips=   15  ASN=51852
-AS26383                      configs=  147  ips=  103  ASN=26383
-AS29222                      configs=  146  ips=   85  ASN=29222
-AS400341                     configs=  146  ips=   11  ASN=400341
-AS399566                     configs=  146  ips=  100  ASN=399566
-AS139341                     configs=  145  ips=   37  ASN=139341
-AS29182                      configs=  145  ips=   50  ASN=29182
-AS213887                     configs=  143  ips=   77  ASN=213887
-AS213520                     configs=  143  ips=   66  ASN=213520
-Xtom                         configs=  142  ips=   54  ASN=3214
-AS57568                      configs=  141  ips=   51  ASN=57568
-AS38136                      configs=  139  ips=   37  ASN=38136
-AS208226                     configs=  137  ips=    6  ASN=208226
-AS219095                     configs=  131  ips=   60  ASN=219095
-AS218731                     configs=  131  ips=   97  ASN=218731
-AS58065                      configs=  130  ips=   57  ASN=58065
-AS204203                     configs=  130  ips=   36  ASN=204203
-AS207796                     configs=  129  ips=    1  ASN=207796
-AS152726                     configs=  128  ips=  116  ASN=152726
-AS42532                      configs=  126  ips=   80  ASN=42532
-Private IP                   configs=  125  ips=   19  ASN=-
-AS213727                     configs=  123  ips=    9  ASN=213727
-AS202759                     configs=  122  ips=   23  ASN=202759
-AS134494                     configs=  119  ips=  107  ASN=134494
-AS56005                      configs=  118  ips=    1  ASN=56005
-AS4760                       configs=  118  ips=   76  ASN=4760
-AS50756                      configs=  118  ips=   63  ASN=50756
-AS198550                     configs=  116  ips=   51  ASN=198550
-AS207043                     configs=  116  ips=   56  ASN=207043
-AS216169                     configs=  116  ips=   22  ASN=216169
-AS63835                      configs=  115  ips=    1  ASN=63835
-AS147293                     configs=  115  ips=    5  ASN=147293
-AS216246                     configs=  113  ips=   85  ASN=216246
-AS34959                      configs=  113  ips=   24  ASN=34959
-AS399077                     configs=  113  ips=   71  ASN=399077
-AS215590                     configs=  112  ips=   66  ASN=215590
-AS202053                     configs=  112  ips=   50  ASN=202053
-AS204878                     configs=  112  ips=    2  ASN=204878
-AS46844                      configs=  110  ips=   46  ASN=46844
-AS215365                     configs=  110  ips=   21  ASN=215365
-AS3258                       configs=  109  ips=   61  ASN=3258
-DreamHost                    configs=  108  ips=   35  ASN=59711
-AS201988                     configs=  105  ips=   31  ASN=201988
-eServer                      configs=  103  ips=   51  ASN=62005
-AS213896                     configs=  103  ips=   26  ASN=213896
-AS29085                      configs=  103  ips=   60  ASN=29085
-AS142002                     configs=  102  ips=   18  ASN=142002
-AS60077                      configs=   98  ips=   76  ASN=60077
-AS219506                     configs=   97  ips=   20  ASN=219506
-AS61112                      configs=   96  ips=   58  ASN=61112
-AS14956                      configs=   96  ips=   47  ASN=14956
-AS210705                     configs=   94  ips=   12  ASN=210705
-AS17561                      configs=   93  ips=   79  ASN=17561
-AS8254                       configs=   91  ips=   26  ASN=8254
-AS215311                     configs=   90  ips=   32  ASN=215311
-AS62659                      configs=   88  ips=   54  ASN=62659
-AS60631                      configs=   88  ips=   58  ASN=60631
-AS48266                      configs=   87  ips=    4  ASN=48266
-AS49304                      configs=   86  ips=   16  ASN=49304
-AS399358                     configs=   86  ips=   61  ASN=399358
-AS47846                      configs=   86  ips=    7  ASN=47846
-AS59703                      configs=   85  ips=   13  ASN=59703
-IONOS                        configs=   83  ips=   30  ASN=8560
-AS198077                     configs=   83  ips=   10  ASN=198077
-AS4134                       configs=   82  ips=   10  ASN=4134
-AS61400                      configs=   82  ips=    8  ASN=61400
-AS201839                     configs=   81  ips=   52  ASN=201839
-AS213877                     configs=   79  ips=   49  ASN=213877
-AS42337                      configs=   79  ips=   60  ASN=42337
-AS215013                     configs=   76  ips=    7  ASN=215013
-AS58232                      configs=   76  ips=   23  ASN=58232
-AS213459                     configs=   75  ips=   45  ASN=213459
-AS201814                     configs=   75  ips=   15  ASN=201814
-AS51722                      configs=   73  ips=   41  ASN=51722
-AS211381                     configs=   73  ips=   22  ASN=211381
-AS59441                      configs=   73  ips=   36  ASN=59441
-AS58061                      configs=   72  ips=   27  ASN=58061
-AS48011                      configs=   72  ips=   15  ASN=48011
-AS47583                      configs=   71  ips=   41  ASN=47583
-AS213220                     configs=   71  ips=   43  ASN=213220
-AS56040                      configs=   71  ips=   28  ASN=56040
-AS213846                     configs=   71  ips=   58  ASN=213846
-AS209881                     configs=   70  ips=    4  ASN=209881
-AS273584                     configs=   70  ips=   52  ASN=273584
-AS206264                     configs=   70  ips=    3  ASN=206264
-AS51396                      configs=   69  ips=   18  ASN=51396
-AS400951                     configs=   68  ips=   12  ASN=400951
-AS218764                     configs=   68  ips=   20  ASN=218764
-AS42960                      configs=   67  ips=   24  ASN=42960
-AS396356                     configs=   67  ips=    9  ASN=396356
-AS56630                      configs=   67  ips=   24  ASN=56630
-AS214922                     configs=   66  ips=   43  ASN=214922
-AS8849                       configs=   65  ips=   21  ASN=8849
-AS201309                     configs=   63  ips=    1  ASN=201309
-AS49981                      configs=   62  ips=   15  ASN=49981
-AS44244                      configs=   62  ips=   48  ASN=44244
-AS4837                       configs=   62  ips=   34  ASN=4837
-AS216054                     configs=   61  ips=   16  ASN=216054
-AS213915                     configs=   61  ips=   68  ASN=213915
-AS34918                      configs=   60  ips=   44  ASN=34918
-AS174                        configs=   60  ips=   47  ASN=174
-AS212743                     configs=   60  ips=   52  ASN=212743
-AS210699                     configs=   59  ips=   28  ASN=210699
-AS60592                      configs=   59  ips=   18  ASN=60592
-AS213693                     configs=   58  ips=   12  ASN=213693
-AS153914                     configs=   57  ips=   15  ASN=153914
-AS199673                     configs=   57  ips=   53  ASN=199673
-AS219268                     configs=   57  ips=    7  ASN=219268
-AS218687                     configs=   57  ips=   54  ASN=218687
-AS136841                     configs=   57  ips=   54  ASN=136841
-AS197354                     configs=   56  ips=   11  ASN=197354
-AS218568                     configs=   55  ips=   21  ASN=218568
-AS64289                      configs=   55  ips=    4  ASN=64289
-AS49453                      configs=   55  ips=   14  ASN=49453
-AS139659                     configs=   54  ips=   43  ASN=139659
-AS21100                      configs=   54  ips=   25  ASN=21100
-AS149440                     configs=   54  ips=   39  ASN=149440
-AS205536                     configs=   53  ips=    7  ASN=205536
-AS214036                     configs=   53  ips=   36  ASN=214036
-AS63473                      configs=   52  ips=   13  ASN=63473
-AS33191                      configs=   52  ips=   19  ASN=33191
-AS40065                      configs=   51  ips=   44  ASN=40065
-AS213732                     configs=   51  ips=   25  ASN=213732
-AS215671                     configs=   51  ips=    4  ASN=215671
-AS19970                      configs=   51  ips=    3  ASN=19970
-AS204770                     configs=   50  ips=   14  ASN=204770
-AS44803                      configs=   50  ips=   25  ASN=44803
-AS32077                      configs=   50  ips=   26  ASN=32077
-AS201188                     configs=   50  ips=   37  ASN=201188
-AS212552                     configs=   50  ips=   24  ASN=212552
-Clouvider                    configs=   49  ips=   37  ASN=62240
-AS35916                      configs=   49  ips=   26  ASN=35916
-AS26042                      configs=   49  ips=   10  ASN=26042
-AS59651                      configs=   49  ips=   20  ASN=59651
-AS209836                     configs=   48  ips=    8  ASN=209836
-AS218439                     configs=   48  ips=    1  ASN=218439
-AS210079                     configs=   48  ips=   37  ASN=210079
-AS214238                     configs=   47  ips=    9  ASN=214238
-AS209207                     configs=   47  ips=   22  ASN=209207
-AS218239                     configs=   47  ips=   19  ASN=218239
-AS8926                       configs=   47  ips=    5  ASN=8926
-AS216334                     configs=   47  ips=   40  ASN=216334
-AS33993                      configs=   46  ips=   30  ASN=33993
-AS215496                     configs=   46  ips=    9  ASN=215496
-AS43754                      configs=   45  ips=   33  ASN=43754
-AS216127                     configs=   43  ips=   23  ASN=216127
-AS199058                     configs=   43  ips=   16  ASN=199058
-AS44051                      configs=   43  ips=   21  ASN=44051
-AS400992                     configs=   43  ips=   24  ASN=400992
-AS215633                     configs=   43  ips=   16  ASN=215633
-AS215350                     configs=   43  ips=   13  ASN=215350
-AS199566                     configs=   43  ips=    1  ASN=199566
-AS49770                      configs=   42  ips=    3  ASN=49770
-AS214515                     configs=   42  ips=    7  ASN=214515
-AS328486                     configs=   42  ips=   39  ASN=328486
-AS21859                      configs=   41  ips=   19  ASN=21859
-AS50053                      configs=   41  ips=   25  ASN=50053
-AS215305                     configs=   41  ips=   48  ASN=215305
-AS209641                     configs=   41  ips=   37  ASN=209641
-AS216154                     configs=   40  ips=   18  ASN=216154
-AS51765                      configs=   40  ips=   18  ASN=51765
-AS202051                     configs=   40  ips=   27  ASN=202051
-AS200740                     configs=   40  ips=   29  ASN=200740
-AS22612                      configs=   40  ips=    4  ASN=22612
-AS206715                     configs=   40  ips=   25  ASN=206715
-AS25184                      configs=   40  ips=   36  ASN=25184
-AS12989                      configs=   39  ips=    5  ASN=12989
-AS218721                     configs=   39  ips=   10  ASN=218721
-AS36007                      configs=   39  ips=   32  ASN=36007
-AS138195                     configs=   39  ips=   18  ASN=138195
-AS218732                     configs=   39  ips=   21  ASN=218732
-AS49683                      configs=   39  ips=   14  ASN=49683
-AS26548                      configs=   39  ips=   19  ASN=26548
-AS219357                     configs=   39  ips=    9  ASN=219357
-AS55933                      configs=   39  ips=   28  ASN=55933
-AS214998                     configs=   39  ips=   19  ASN=214998
-AS206134                     configs=   38  ips=   16  ASN=206134
-AS63150                      configs=   38  ips=   15  ASN=63150
-AS203380                     configs=   38  ips=   14  ASN=203380
-AS219359                     configs=   38  ips=   16  ASN=219359
-AS216078                     configs=   38  ips=   12  ASN=216078
-AS210579                     configs=   38  ips=   29  ASN=210579
-AS56655                      configs=   37  ips=   16  ASN=56655
-AS58087                      configs=   37  ips=   16  ASN=58087
-AS39368                      configs=   37  ips=    9  ASN=39368
-AS12586                      configs=   37  ips=    8  ASN=12586
-AS213169                     configs=   37  ips=   10  ASN=213169
-AS4892                       configs=   37  ips=   24  ASN=4892
-AS49051                      configs=   37  ips=    1  ASN=49051
-AS26832                      configs=   36  ips=    9  ASN=26832
-AS17289                      configs=   36  ips=   27  ASN=17289
-AS40994                      configs=   35  ips=   12  ASN=40994
-AS207713                     configs=   35  ips=   26  ASN=207713
-AS213529                     configs=   35  ips=   13  ASN=213529
-myLoc                        configs=   35  ips=   41  ASN=24961
-AS40509                      configs=   35  ips=    9  ASN=40509
-AS35830                      configs=   35  ips=   12  ASN=35830
-AS57403                      configs=   34  ips=   18  ASN=57403
-AS49592                      configs=   34  ips=    7  ASN=49592
-AS207569                     configs=   34  ips=   21  ASN=207569
-AS40676                      configs=   34  ips=   14  ASN=40676
-AS2914                       configs=   34  ips=   22  ASN=2914
-AS211301                     configs=   33  ips=   16  ASN=211301
-AS214639                     configs=   33  ips=   26  ASN=214639
-AS138997                     configs=   32  ips=   17  ASN=138997
-AS57169                      configs=   32  ips=   12  ASN=57169
-AS212336                     configs=   32  ips=   18  ASN=212336
-AS44382                      configs=   32  ips=   21  ASN=44382
-AS198037                     configs=   32  ips=   12  ASN=198037
-AS152672                     configs=   32  ips=   13  ASN=152672
-AS3175                       configs=   32  ips=   28  ASN=3175
-AS59504                      configs=   31  ips=   11  ASN=59504
-AS207513                     configs=   31  ips=   18  ASN=207513
-AS51847                      configs=   31  ips=    9  ASN=51847
-AS214790                     configs=   31  ips=   17  ASN=214790
-AS46475                      configs=   31  ips=   26  ASN=46475
-AS198610                     configs=   31  ips=   24  ASN=198610
-AS48014                      configs=   31  ips=   27  ASN=48014
-AS212477                     configs=   31  ips=   14  ASN=212477
-AS214640                     configs=   30  ips=   17  ASN=214640
-AS204427                     configs=   30  ips=   10  ASN=204427
-AS205090                     configs=   30  ips=   29  ASN=205090
-AS59406                      configs=   30  ips=   29  ASN=59406
-AS152194                     configs=   30  ips=   15  ASN=152194
-AS206216                     configs=   30  ips=    7  ASN=206216
-AS6696                       configs=   30  ips=   18  ASN=6696
-AS402931                     configs=   30  ips=   29  ASN=402931
-AS20860                      configs=   29  ips=   21  ASN=20860
-AS198983                     configs=   29  ips=   23  ASN=198983
-AS199915                     configs=   29  ips=   25  ASN=199915
-AS211507                     configs=   29  ips=   18  ASN=211507
-AS39798                      configs=   28  ips=    9  ASN=39798
-AS50979                      configs=   28  ips=   19  ASN=50979
-AS7488                       configs=   28  ips=   10  ASN=7488
-AS3223                       configs=   28  ips=   14  ASN=3223
-AS200315                     configs=   28  ips=    6  ASN=200315
-AS34702                      configs=   28  ips=   13  ASN=34702
-AS135377                     configs=   28  ips=   15  ASN=135377
-AS31034                      configs=   28  ips=   15  ASN=31034
-AS207847                     configs=   28  ips=   13  ASN=207847
-AS205548                     configs=   27  ips=    9  ASN=205548
-AS57858                      configs=   27  ips=    8  ASN=57858
-AS62082                      configs=   27  ips=    4  ASN=62082
-AS197165                     configs=   27  ips=   22  ASN=197165
-AS852                        configs=   27  ips=   14  ASN=852
-AS134696                     configs=   27  ips=    1  ASN=134696
-AS39318                      configs=   27  ips=    7  ASN=39318
-AS197450                     configs=   26  ips=    8  ASN=197450
-AS62610                      configs=   26  ips=    9  ASN=62610
-AS62212                      configs=   26  ips=   19  ASN=62212
-AS44486                      configs=   26  ips=   19  ASN=44486
-AS48551                      configs=   26  ips=   11  ASN=48551
-AS219010                     configs=   25  ips=   20  ASN=219010
-AS8888                       configs=   25  ips=   15  ASN=8888
-AS51659                      configs=   25  ips=   22  ASN=51659
-AS61254                      configs=   25  ips=   18  ASN=61254
-AS212815                     configs=   25  ips=   14  ASN=212815
-AS197283                     configs=   25  ips=   14  ASN=197283
-AS60404                      configs=   25  ips=   19  ASN=60404
-AS48715                      configs=   25  ips=   20  ASN=48715
-AS38365                      configs=   25  ips=    2  ASN=38365
-AS218914                     configs=   24  ips=    6  ASN=218914
-AS53667                      configs=   24  ips=   19  ASN=53667
-AS56046                      configs=   24  ips=   21  ASN=56046
-AS135598                     configs=   23  ips=    4  ASN=135598
-AS48147                      configs=   23  ips=   17  ASN=48147
-AS209604                     configs=   23  ips=    4  ASN=209604
-AS40680                      configs=   23  ips=   13  ASN=40680
-AS135905                     configs=   23  ips=   16  ASN=135905
-AS131642                     configs=   23  ips=   16  ASN=131642
-AS9304                       configs=   23  ips=   12  ASN=9304
-AS26666                      configs=   23  ips=    5  ASN=26666
-AS17676                      configs=   23  ips=    2  ASN=17676
-AS50132                      configs=   23  ips=    5  ASN=50132
-AS206873                     configs=   23  ips=    1  ASN=206873
-AS210895                     configs=   22  ips=    5  ASN=210895
-AS213953                     configs=   22  ips=   15  ASN=213953
-AS41436                      configs=   22  ips=    3  ASN=41436
-AS9318                       configs=   22  ips=   16  ASN=9318
-AS58224                      configs=   22  ips=   18  ASN=58224
+Cloudflare                   configs=52567  ips=17770  ASN=13335,209242,14789,400095,395747
+AWS                          configs= 5143  ips= 3151  ASN=16509,14618,7203,24544
+Google                       configs=  186  ips=  150  ASN=15169
 Google Cloud                 configs=   22  ips=   22  ASN=396982
-AS60490                      configs=   22  ips=   12  ASN=60490
-AS203614                     configs=   22  ips=    4  ASN=203614
-AS967                        configs=   21  ips=   15  ASN=967
-AS62214                      configs=   21  ips=    9  ASN=62214
-AS60982                      configs=   21  ips=    5  ASN=60982
-AS31549                      configs=   21  ips=   12  ASN=31549
-AS197462                     configs=   21  ips=   13  ASN=197462
-AS204997                     configs=   21  ips=   19  ASN=204997
-AS214822                     configs=   21  ips=   21  ASN=214822
-AS207992                     configs=   21  ips=   10  ASN=207992
-AS212853                     configs=   20  ips=    9  ASN=212853
-AS138915                     configs=   20  ips=    8  ASN=138915
-AS62442                      configs=   20  ips=   12  ASN=62442
-AS198068                     configs=   20  ips=    7  ASN=198068
-AS400797                     configs=   20  ips=   15  ASN=400797
-AS24806                      configs=   20  ips=   18  ASN=24806
-AS16628                      configs=   20  ips=    8  ASN=16628
-AS219288                     configs=   19  ips=   13  ASN=219288
-AS206647                     configs=   19  ips=    5  ASN=206647
-AS31133                      configs=   19  ips=    2  ASN=31133
-AS153371                     configs=   19  ips=    3  ASN=153371
-AS210546                     configs=   19  ips=   11  ASN=210546
-AS11878                      configs=   19  ips=    7  ASN=11878
-AS51431                      configs=   19  ips=   11  ASN=51431
-AS215273                     configs=   19  ips=    1  ASN=215273
-AS44112                      configs=   19  ips=   16  ASN=44112
-AS35372                      configs=   19  ips=   17  ASN=35372
-AS206822                     configs=   18  ips=    5  ASN=206822
-AS214996                     configs=   18  ips=   12  ASN=214996
-AS55430                      configs=   18  ips=    1  ASN=55430
-AS211056                     configs=   18  ips=   10  ASN=211056
-AS205089                     configs=   18  ips=    7  ASN=205089
-AS400897                     configs=   18  ips=    5  ASN=400897
-AS399678                     configs=   18  ips=    9  ASN=399678
-AS17858                      configs=   18  ips=   15  ASN=17858
-AS6134                       configs=   18  ips=   10  ASN=6134
-AS34534                      configs=   18  ips=    8  ASN=34534
-AS59729                      configs=   17  ips=    9  ASN=59729
-AS9371                       configs=   17  ips=    7  ASN=9371
-AS133774                     configs=   17  ips=    2  ASN=133774
-AS19318                      configs=   17  ips=   11  ASN=19318
-AS215703                     configs=   17  ips=   11  ASN=215703
-AS216416                     configs=   17  ips=   15  ASN=216416
-AS48207                      configs=   17  ips=   11  ASN=48207
-AS41075                      configs=   17  ips=    8  ASN=41075
-AS49581                      configs=   17  ips=    9  ASN=49581
-AS204339                     configs=   17  ips=    7  ASN=204339
-AS205290                     configs=   17  ips=    1  ASN=205290
-AS202302                     configs=   16  ips=    1  ASN=202302
-AS214504                     configs=   16  ips=    8  ASN=214504
-AS216129                     configs=   16  ips=    9  ASN=216129
-AS9312                       configs=   16  ips=    6  ASN=9312
-AS216245                     configs=   16  ips=    2  ASN=216245
-AS196709                     configs=   16  ips=   15  ASN=196709
-AS2559                       configs=   16  ips=    8  ASN=2559
-AS63916                      configs=   16  ips=   11  ASN=63916
-AS56047                      configs=   16  ips=    6  ASN=56047
-AS208555                     configs=   16  ips=    4  ASN=208555
-AS56309                      configs=   16  ips=   12  ASN=56309
-AS200566                     configs=   16  ips=   16  ASN=200566
-AS37680                      configs=   16  ips=   14  ASN=37680
-AS200823                     configs=   16  ips=   12  ASN=200823
-AS214891                     configs=   16  ips=   11  ASN=214891
-AS963                        configs=   16  ips=    9  ASN=963
-AS401443                     configs=   15  ips=   13  ASN=401443
-AS25369                      configs=   15  ips=    4  ASN=25369
-AS131584                     configs=   15  ips=    2  ASN=131584
-AS399629                     configs=   15  ips=    7  ASN=399629
-AS138115                     configs=   15  ips=    3  ASN=138115
-AS28423                      configs=   15  ips=    7  ASN=28423
-AS216058                     configs=   15  ips=    9  ASN=216058
-AS55286                      configs=   15  ips=   14  ASN=55286
-AS397133                     configs=   15  ips=    8  ASN=397133
-AS48018                      configs=   15  ips=   12  ASN=48018
-AS204785                     configs=   15  ips=   10  ASN=204785
-AS216206                     configs=   15  ips=    7  ASN=216206
-AS197477                     configs=   15  ips=    6  ASN=197477
-AS49531                      configs=   15  ips=    7  ASN=49531
-AS209024                     configs=   15  ips=    8  ASN=209024
-AS200758                     configs=   15  ips=   16  ASN=200758
-AS39900                      configs=   15  ips=   19  ASN=39900
-AS134677                     configs=   14  ips=    8  ASN=134677
-AS45899                      configs=   14  ips=    9  ASN=45899
-AS138995                     configs=   14  ips=   12  ASN=138995
-AS200904                     configs=   14  ips=    4  ASN=200904
-AS216139                     configs=   14  ips=    9  ASN=216139
-AS395839                     configs=   14  ips=   11  ASN=395839
-AS43513                      configs=   14  ips=   11  ASN=43513
-AS136958                     configs=   14  ips=    7  ASN=136958
-AS2514                       configs=   14  ips=   12  ASN=2514
-AS48314                      configs=   14  ips=    4  ASN=48314
-AS208161                     configs=   14  ips=    9  ASN=208161
-Melbicom                     configs=   14  ips=    9  ASN=49392
-AS200436                     configs=   14  ips=   11  ASN=200436
-AS48040                      configs=   14  ips=    8  ASN=48040
-AS216253                     configs=   14  ips=   13  ASN=216253
-AS200252                     configs=   14  ips=    5  ASN=200252
-AS18978                      configs=   14  ips=    8  ASN=18978
-AS218664                     configs=   14  ips=   21  ASN=218664
-AS204490                     configs=   14  ips=   13  ASN=204490
-AS210656                     configs=   14  ips=   14  ASN=210656
-AS32135                      configs=   13  ips=    3  ASN=32135
-AS212171                     configs=   13  ips=   10  ASN=212171
-AS63018                      configs=   13  ips=    8  ASN=63018
-AS43350                      configs=   13  ips=    9  ASN=43350
-AS9269                       configs=   13  ips=    6  ASN=9269
-AS18106                      configs=   13  ips=    1  ASN=18106
-AS197666                     configs=   13  ips=    7  ASN=197666
-AS209413                     configs=   13  ips=    4  ASN=209413
-AS151338                     configs=   13  ips=    5  ASN=151338
-AS198883                     configs=   13  ips=   13  ASN=198883
-AS19949                      configs=   13  ips=   13  ASN=19949
-AS140825                     configs=   13  ips=   13  ASN=140825
-AS210405                     configs=   13  ips=    6  ASN=210405
-AS51247                      configs=   13  ips=    4  ASN=51247
-AS206446                     configs=   13  ips=    8  ASN=206446
-AS43298                      configs=   13  ips=    5  ASN=43298
-AS202269                     configs=   13  ips=    7  ASN=202269
-AS25697                      configs=   13  ips=    5  ASN=25697
-AS43647                      configs=   13  ips=    5  ASN=43647
-AS214902                     configs=   13  ips=    3  ASN=214902
-AS198364                     configs=   13  ips=    4  ASN=198364
-AS134835                     configs=   13  ips=   12  ASN=134835
-AS213665                     configs=   13  ips=   12  ASN=213665
-AS6206                       configs=   13  ips=    8  ASN=6206
-AS203087                     configs=   12  ips=    4  ASN=203087
-AS200651                     configs=   12  ips=    6  ASN=200651
-AS219147                     configs=   12  ips=    6  ASN=219147
-AS218281                     configs=   12  ips=    1  ASN=218281
-AS215607                     configs=   12  ips=    4  ASN=215607
-AS14315                      configs=   12  ips=   10  ASN=14315
-AS22295                      configs=   12  ips=    5  ASN=22295
-AS48729                      configs=   12  ips=    3  ASN=48729
-AS210734                     configs=   12  ips=    4  ASN=210734
-AS152606                     configs=   12  ips=   12  ASN=152606
-AS61272                      configs=   12  ips=   10  ASN=61272
-AS208673                     configs=   12  ips=    7  ASN=208673
-AS50867                      configs=   12  ips=   11  ASN=50867
-AS8359                       configs=   12  ips=    4  ASN=8359
-AS44714                      configs=   12  ips=    4  ASN=44714
-AS215285                     configs=   12  ips=   10  ASN=215285
-AS152565                     configs=   12  ips=    1  ASN=152565
-AS48716                      configs=   12  ips=   12  ASN=48716
-AS203154                     configs=   11  ips=    7  ASN=203154
-AS1975                       configs=   11  ips=    4  ASN=1975
-AS197196                     configs=   11  ips=    6  ASN=197196
-AS206300                     configs=   11  ips=    7  ASN=206300
-AS49972                      configs=   11  ips=    7  ASN=49972
-AS135388                     configs=   11  ips=    8  ASN=135388
-AS51202                      configs=   11  ips=   11  ASN=51202
-AS394130                     configs=   11  ips=    1  ASN=394130
-AS215708                     configs=   11  ips=   10  ASN=215708
-Akamai                       configs=   11  ips=    7  ASN=20940,33905
-AS24318                      configs=   11  ips=    2  ASN=24318
-AS212706                     configs=   11  ips=    7  ASN=212706
-AS209805                     configs=   11  ips=    8  ASN=209805
-AS200590                     configs=   11  ips=    9  ASN=200590
-AS34412                      configs=   11  ips=    4  ASN=34412
-AS58955                      configs=   11  ips=    2  ASN=58955
-AS3301                       configs=   11  ips=    1  ASN=3301
-AS48031                      configs=   11  ips=    3  ASN=48031
-AS57367                      configs=   11  ips=    6  ASN=57367
-AS16003                      configs=   11  ips=   11  ASN=16003
-AS215224                     configs=   11  ips=   10  ASN=215224
-AS3786                       configs=   11  ips=   10  ASN=3786
-AS203758                     configs=   10  ips=    1  ASN=203758
-AS200000                     configs=   10  ips=    2  ASN=200000
-AS42275                      configs=   10  ips=    1  ASN=42275
-AS42708                      configs=   10  ips=    9  ASN=42708
-AS54290                      configs=   10  ips=    6  ASN=54290
-AS32167                      configs=   10  ips=    5  ASN=32167
-AS219464                     configs=   10  ips=    9  ASN=219464
-AS210558                     configs=   10  ips=    7  ASN=210558
-AS47216                      configs=   10  ips=    6  ASN=47216
-AS401701                     configs=   10  ips=    4  ASN=401701
-AS213468                     configs=   10  ips=   18  ASN=213468
-AS402506                     configs=   10  ips=    7  ASN=402506
-AS26585                      configs=   10  ips=    6  ASN=26585
-AS210848                     configs=   10  ips=    3  ASN=210848
-AS7393                       configs=   10  ips=    3  ASN=7393
-AS214431                     configs=   10  ips=    7  ASN=214431
-AS135357                     configs=   10  ips=    1  ASN=135357
-AS135918                     configs=   10  ips=    7  ASN=135918
-AS3257                       configs=   10  ips=    9  ASN=3257
-AS41564                      configs=   10  ips=    7  ASN=41564
-AS202448                     configs=   10  ips=   10  ASN=202448
-AS31130                      configs=   10  ips=    6  ASN=31130
-AS202226                     configs=    9  ips=    3  ASN=202226
-AS55967                      configs=    9  ips=    5  ASN=55967
-AS6233                       configs=    9  ips=    6  ASN=6233
-AS207728                     configs=    9  ips=    2  ASN=207728
-AS24560                      configs=    9  ips=    1  ASN=24560
-AS198651                     configs=    9  ips=    6  ASN=198651
-AS197703                     configs=    9  ips=    3  ASN=197703
-AS216475                     configs=    9  ips=    6  ASN=216475
-AS198178                     configs=    9  ips=    5  ASN=198178
-AS219142                     configs=    9  ips=    7  ASN=219142
-AS8796                       configs=    9  ips=    8  ASN=8796
-AS4609                       configs=    9  ips=    5  ASN=4609
-AS133210                     configs=    9  ips=    7  ASN=133210
-AS216211                     configs=    9  ips=    3  ASN=216211
-AS395126                     configs=    9  ips=    5  ASN=395126
-AS17497                      configs=    9  ips=    8  ASN=17497
-AS56694                      configs=    9  ips=    8  ASN=56694
-AS142111                     configs=    9  ips=    4  ASN=142111
-AS40034                      configs=    9  ips=    2  ASN=40034
-AS213954                     configs=    9  ips=    3  ASN=213954
-AS216394                     configs=    9  ips=    3  ASN=216394
-AS212219                     configs=    9  ips=    5  ASN=212219
-AS40663                      configs=    9  ips=    2  ASN=40663
-AS210756                     configs=    9  ips=    9  ASN=210756
-AS399195                     configs=    9  ips=    5  ASN=399195
-AS209874                     configs=    9  ips=    3  ASN=209874
-AS395092                     configs=    9  ips=    8  ASN=395092
-AS44901                      configs=    9  ips=    9  ASN=44901
-AS199884                     configs=    9  ips=    4  ASN=199884
-AS207057                     configs=    9  ips=   11  ASN=207057
-AS8342                       configs=    9  ips=    6  ASN=8342
-AS18526                      configs=    8  ips=    4  ASN=18526
-AS140227                     configs=    8  ips=    3  ASN=140227
-AS34665                      configs=    8  ips=    5  ASN=34665
-AS26496                      configs=    8  ips=    1  ASN=26496
-HVC                          configs=    8  ips=    5  ASN=29802
-AS209554                     configs=    8  ips=    5  ASN=209554
-AS35516                      configs=    8  ips=    1  ASN=35516
-AS61102                      configs=    8  ips=    2  ASN=61102
-AS213905                     configs=    8  ips=    1  ASN=213905
-Huawei Cloud                 configs=    8  ips=    3  ASN=136907
-AS26158                      configs=    8  ips=    4  ASN=26158
-AS39238                      configs=    8  ips=    8  ASN=39238
-AS51395                      configs=    8  ips=    6  ASN=51395
-AS212531                     configs=    8  ips=    7  ASN=212531
-AS204942                     configs=    8  ips=    7  ASN=204942
-AS204213                     configs=    8  ips=    4  ASN=204213
-AS53724                      configs=    8  ips=    7  ASN=53724
-AS210329                     configs=    8  ips=    6  ASN=210329
-AS51290                      configs=    8  ips=    7  ASN=51290
-AS202662                     configs=    8  ips=    5  ASN=202662
-AS44128                      configs=    8  ips=    6  ASN=44128
-AS7506                       configs=    8  ips=    1  ASN=7506
-AS834                        configs=    8  ips=    6  ASN=834
-AS214618                     configs=    8  ips=    7  ASN=214618
-AS328608                     configs=    8  ips=    8  ASN=328608
-AS209378                     configs=    8  ips=    5  ASN=209378
-AS199144                     configs=    8  ips=    6  ASN=199144
-AS30823                      configs=    8  ips=    7  ASN=30823
-AS204548                     configs=    8  ips=    7  ASN=204548
-AS50049                      configs=    8  ips=    7  ASN=50049
-AS142036                     configs=    8  ips=    7  ASN=142036
-AS211881                     configs=    8  ips=    4  ASN=211881
-AS23470                      configs=    8  ips=    6  ASN=23470
-AS205399                     configs=    8  ips=    5  ASN=205399
-AS398993                     configs=    8  ips=    5  ASN=398993
-AS39378                      configs=    8  ips=    3  ASN=39378
-AS56045                      configs=    8  ips=    2  ASN=56045
-AS205007                     configs=    8  ips=    8  ASN=205007
-AS48282                      configs=    8  ips=    7  ASN=48282
-AS3216                       configs=    8  ips=    7  ASN=3216
-AS207483                     configs=    8  ips=    8  ASN=207483
-AS398823                     configs=    7  ips=    5  ASN=398823
-AS56041                      configs=    7  ips=    5  ASN=56041
-AS201176                     configs=    7  ips=    3  ASN=201176
-AS209181                     configs=    7  ips=    1  ASN=209181
-AS214480                     configs=    7  ips=    1  ASN=214480
-AS206129                     configs=    7  ips=    1  ASN=206129
-AS9198                       configs=    7  ips=    5  ASN=9198
-AS208427                     configs=    7  ips=    5  ASN=208427
-AS218998                     configs=    7  ips=    2  ASN=218998
-AS216024                     configs=    7  ips=    7  ASN=216024
-AS41378                      configs=    7  ips=    6  ASN=41378
-AS401615                     configs=    7  ips=    7  ASN=401615
-AS7684                       configs=    7  ips=    5  ASN=7684
-AS205431                     configs=    7  ips=    7  ASN=205431
-AS402279                     configs=    7  ips=    4  ASN=402279
-AS29066                      configs=    7  ips=    6  ASN=29066
-AS6697                       configs=    7  ips=    6  ASN=6697
-AS149513                     configs=    7  ips=    5  ASN=149513
-AS204601                     configs=    7  ips=    7  ASN=204601
-AS2497                       configs=    7  ips=    4  ASN=2497
-AS133800                     configs=    7  ips=    3  ASN=133800
-AS54004                      configs=    7  ips=    2  ASN=54004
-AS30900                      configs=    7  ips=    3  ASN=30900
-AS57494                      configs=    7  ips=    6  ASN=57494
-AS219466                     configs=    7  ips=    2  ASN=219466
-AS12880                      configs=    7  ips=    3  ASN=12880
-AS49                         configs=    7  ips=    3  ASN=49
-AS137409                     configs=    7  ips=    5  ASN=137409
-AS202799                     configs=    7  ips=    6  ASN=202799
-AS136510                     configs=    7  ips=    3  ASN=136510
-AS205993                     configs=    7  ips=    7  ASN=205993
-AS61087                      configs=    7  ips=    7  ASN=61087
-AS4812                       configs=    7  ips=    2  ASN=4812
-AS134238                     configs=    7  ips=    1  ASN=134238
-AS18186                      configs=    7  ips=    4  ASN=18186
-AS207359                     configs=    7  ips=    4  ASN=207359
-AS44094                      configs=    7  ips=    2  ASN=44094
-AS200239                     configs=    7  ips=    1  ASN=200239
-AS206007                     configs=    7  ips=    2  ASN=206007
-AS201011                     configs=    7  ips=    1  ASN=201011
-AS134765                     configs=    7  ips=    1  ASN=134765
-AS210619                     configs=    7  ips=    1  ASN=210619
-AS215938                     configs=    7  ips=    4  ASN=215938
-AS200406                     configs=    7  ips=    1  ASN=200406
-AS204650                     configs=    7  ips=    7  ASN=204650
-AS401696                     configs=    7  ips=    6  ASN=401696
-AS64457                      configs=    7  ips=    6  ASN=64457
-AS216150                     configs=    7  ips=    6  ASN=216150
-AS210464                     configs=    7  ips=    5  ASN=210464
-AS213852                     configs=    7  ips=    7  ASN=213852
-AS44375                      configs=    7  ips=    7  ASN=44375
-AS43362                      configs=    7  ips=    7  ASN=43362
-AS17849                      configs=    7  ips=    4  ASN=17849
-AS56864                      configs=    7  ips=    7  ASN=56864
-AS207459                     configs=    7  ips=    7  ASN=207459
-AS44709                      configs=    7  ips=    7  ASN=44709
-AS131392                     configs=    6  ips=    1  ASN=131392
-AS136052                     configs=    6  ips=    4  ASN=136052
-AS939                        configs=    6  ips=    1  ASN=939
-AS202015                     configs=    6  ips=    2  ASN=202015
-AS43317                      configs=    6  ips=    4  ASN=43317
-AS218296                     configs=    6  ips=    2  ASN=218296
-AS219501                     configs=    6  ips=    3  ASN=219501
-AS33842                      configs=    6  ips=    5  ASN=33842
-AS59878                      configs=    6  ips=    4  ASN=59878
-AS398291                     configs=    6  ips=    2  ASN=398291
-AS35278                      configs=    6  ips=    6  ASN=35278
-AS197155                     configs=    6  ips=    2  ASN=197155
-AS135951                     configs=    6  ips=    5  ASN=135951
-AS401434                     configs=    6  ips=    2  ASN=401434
-AS35661                      configs=    6  ips=    4  ASN=35661
-AS60602                      configs=    6  ips=    2  ASN=60602
-AS214798                     configs=    6  ips=    5  ASN=214798
-AS200736                     configs=    6  ips=    5  ASN=200736
-AS18180                      configs=    6  ips=    6  ASN=18180
-AS152179                     configs=    6  ips=    5  ASN=152179
-AS5511                       configs=    6  ips=    6  ASN=5511
-AS976                        configs=    6  ips=    6  ASN=976
-AS202792                     configs=    6  ips=    1  ASN=202792
-AS22439                      configs=    6  ips=    1  ASN=22439
-AS329184                     configs=    6  ips=    3  ASN=329184
-AS11179                      configs=    6  ips=    5  ASN=11179
-AS7979                       configs=    6  ips=    3  ASN=7979
-AS215362                     configs=    6  ips=    2  ASN=215362
-AS401339                     configs=    6  ips=    4  ASN=401339
-AS211955                     configs=    6  ips=    2  ASN=211955
-AS219399                     configs=    6  ips=    2  ASN=219399
-AS30893                      configs=    6  ips=    3  ASN=30893
-AS14453                      configs=    6  ips=    1  ASN=14453
-AS48529                      configs=    6  ips=    3  ASN=48529
-AS10753                      configs=    6  ips=    5  ASN=10753
-AS45839                      configs=    6  ips=    5  ASN=45839
-AS31972                      configs=    6  ips=    6  ASN=31972
-AS209279                     configs=    6  ips=    6  ASN=209279
-AS152320                     configs=    6  ips=    2  ASN=152320
-AS201838                     configs=    6  ips=    6  ASN=201838
-AS34119                      configs=    6  ips=    2  ASN=34119
-AS61248                      configs=    6  ips=    6  ASN=61248
-AS6517                       configs=    6  ips=    2  ASN=6517
-AS43444                      configs=    6  ips=    3  ASN=43444
-AS52048                      configs=    6  ips=    5  ASN=52048
-AS8285                       configs=    6  ips=    4  ASN=8285
-AS219258                     configs=    6  ips=    1  ASN=219258
-AS215691                     configs=    6  ips=    5  ASN=215691
-AS201097                     configs=    6  ips=    6  ASN=201097
-AS212860                     configs=    6  ips=    1  ASN=212860
-AS207003                     configs=    6  ips=    5  ASN=207003
-AS199792                     configs=    6  ips=    6  ASN=199792
-AS219302                     configs=    6  ips=    6  ASN=219302
-AS47377                      configs=    6  ips=    5  ASN=47377
-AS205983                     configs=    6  ips=    6  ASN=205983
-AS52173                      configs=    6  ips=    6  ASN=52173
-AS214567                     configs=    6  ips=    5  ASN=214567
-AS58791                      configs=    5  ips=    3  ASN=58791
-AS64022                      configs=    5  ips=    4  ASN=64022
-AS61414                      configs=    5  ips=    2  ASN=61414
-AS208450                     configs=    5  ips=    3  ASN=208450
-AS402799                     configs=    5  ips=    1  ASN=402799
-AS137718                     configs=    5  ips=    2  ASN=137718
-AS47447                      configs=    5  ips=    3  ASN=47447
-AS42474                      configs=    5  ips=    3  ASN=42474
-AS149042                     configs=    5  ips=    5  ASN=149042
-AS210083                     configs=    5  ips=    2  ASN=210083
-AS201106                     configs=    5  ips=    6  ASN=201106
-AS33387                      configs=    5  ips=    4  ASN=33387
-AS197648                     configs=    5  ips=    4  ASN=197648
-AS46997                      configs=    5  ips=    6  ASN=46997
-AS215960                     configs=    5  ips=    2  ASN=215960
-AS4811                       configs=    5  ips=    3  ASN=4811
-AS266827                     configs=    5  ips=    3  ASN=266827
-AS63199                      configs=    5  ips=    4  ASN=63199
-AS152900                     configs=    5  ips=    5  ASN=152900
-AS59371                      configs=    5  ips=    3  ASN=59371
-AS200918                     configs=    5  ips=    2  ASN=200918
-AS45204                      configs=    5  ips=    1  ASN=45204
-AS29555                      configs=    5  ips=    1  ASN=29555
-AS50223                      configs=    5  ips=    1  ASN=50223
-AS47589                      configs=    5  ips=    1  ASN=47589
-AS43289                      configs=    5  ips=    1  ASN=43289
-AS64050                      configs=    5  ips=    4  ASN=64050
-AS202319                     configs=    5  ips=    2  ASN=202319
-AS132693                     configs=    5  ips=    1  ASN=132693
-AS199912                     configs=    5  ips=    4  ASN=199912
-AS9327                       configs=    5  ips=    3  ASN=9327
-AS58262                      configs=    5  ips=    4  ASN=58262
-AS21056                      configs=    5  ips=    4  ASN=21056
-AS20857                      configs=    5  ips=    1  ASN=20857
-AS215659                     configs=    5  ips=    2  ASN=215659
-AS203866                     configs=    5  ips=    2  ASN=203866
-AS43357                      configs=    5  ips=    2  ASN=43357
-AS214184                     configs=    5  ips=    1  ASN=214184
-AS35682                      configs=    5  ips=    1  ASN=35682
-AS44677                      configs=    5  ips=    2  ASN=44677
-AS214192                     configs=    5  ips=    1  ASN=214192
-AS149963                     configs=    5  ips=    1  ASN=149963
-AS133322                     configs=    5  ips=    1  ASN=133322
-AS200487                     configs=    5  ips=    1  ASN=200487
-AS215120                     configs=    5  ips=    2  ASN=215120
-AS51264                      configs=    5  ips=    1  ASN=51264
-AS201150                     configs=    5  ips=    2  ASN=201150
-AS210820                     configs=    5  ips=    3  ASN=210820
-AS48347                      configs=    5  ips=    5  ASN=48347
-AS214677                     configs=    5  ips=    3  ASN=214677
-AS42831                      configs=    5  ips=    3  ASN=42831
-AS135097                     configs=    5  ips=    1  ASN=135097
-AS134771                     configs=    5  ips=    1  ASN=134771
-AS133199                     configs=    5  ips=    2  ASN=133199
-AS61173                      configs=    5  ips=    5  ASN=61173
-AS25106                      configs=    5  ips=    4  ASN=25106
-AS212872                     configs=    5  ips=    4  ASN=212872
-AS213164                     configs=    5  ips=    9  ASN=213164
-AS211443                     configs=    5  ips=    4  ASN=211443
-AS214919                     configs=    5  ips=    4  ASN=214919
-AS51248                      configs=    5  ips=    5  ASN=51248
-AS44932                      configs=    5  ips=    5  ASN=44932
-AS44925                      configs=    5  ips=    5  ASN=44925
-AS51115                      configs=    5  ips=    5  ASN=51115
-AS401152                     configs=    5  ips=    5  ASN=401152
-AS210574                     configs=    5  ips=    5  ASN=210574
-AS200563                     configs=    5  ips=    4  ASN=200563
-AS38001                      configs=    5  ips=    5  ASN=38001
-AS8851                       configs=    5  ips=    5  ASN=8851
-AS21499                      configs=    4  ips=    1  ASN=21499
-AS63962                      configs=    4  ips=    1  ASN=63962
-AS44894                      configs=    4  ips=    2  ASN=44894
-AS23347                      configs=    4  ips=    1  ASN=23347
-AS207333                     configs=    4  ips=    1  ASN=207333
-AS218136                     configs=    4  ips=    2  ASN=218136
-AS45996                      configs=    4  ips=    1  ASN=45996
-AS24282                      configs=    4  ips=    3  ASN=24282
-AS215355                     configs=    4  ips=    4  ASN=215355
-AS214379                     configs=    4  ips=    4  ASN=214379
-AS35758                      configs=    4  ips=    3  ASN=35758
-AS44259                      configs=    4  ips=    3  ASN=44259
-AS17511                      configs=    4  ips=    3  ASN=17511
-AS203938                     configs=    4  ips=    4  ASN=203938
-AS203919                     configs=    4  ips=    1  ASN=203919
-AS140815                     configs=    4  ips=    4  ASN=140815
-AS213683                     configs=    4  ips=    4  ASN=213683
-AS206996                     configs=    4  ips=    6  ASN=206996
-AS206065                     configs=    4  ips=    4  ASN=206065
-AS58466                      configs=    4  ips=    2  ASN=58466
-AS397156                     configs=    4  ips=    4  ASN=397156
-AS58461                      configs=    4  ips=    2  ASN=58461
-AS398343                     configs=    4  ips=    4  ASN=398343
-AS1054                       configs=    4  ips=    4  ASN=1054
-AS38859                      configs=    4  ips=    1  ASN=38859
-AS208006                     configs=    4  ips=    3  ASN=208006
-AS4775                       configs=    4  ips=    2  ASN=4775
-AS142616                     configs=    4  ips=    3  ASN=142616
-AS23724                      configs=    4  ips=    2  ASN=23724
-AS137951                     configs=    4  ips=    1  ASN=137951
-AS400618                     configs=    4  ips=    1  ASN=400618
-AS8551                       configs=    4  ips=    1  ASN=8551
-AS210162                     configs=    4  ips=    1  ASN=210162
-AS206991                     configs=    4  ips=    1  ASN=206991
-AS204769                     configs=    4  ips=    1  ASN=204769
-AS142403                     configs=    4  ips=    1  ASN=142403
-AS200954                     configs=    4  ips=    2  ASN=200954
-AS154321                     configs=    4  ips=    2  ASN=154321
-AS37153                      configs=    4  ips=    2  ASN=37153
-AS136250                     configs=    4  ips=    1  ASN=136250
-AS200698                     configs=    4  ips=    1  ASN=200698
-AS9121                       configs=    4  ips=    1  ASN=9121
-AS214078                     configs=    4  ips=    2  ASN=214078
-AS214171                     configs=    4  ips=    2  ASN=214171
-AS207267                     configs=    4  ips=    2  ASN=207267
-AS203090                     configs=    4  ips=    4  ASN=203090
-AS151487                     configs=    4  ips=    3  ASN=151487
-AS43641                      configs=    4  ips=    4  ASN=43641
-AS23352                      configs=    4  ips=    4  ASN=23352
-AS213652                     configs=    4  ips=    4  ASN=213652
-AS201341                     configs=    4  ips=    4  ASN=201341
-AS33490                      configs=    4  ips=    4  ASN=33490
-AS39493                      configs=    4  ips=    4  ASN=39493
-AS44493                      configs=    4  ips=    3  ASN=44493
-AS17621                      configs=    4  ips=    3  ASN=17621
-AS48434                      configs=    4  ips=    4  ASN=48434
-AS57363                      configs=    4  ips=    2  ASN=57363
-AS28886                      configs=    4  ips=    2  ASN=28886
-AS202520                     configs=    4  ips=    3  ASN=202520
-AS209183                     configs=    4  ips=    3  ASN=209183
-AS400566                     configs=    4  ips=    2  ASN=400566
-AS54041                      configs=    4  ips=    2  ASN=54041
-AS49367                      configs=    4  ips=    2  ASN=49367
-AS199550                     configs=    4  ips=    4  ASN=199550
-AS203446                     configs=    4  ips=    2  ASN=203446
-AS400304                     configs=    4  ips=    4  ASN=400304
-AS149020                     configs=    4  ips=    3  ASN=149020
-AS21030                      configs=    4  ips=    4  ASN=21030
-AS218749                     configs=    4  ips=    4  ASN=218749
-AS399646                     configs=    4  ips=    6  ASN=399646
-AS211486                     configs=    4  ips=    4  ASN=211486
-AS56740                      configs=    4  ips=    4  ASN=56740
-AS209474                     configs=    4  ips=    3  ASN=209474
-AS211183                     configs=    4  ips=    4  ASN=211183
-AS41798                      configs=    4  ips=    4  ASN=41798
-AS210980                     configs=    4  ips=    4  ASN=210980
-AS214647                     configs=    4  ips=    4  ASN=214647
-AS48096                      configs=    4  ips=    4  ASN=48096
-AS203900                     configs=    4  ips=    4  ASN=203900
-AS214957                     configs=    4  ips=    4  ASN=214957
-AS17857                      configs=    4  ips=    4  ASN=17857
-AS201409                     configs=    4  ips=    2  ASN=201409
-AS211421                     configs=    4  ips=    4  ASN=211421
-AS201269                     configs=    4  ips=    4  ASN=201269
-AS207619                     configs=    4  ips=    3  ASN=207619
-AS48430                      configs=    4  ips=    3  ASN=48430
-AS12297                      configs=    4  ips=    4  ASN=12297
-AS198988                     configs=    3  ips=    2  ASN=198988
-AS4788                       configs=    3  ips=    2  ASN=4788
-AS46375                      configs=    3  ips=    1  ASN=46375
-AS59211                      configs=    3  ips=    3  ASN=59211
-AS132816                     configs=    3  ips=    1  ASN=132816
-AS205248                     configs=    3  ips=    1  ASN=205248
-AS11086                      configs=    3  ips=    2  ASN=11086
-AS139989                     configs=    3  ips=    3  ASN=139989
-AS136190                     configs=    3  ips=    1  ASN=136190
-AS142113                     configs=    3  ips=    2  ASN=142113
-AS133619                     configs=    3  ips=    3  ASN=133619
-AS33724                      configs=    3  ips=    3  ASN=33724
-AS207279                     configs=    3  ips=    3  ASN=207279
-AS43969                      configs=    3  ips=    3  ASN=43969
-AS50613                      configs=    3  ips=    3  ASN=50613
-AS211971                     configs=    3  ips=    3  ASN=211971
-AS32181                      configs=    3  ips=    3  ASN=32181
-AS2516                       configs=    3  ips=    3  ASN=2516
-AS209243                     configs=    3  ips=    1  ASN=209243
-AS152918                     configs=    3  ips=    3  ASN=152918
-AS400464                     configs=    3  ips=    3  ASN=400464
-AS34989                      configs=    3  ips=    3  ASN=34989
-AS59437                      configs=    3  ips=    3  ASN=59437
-AS141107                     configs=    3  ips=    3  ASN=141107
-AS40824                      configs=    3  ips=    2  ASN=40824
-AS44764                      configs=    3  ips=    1  ASN=44764
-AS206069                     configs=    3  ips=    3  ASN=206069
-AS6698                       configs=    3  ips=    2  ASN=6698
-AS50558                      configs=    3  ips=    3  ASN=50558
-AS9848                       configs=    3  ips=    3  ASN=9848
-AS18450                      configs=    3  ips=    3  ASN=18450
-AS20724                      configs=    3  ips=    1  ASN=20724
-AS21556                      configs=    3  ips=    3  ASN=21556
-AS150452                     configs=    3  ips=    2  ASN=150452
-AS31234                      configs=    3  ips=    1  ASN=31234
-AS42082                      configs=    3  ips=    2  ASN=42082
-AS397423                     configs=    3  ips=    2  ASN=397423
-AS198301                     configs=    3  ips=    3  ASN=198301
-AS200220                     configs=    3  ips=    3  ASN=200220
-AS198825                     configs=    3  ips=    2  ASN=198825
-AS60248                      configs=    3  ips=    3  ASN=60248
-AS201691                     configs=    3  ips=    2  ASN=201691
-AS211019                     configs=    3  ips=    1  ASN=211019
-AS43391                      configs=    3  ips=    1  ASN=43391
-AS3170                       configs=    3  ips=    1  ASN=3170
-AS396073                     configs=    3  ips=    1  ASN=396073
-AS401650                     configs=    3  ips=    1  ASN=401650
-AS199417                     configs=    3  ips=    1  ASN=199417
-AS203029                     configs=    3  ips=    1  ASN=203029
-AS134365                     configs=    3  ips=    1  ASN=134365
-AS43212                      configs=    3  ips=    1  ASN=43212
-AS209155                     configs=    3  ips=    1  ASN=209155
-AS38042                      configs=    3  ips=    1  ASN=38042
-AS46015                      configs=    3  ips=    1  ASN=46015
-AS56106                      configs=    3  ips=    1  ASN=56106
-AS137535                     configs=    3  ips=    3  ASN=137535
-AS134810                     configs=    3  ips=    1  ASN=134810
-AS200277                     configs=    3  ips=    2  ASN=200277
-AS4694                       configs=    3  ips=    2  ASN=4694
-AS39600                      configs=    3  ips=    2  ASN=39600
-AS41202                      configs=    3  ips=    1  ASN=41202
-AS61596                      configs=    3  ips=    1  ASN=61596
-AS61084                      configs=    3  ips=    2  ASN=61084
-AS151630                     configs=    3  ips=    2  ASN=151630
-AS20278                      configs=    3  ips=    3  ASN=20278
-AS207083                     configs=    3  ips=    3  ASN=207083
-AS210695                     configs=    3  ips=    3  ASN=210695
-AS31122                      configs=    3  ips=    2  ASN=31122
-AS15723                      configs=    3  ips=    2  ASN=15723
-AS57497                      configs=    3  ips=    3  ASN=57497
-AS9908                       configs=    3  ips=    1  ASN=9908
-AS402169                     configs=    3  ips=    1  ASN=402169
-AS56067                      configs=    3  ips=    1  ASN=56067
-AS197884                     configs=    3  ips=    3  ASN=197884
-AS44436                      configs=    3  ips=    3  ASN=44436
-AS62425                      configs=    3  ips=    3  ASN=62425
-AS36198                      configs=    3  ips=    2  ASN=36198
-AS12322                      configs=    3  ips=    2  ASN=12322
-AS56380                      configs=    3  ips=    2  ASN=56380
-AS8220                       configs=    3  ips=    2  ASN=8220
-AS218302                     configs=    3  ips=    1  ASN=218302
-AS59623                      configs=    3  ips=    2  ASN=59623
-AS216444                     configs=    3  ips=    3  ASN=216444
-AS49604                      configs=    3  ips=    1  ASN=49604
-AS210457                     configs=    3  ips=    3  ASN=210457
-AS210429                     configs=    3  ips=    2  ASN=210429
-AS40662                      configs=    3  ips=    1  ASN=40662
-AS218947                     configs=    3  ips=    1  ASN=218947
-AS203363                     configs=    3  ips=    2  ASN=203363
-AS213657                     configs=    3  ips=    2  ASN=213657
-AS10099                      configs=    3  ips=    2  ASN=10099
-AS213316                     configs=    3  ips=    1  ASN=213316
-AS218356                     configs=    3  ips=    1  ASN=218356
-AS198924                     configs=    3  ips=    3  ASN=198924
-AS212259                     configs=    3  ips=    1  ASN=212259
-AS41608                      configs=    3  ips=    2  ASN=41608
-AS35598                      configs=    3  ips=    1  ASN=35598
-AS212607                     configs=    3  ips=    3  ASN=212607
-AS61424                      configs=    3  ips=    3  ASN=61424
-AS199654                     configs=    3  ips=   10  ASN=199654
-AS135330                     configs=    3  ips=    3  ASN=135330
-AS197256                     configs=    3  ips=   11  ASN=197256
-AS201194                     configs=    3  ips=    3  ASN=201194
-AS36137                      configs=    3  ips=    2  ASN=36137
-AS23827                      configs=    3  ips=    1  ASN=23827
-AS198377                     configs=    3  ips=    3  ASN=198377
-AS9694                       configs=    3  ips=    2  ASN=9694
-AS49635                      configs=    3  ips=    3  ASN=49635
-AS56322                      configs=    3  ips=    3  ASN=56322
-AS201949                     configs=    3  ips=    3  ASN=201949
-AS197791                     configs=    3  ips=    3  ASN=197791
-AS210814                     configs=    3  ips=    3  ASN=210814
-AS11161                      configs=    2  ips=    1  ASN=11161
-AS150862                     configs=    2  ips=    1  ASN=150862
-AS149068                     configs=    2  ips=    1  ASN=149068
-AS4785                       configs=    2  ips=    1  ASN=4785
-AS50246                      configs=    2  ips=    1  ASN=50246
-AS14576                      configs=    2  ips=    2  ASN=14576
-AS56594                      configs=    2  ips=    1  ASN=56594
-AS4808                       configs=    2  ips=    1  ASN=4808
-AS398101                     configs=    2  ips=    1  ASN=398101
-AS201575                     configs=    2  ips=    2  ASN=201575
-AS197019                     configs=    2  ips=    1  ASN=197019
-AS215023                     configs=    2  ips=    1  ASN=215023
-AS50245                      configs=    2  ips=    1  ASN=50245
-AS62068                      configs=    2  ips=    1  ASN=62068
-AS26277                      configs=    2  ips=    1  ASN=26277
-AS198855                     configs=    2  ips=    2  ASN=198855
-AS34689                      configs=    2  ips=    1  ASN=34689
-AS48753                      configs=    2  ips=    2  ASN=48753
-AS218701                     configs=    2  ips=    2  ASN=218701
-AS141968                     configs=    2  ips=    2  ASN=141968
-AS61053                      configs=    2  ips=    2  ASN=61053
-AS150895                     configs=    2  ips=    2  ASN=150895
-AS207108                     configs=    2  ips=    2  ASN=207108
-AS135120                     configs=    2  ips=    1  ASN=135120
-AS202425                     configs=    2  ips=    2  ASN=202425
-AS17816                      configs=    2  ips=    2  ASN=17816
-AS47913                      configs=    2  ips=    2  ASN=47913
-AS60024                      configs=    2  ips=    2  ASN=60024
-AS132335                     configs=    2  ips=    2  ASN=132335
-AS45785                      configs=    2  ips=    1  ASN=45785
-AS16686                      configs=    2  ips=    7  ASN=16686
-AS205406                     configs=    2  ips=    2  ASN=205406
-AS52053                      configs=    2  ips=    2  ASN=52053
-AS203136                     configs=    2  ips=    2  ASN=203136
-AS12616                      configs=    2  ips=    2  ASN=12616
-AS35251                      configs=    2  ips=    2  ASN=35251
-AS201030                     configs=    2  ips=    2  ASN=201030
-AS199741                     configs=    2  ips=    2  ASN=199741
-AS399606                     configs=    2  ips=    2  ASN=399606
-AS7470                       configs=    2  ips=    2  ASN=7470
-AS11831                      configs=    2  ips=    1  ASN=11831
-AS218862                     configs=    2  ips=    2  ASN=218862
-AS219289                     configs=    2  ips=    2  ASN=219289
-AS197715                     configs=    2  ips=    2  ASN=197715
-AS53808                      configs=    2  ips=    2  ASN=53808
-AS208024                     configs=    2  ips=    1  ASN=208024
-AS9930                       configs=    2  ips=    2  ASN=9930
-AS12734                      configs=    2  ips=    1  ASN=12734
-AS199152                     configs=    2  ips=    2  ASN=199152
-AS38333                      configs=    2  ips=    1  ASN=38333
-AS206411                     configs=    2  ips=    2  ASN=206411
-AS917                        configs=    2  ips=    2  ASN=917
-AS12389                      configs=    2  ips=    2  ASN=12389
-AS210779                     configs=    2  ips=    1  ASN=210779
-AS27257                      configs=    2  ips=    1  ASN=27257
-AS13627                      configs=    2  ips=    2  ASN=13627
-AS198203                     configs=    2  ips=    1  ASN=198203
-AS13444                      configs=    2  ips=    1  ASN=13444
-AS4816                       configs=    2  ips=    1  ASN=4816
-AS214973                     configs=    2  ips=    1  ASN=214973
-AS41508                      configs=    2  ips=    1  ASN=41508
-AS45062                      configs=    2  ips=    1  ASN=45062
-AS213438                     configs=    2  ips=    1  ASN=213438
-AS47330                      configs=    2  ips=    2  ASN=47330
-AS58329                      configs=    2  ips=    2  ASN=58329
-AS212296                     configs=    2  ips=    1  ASN=212296
-AS38283                      configs=    2  ips=    1  ASN=38283
-AS30148                      configs=    2  ips=    1  ASN=30148
-AS40092                      configs=    2  ips=    1  ASN=40092
-AS9812                       configs=    2  ips=    1  ASN=9812
-AS52368                      configs=    2  ips=    1  ASN=52368
-AS214285                     configs=    2  ips=    1  ASN=214285
-AS210718                     configs=    2  ips=    1  ASN=210718
-AS201601                     configs=    2  ips=    2  ASN=201601
-AS215197                     configs=    2  ips=    2  ASN=215197
-AS398704                     configs=    2  ips=    2  ASN=398704
-AS197959                     configs=    2  ips=    1  ASN=197959
-AS60423                      configs=    2  ips=    2  ASN=60423
-AS154206                     configs=    2  ips=    1  ASN=154206
-AS398781                     configs=    2  ips=    2  ASN=398781
-AS18779                      configs=    2  ips=    2  ASN=18779
-AS137693                     configs=    2  ips=    2  ASN=137693
-AS25098                      configs=    2  ips=    2  ASN=25098
-AS197170                     configs=    2  ips=    1  ASN=197170
-AS34224                      configs=    2  ips=    1  ASN=34224
-AS3320                       configs=    2  ips=    2  ASN=3320
-AS400619                     configs=    2  ips=    2  ASN=400619
-AS1405                       configs=    2  ips=    2  ASN=1405
-AS197226                     configs=    2  ips=    2  ASN=197226
-AS60014                      configs=    2  ips=    2  ASN=60014
-AS63737                      configs=    2  ips=    2  ASN=63737
-AS24400                      configs=    2  ips=    1  ASN=24400
-AS137899                     configs=    2  ips=    1  ASN=137899
-AS24631                      configs=    2  ips=    2  ASN=24631
-AS30219                      configs=    2  ips=    2  ASN=30219
-AS395831                     configs=    2  ips=    2  ASN=395831
-AS30475                      configs=    2  ips=    1  ASN=30475
-AS202831                     configs=    2  ips=    2  ASN=202831
-AS214803                     configs=    2  ips=    1  ASN=214803
-AS138407                     configs=    2  ips=    1  ASN=138407
-AS219401                     configs=    2  ips=    1  ASN=219401
-AS218897                     configs=    2  ips=    1  ASN=218897
-AS33039                      configs=    2  ips=    2  ASN=33039
-AS198685                     configs=    2  ips=    1  ASN=198685
-AS200088                     configs=    2  ips=    1  ASN=200088
-AS402429                     configs=    2  ips=    1  ASN=402429
-AS19281                      configs=    2  ips=    1  ASN=19281
-AS205213                     configs=    2  ips=    1  ASN=205213
-AS203023                     configs=    2  ips=    1  ASN=203023
-AS202297                     configs=    2  ips=    1  ASN=202297
-AS202090                     configs=    2  ips=    1  ASN=202090
-AS207567                     configs=    2  ips=    6  ASN=207567
-AS219269                     configs=    2  ips=    1  ASN=219269
-AS27284                      configs=    2  ips=    2  ASN=27284
-AS50010                      configs=    2  ips=    1  ASN=50010
-AS197234                     configs=    2  ips=    1  ASN=197234
-AS399275                     configs=    2  ips=    2  ASN=399275
-AS154562                     configs=    2  ips=    2  ASN=154562
-AS20326                      configs=    2  ips=    2  ASN=20326
-AS202029                     configs=    2  ips=    2  ASN=202029
-AS199599                     configs=    2  ips=    2  ASN=199599
-AS44066                      configs=    2  ips=    2  ASN=44066
-AS135392                     configs=    2  ips=    2  ASN=135392
-AS984                        configs=    2  ips=    2  ASN=984
-AS214361                     configs=    2  ips=    2  ASN=214361
-AS264617                     configs=    2  ips=    2  ASN=264617
-AS218688                     configs=    2  ips=    2  ASN=218688
-AS208951                     configs=    2  ips=    2  ASN=208951
-AS213900                     configs=    2  ips=    2  ASN=213900
-AS34837                      configs=    2  ips=    2  ASN=34837
-AS211408                     configs=    2  ips=    2  ASN=211408
-AS208626                     configs=    2  ips=    2  ASN=208626
-AS200195                     configs=    2  ips=    2  ASN=200195
-AS48988                      configs=    2  ips=    1  ASN=48988
-AS134196                     configs=    2  ips=    2  ASN=134196
-AS44889                      configs=    2  ips=    2  ASN=44889
-AS212675                     configs=    2  ips=    2  ASN=212675
-AS39308                      configs=    2  ips=    2  ASN=39308
-AS202673                     configs=    2  ips=    2  ASN=202673
-AS56501                      configs=    2  ips=    2  ASN=56501
-AS399486                     configs=    2  ips=    2  ASN=399486
-AS133398                     configs=    2  ips=    1  ASN=133398
-AS61046                      configs=    2  ips=    2  ASN=61046
-AS12406                      configs=    2  ips=    2  ASN=12406
-AS209283                     configs=    2  ips=    2  ASN=209283
-AS39855                      configs=    2  ips=    2  ASN=39855
-AS136445                     configs=    2  ips=    2  ASN=136445
-AS213250                     configs=    2  ips=    2  ASN=213250
-AS201670                     configs=    2  ips=    2  ASN=201670
-AS25490                      configs=    2  ips=    2  ASN=25490
-AS140810                     configs=    2  ips=    1  ASN=140810
-AS932                        configs=    2  ips=    6  ASN=932
-AS35042                      configs=    2  ips=    2  ASN=35042
-AS203804                     configs=    2  ips=    2  ASN=203804
-AS15440                      configs=    2  ips=    6  ASN=15440
-AS201817                     configs=    2  ips=    2  ASN=201817
-AS206596                     configs=    2  ips=    2  ASN=206596
-AS35100                      configs=    2  ips=    2  ASN=35100
-AS34369                      configs=    2  ips=    2  ASN=34369
-AS17573                      configs=    2  ips=    2  ASN=17573
-AS197528                     configs=    2  ips=    2  ASN=197528
-AS205053                     configs=    2  ips=    1  ASN=205053
-AS152165                     configs=    2  ips=    1  ASN=152165
-AS50338                      configs=    2  ips=    2  ASN=50338
-AS201048                     configs=    2  ips=    2  ASN=201048
-AS198420                     configs=    2  ips=    2  ASN=198420
-AS54913                      configs=    2  ips=    2  ASN=54913
-AS9147                       configs=    2  ips=    2  ASN=9147
-AS197328                     configs=    2  ips=    2  ASN=197328
-AS139646                     configs=    2  ips=    2  ASN=139646
-AS62048                      configs=    2  ips=    2  ASN=62048
-AS47376                      configs=    2  ips=    2  ASN=47376
-AS135444                     configs=    2  ips=    2  ASN=135444
-AS19624                      configs=    2  ips=    2  ASN=19624
-AS62711                      configs=    1  ips=    1  ASN=62711
-AS401322                     configs=    1  ips=    1  ASN=401322
-AS402628                     configs=    1  ips=    1  ASN=402628
-AS31182                      configs=    1  ips=    1  ASN=31182
-AS13287                      configs=    1  ips=    1  ASN=13287
-AS2527                       configs=    1  ips=    1  ASN=2527
-AS20454                      configs=    1  ips=    1  ASN=20454
-AS6364                       configs=    1  ips=    1  ASN=6364
-AS205100                     configs=    1  ips=    1  ASN=205100
-AS39572                      configs=    1  ips=    1  ASN=39572
-AS47721                      configs=    1  ips=    1  ASN=47721
-AS211112                     configs=    1  ips=    1  ASN=211112
-AS139648                     configs=    1  ips=    1  ASN=139648
-AS46562                      configs=    1  ips=    1  ASN=46562
-AS54936                      configs=    1  ips=    1  ASN=54936
-AS9286                       configs=    1  ips=    1  ASN=9286
-AS8772                       configs=    1  ips=    1  ASN=8772
-AS51089                      configs=    1  ips=    1  ASN=51089
-AS216300                     configs=    1  ips=    1  ASN=216300
-AS23961                      configs=    1  ips=    1  ASN=23961
-AS36530                      configs=    1  ips=    1  ASN=36530
-AS2518                       configs=    1  ips=    1  ASN=2518
-AS203144                     configs=    1  ips=    1  ASN=203144
-AS30083                      configs=    1  ips=    1  ASN=30083
-AS328882                     configs=    1  ips=    1  ASN=328882
-AS142132                     configs=    1  ips=    1  ASN=142132
-AS8400                       configs=    1  ips=    1  ASN=8400
-AS151858                     configs=    1  ips=    1  ASN=151858
-AS44592                      configs=    1  ips=    1  ASN=44592
-AS199304                     configs=    1  ips=    1  ASN=199304
-AS31629                      configs=    1  ips=    1  ASN=31629
-AS44133                      configs=    1  ips=    1  ASN=44133
-AS203000                     configs=    1  ips=    1  ASN=203000
-AS32244                      configs=    1  ips=    1  ASN=32244
-AS142617                     configs=    1  ips=    1  ASN=142617
-AS17477                      configs=    1  ips=    1  ASN=17477
-AS211539                     configs=    1  ips=    1  ASN=211539
-AS9678                       configs=    1  ips=    1  ASN=9678
-AS212701                     configs=    1  ips=    1  ASN=212701
-AS140042                     configs=    1  ips=    1  ASN=140042
-AS213619                     configs=    1  ips=    1  ASN=213619
-AS34927                      configs=    1  ips=    1  ASN=34927
-AS48271                      configs=    1  ips=    1  ASN=48271
-AS201131                     configs=    1  ips=    1  ASN=201131
-AS32097                      configs=    1  ips=    1  ASN=32097
-AS152586                     configs=    1  ips=    1  ASN=152586
-AS133380                     configs=    1  ips=    1  ASN=133380
-AS133775                     configs=    1  ips=    1  ASN=133775
-AS136959                     configs=    1  ips=    1  ASN=136959
-AS135061                     configs=    1  ips=    1  ASN=135061
-AS39817                      configs=    1  ips=    1  ASN=39817
-AS215728                     configs=    1  ips=    1  ASN=215728
-AS57695                      configs=    1  ips=    1  ASN=57695
-AS202602                     configs=    1  ips=    1  ASN=202602
-AS4658                       configs=    1  ips=    1  ASN=4658
-AS151419                     configs=    1  ips=    1  ASN=151419
-AS136557                     configs=    1  ips=    1  ASN=136557
-AS205282                     configs=    1  ips=    1  ASN=205282
-AS19424                      configs=    1  ips=    1  ASN=19424
-AS203476                     configs=    1  ips=    1  ASN=203476
-AS13537                      configs=    1  ips=    1  ASN=13537
-AS402399                     configs=    1  ips=    1  ASN=402399
-AS11045                      configs=    1  ips=    1  ASN=11045
-AS9498                       configs=    1  ips=    1  ASN=9498
-AS50214                      configs=    1  ips=    1  ASN=50214
-AS206443                     configs=    1  ips=    1  ASN=206443
-AS131630                     configs=    1  ips=    1  ASN=131630
-AS203534                     configs=    1  ips=    1  ASN=203534
-AS43541                      configs=    1  ips=    1  ASN=43541
-AS55799                      configs=    1  ips=    1  ASN=55799
-AS62041                      configs=    1  ips=    1  ASN=62041
-AS203516                     configs=    1  ips=    1  ASN=203516
-AS54994                      configs=    1  ips=    1  ASN=54994
-AS59279                      configs=    1  ips=    1  ASN=59279
-AS25693                      configs=    1  ips=    1  ASN=25693
-AS210278                     configs=    1  ips=    1  ASN=210278
-AS132104                     configs=    1  ips=    1  ASN=132104
-AS206888                     configs=    1  ips=    1  ASN=206888
-AS137552                     configs=    1  ips=    1  ASN=137552
-AS214432                     configs=    1  ips=    1  ASN=214432
-AS29873                      configs=    1  ips=    1  ASN=29873
-AS57634                      configs=    1  ips=    1  ASN=57634
-AS43395                      configs=    1  ips=    1  ASN=43395
-AS198596                     configs=    1  ips=    1  ASN=198596
-AS812                        configs=    1  ips=    1  ASN=812
-AS18420                      configs=    1  ips=    1  ASN=18420
-AS36646                      configs=    1  ips=    2  ASN=36646
-AS36647                      configs=    1  ips=    2  ASN=36647
-AS26101                      configs=    1  ips=    2  ASN=26101
-AS49033                      configs=    1  ips=    1  ASN=49033
-AS47242                      configs=    1  ips=    1  ASN=47242
-AS149178                     configs=    1  ips=    1  ASN=149178
-AS16554                      configs=    1  ips=    1  ASN=16554
-AS997                        configs=    1  ips=    1  ASN=997
-AS42772                      configs=    1  ips=    1  ASN=42772
-AS213039                     configs=    1  ips=    1  ASN=213039
-AS48159                      configs=    1  ips=    1  ASN=48159
-AS5650                       configs=    1  ips=    1  ASN=5650
-AS38731                      configs=    1  ips=    1  ASN=38731
-AS196695                     configs=    1  ips=    1  ASN=196695
-AS212667                     configs=    1  ips=    1  ASN=212667
-AS138576                     configs=    1  ips=    1  ASN=138576
-AS210537                     configs=    1  ips=    1  ASN=210537
-AS131921                     configs=    1  ips=    1  ASN=131921
-AS138152                     configs=    1  ips=    1  ASN=138152
-AS140527                     configs=    1  ips=    1  ASN=140527
-AS400909                     configs=    1  ips=    1  ASN=400909
-AS55960                      configs=    1  ips=    1  ASN=55960
-AS131386                     configs=    1  ips=    1  ASN=131386
-AS207709                     configs=    1  ips=    1  ASN=207709
-AS267212                     configs=    1  ips=    1  ASN=267212
-AS24547                      configs=    1  ips=    1  ASN=24547
-AS39287                      configs=    1  ips=    1  ASN=39287
-AS200017                     configs=    1  ips=    1  ASN=200017
-AS402944                     configs=    1  ips=    1  ASN=402944
-AS22773                      configs=    1  ips=    1  ASN=22773
-AS216063                     configs=    1  ips=    1  ASN=216063
-AS32519                      configs=    1  ips=    1  ASN=32519
-AS32875                      configs=    1  ips=    1  ASN=32875
-AS7922                       configs=    1  ips=    1  ASN=7922
-AS45753                      configs=    1  ips=    1  ASN=45753
-AS10013                      configs=    1  ips=    1  ASN=10013
-AS60976                      configs=    1  ips=    1  ASN=60976
-AS45731                      configs=    1  ips=    1  ASN=45731
-AS45146                      configs=    1  ips=    1  ASN=45146
-AS140443                     configs=    1  ips=    1  ASN=140443
-AS35766                      configs=    1  ips=    1  ASN=35766
-AS31452                      configs=    1  ips=    1  ASN=31452
-AS55720                      configs=    1  ips=    1  ASN=55720
-AS25467                      configs=    1  ips=    1  ASN=25467
-AS208492                     configs=    1  ips=    1  ASN=208492
-AS33070                      configs=    1  ips=    1  ASN=33070
-AS327839                     configs=    1  ips=    1  ASN=327839
-AS9381                       configs=    1  ips=    1  ASN=9381
-AS146817                     configs=    1  ips=    1  ASN=146817
-AS51889                      configs=    1  ips=    1  ASN=51889
-AS57433                      configs=    1  ips=    1  ASN=57433
-AS140052                     configs=    1  ips=    1  ASN=140052
-AS141425                     configs=    1  ips=    1  ASN=141425
-AS10206                      configs=    1  ips=    1  ASN=10206
-AS58519                      configs=    1  ips=    1  ASN=58519
-AS57814                      configs=    1  ips=    1  ASN=57814
-AS215155                     configs=    1  ips=    1  ASN=215155
-AS214916                     configs=    1  ips=    1  ASN=214916
-AS45691                      configs=    1  ips=    1  ASN=45691
-AS400509                     configs=    1  ips=    1  ASN=400509
-AS135921                     configs=    1  ips=    1  ASN=135921
-AS40812                      configs=    1  ips=    1  ASN=40812
-AS11798                      configs=    1  ips=    1  ASN=11798
-AS3561                       configs=    1  ips=    1  ASN=3561
-AS931                        configs=    1  ips=    1  ASN=931
-AS213724                     configs=    1  ips=    1  ASN=213724
-AS213495                     configs=    1  ips=    1  ASN=213495
-AS213461                     configs=    1  ips=    1  ASN=213461
-AS58593                      configs=    1  ips=    1  ASN=58593
-AS401782                     configs=    1  ips=    1  ASN=401782
-AS394695                     configs=    1  ips=    1  ASN=394695
-AS33333                      configs=    1  ips=    1  ASN=33333
-AS205588                     configs=    1  ips=    1  ASN=205588
-AS204154                     configs=    1  ips=    1  ASN=204154
-AS18465                      configs=    1  ips=    1  ASN=18465
-AS200051                     configs=    1  ips=    1  ASN=200051
-AS60117                      configs=    1  ips=    1  ASN=60117
-AS53850                      configs=    1  ips=    1  ASN=53850
-AS154784                     configs=    1  ips=    1  ASN=154784
-AS210654                     configs=    1  ips=    1  ASN=210654
-AS62000                      configs=    1  ips=    1  ASN=62000
-AS212027                     configs=    1  ips=    1  ASN=212027
-AS151106                     configs=    1  ips=    1  ASN=151106
-AS51026                      configs=    1  ips=    3  ASN=51026
-AS42447                      configs=    1  ips=    1  ASN=42447
-AS209711                     configs=    1  ips=    1  ASN=209711
-AS212810                     configs=    1  ips=    1  ASN=212810
-AS216093                     configs=    1  ips=    1  ASN=216093
-AS51559                      configs=    1  ips=    1  ASN=51559
-AS209699                     configs=    1  ips=    1  ASN=209699
-AS62390                      configs=    1  ips=    1  ASN=62390
-AS215068                     configs=    1  ips=    1  ASN=215068
-AS219141                     configs=    1  ips=   22  ASN=219141
-AS202147                     configs=    1  ips=    1  ASN=202147
-AS153259                     configs=    1  ips=    1  ASN=153259
-AS198160                     configs=    1  ips=    1  ASN=198160
-AS400596                     configs=    1  ips=    1  ASN=400596
-AS210538                     configs=    1  ips=    1  ASN=210538
-AS202207                     configs=    1  ips=    1  ASN=202207
-AS48029                      configs=    1  ips=    1  ASN=48029
-AS49126                      configs=    1  ips=    1  ASN=49126
-AS48693                      configs=    1  ips=    1  ASN=48693
-AS200105                     configs=    1  ips=    1  ASN=200105
-AS212194                     configs=    1  ips=    1  ASN=212194
-AS211428                     configs=    1  ips=    1  ASN=211428
-AS402722                     configs=    1  ips=    1  ASN=402722
-AS142433                     configs=    1  ips=    1  ASN=142433
-AS46450                      configs=    1  ips=    1  ASN=46450
-AS29079                      configs=    1  ips=    1  ASN=29079
-AS39421                      configs=    1  ips=    1  ASN=39421
-AS37468                      configs=    1  ips=    1  ASN=37468
-AS329272                     configs=    1  ips=    1  ASN=329272
-AS203662                     configs=    1  ips=    1  ASN=203662
-AS152992                     configs=    1  ips=    1  ASN=152992
-AS7018                       configs=    1  ips=    1  ASN=7018
-AS46783                      configs=    1  ips=    1  ASN=46783
-AS197343                     configs=    1  ips=    1  ASN=197343
-AS35805                      configs=    1  ips=    1  ASN=35805
-AS203647                     configs=    1  ips=    1  ASN=203647
-AS202958                     configs=    1  ips=    1  ASN=202958
-AS39622                      configs=    1  ips=    1  ASN=39622
-AS210392                     configs=    1  ips=    1  ASN=210392
-AS15012                      configs=    1  ips=    1  ASN=15012
-AS216395                     configs=    1  ips=    1  ASN=216395
-AS63734                      configs=    1  ips=    1  ASN=63734
-AS149148                     configs=    1  ips=    1  ASN=149148
-AS208795                     configs=    1  ips=    1  ASN=208795
-AS218702                     configs=    1  ips=    1  ASN=218702
-AS201579                     configs=    1  ips=    1  ASN=201579
-AS202244                     configs=    1  ips=    3  ASN=202244
-AS60374                      configs=    1  ips=    1  ASN=60374
-AS60148                      configs=    1  ips=    1  ASN=60148
-AS205134                     configs=    1  ips=    1  ASN=205134
-AS32346                      configs=    1  ips=    1  ASN=32346
-AS25446                      configs=    1  ips=    1  ASN=25446
-AS215670                     configs=    1  ips=    1  ASN=215670
-AS212189                     configs=    1  ips=    1  ASN=212189
-AS152899                     configs=    1  ips=    1  ASN=152899
-AS43376                      configs=    1  ips=    1  ASN=43376
-AS44780                      configs=    1  ips=    1  ASN=44780
-AS207252                     configs=    1  ips=    1  ASN=207252
-AS973                        configs=    1  ips=    1  ASN=973
-AS215428                     configs=    1  ips=    1  ASN=215428
-AS1267                       configs=    1  ips=    1  ASN=1267
-AS18313                      configs=    1  ips=    1  ASN=18313
-AS201687                     configs=    1  ips=    1  ASN=201687
-AS199415                     configs=    1  ips=    1  ASN=199415
-AS200912                     configs=    1  ips=    1  ASN=200912
-AS47172                      configs=    1  ips=    1  ASN=47172
-AS135356                     configs=    1  ips=    1  ASN=135356
-AS209260                     configs=    1  ips=    1  ASN=209260
-AS64445                      configs=    1  ips=    1  ASN=64445
-AS211593                     configs=    1  ips=    1  ASN=211593
-AS21341                      configs=    1  ips=    1  ASN=21341
-AS215272                     configs=    1  ips=    1  ASN=215272
-AS263812                     configs=    1  ips=    1  ASN=263812
-AS270118                     configs=    1  ips=    1  ASN=270118
-AS200187                     configs=    1  ips=    1  ASN=200187
-AS207922                     configs=    1  ips=    1  ASN=207922
-AS203826                     configs=    1  ips=    1  ASN=203826
-AS59627                      configs=    1  ips=    1  ASN=59627
-AS44090                      configs=    1  ips=    1  ASN=44090
-AS134543                     configs=    1  ips=    1  ASN=134543
-AS201279                     configs=    1  ips=    1  ASN=201279
-AS8534                       configs=    1  ips=    1  ASN=8534
-AS50360                      configs=    1  ips=    1  ASN=50360
-AS139021                     configs=    1  ips=    1  ASN=139021
-AS7690                       configs=    1  ips=    1  ASN=7690
-AS31103                      configs=    1  ips=    1  ASN=31103
-AS27956                      configs=    1  ips=    1  ASN=27956
-AS8315                       configs=    1  ips=    1  ASN=8315
-AS200897                     configs=    1  ips=    1  ASN=200897
-AS44828                      configs=    1  ips=    1  ASN=44828
-AS12993                      configs=    1  ips=    1  ASN=12993
-AS59615                      configs=    1  ips=    1  ASN=59615
-AS28118                      configs=    1  ips=    1  ASN=28118
-AS8280                       configs=    1  ips=    1  ASN=8280
-AS209809                     configs=    1  ips=    1  ASN=209809
-AS6878                       configs=    1  ips=    1  ASN=6878
-AS209783                     configs=    1  ips=    1  ASN=209783
-AS8648                       configs=    1  ips=    1  ASN=8648
-AS216131                     configs=    1  ips=    1  ASN=216131
-AS64458                      configs=    1  ips=    1  ASN=64458
-AS38109                      configs=    1  ips=    1  ASN=38109
-AS147002                     configs=    1  ips=    1  ASN=147002
-AS151964                     configs=    1  ips=    1  ASN=151964
-AS50810                      configs=    1  ips=    1  ASN=50810
-AS25160                      configs=    1  ips=    1  ASN=25160
-AS12849                      configs=    1  ips=    1  ASN=12849
-AS137872                     configs=    1  ips=    1  ASN=137872
-AS55470                      configs=    1  ips=    1  ASN=55470
-AS204834                     configs=    1  ips=    1  ASN=204834
-AS209829                     configs=    1  ips=    1  ASN=209829
-AS48881                      configs=    1  ips=    1  ASN=48881
-AS218539                     configs=    1  ips=    1  ASN=218539
-AS6730                       configs=    1  ips=    1  ASN=6730
-AS5483                       configs=    1  ips=    1  ASN=5483
-AS215261                     configs=    1  ips=    1  ASN=215261
-AS29691                      configs=    1  ips=    1  ASN=29691
-AS213881                     configs=    1  ips=    1  ASN=213881
-AS29049                      configs=    1  ips=    1  ASN=29049
-AS219017                     configs=    1  ips=    1  ASN=219017
-AS134286                     configs=    1  ips=    1  ASN=134286
-AS27651                      configs=    1  ips=    1  ASN=27651
-AS263702                     configs=    1  ips=    1  ASN=263702
-AS20485                      configs=    1  ips=    1  ASN=20485
-AS12488                      configs=    1  ips=    1  ASN=12488
-AS60439                      configs=    1  ips=    1  ASN=60439
-AS203684                     configs=    1  ips=    1  ASN=203684
-AS141120                     configs=    1  ips=    1  ASN=141120
-AS58487                      configs=    1  ips=    1  ASN=58487
-AS23679                      configs=    1  ips=    1  ASN=23679
-AS29405                      configs=    1  ips=    1  ASN=29405
-AS218484                     configs=    1  ips=    1  ASN=218484
-AS6205                       configs=    1  ips=    1  ASN=6205
-AS24429                      configs=    1  ips=    1  ASN=24429
-AS131274                     configs=    1  ips=    1  ASN=131274
-AS43180                      configs=    1  ips=    1  ASN=43180
-AS198180                     configs=    1  ips=    1  ASN=198180
-AS146943                     configs=    1  ips=    1  ASN=146943
-AS136209                     configs=    1  ips=    1  ASN=136209
-AS397966                     configs=    1  ips=    1  ASN=397966
-AS51898                      configs=    1  ips=    1  ASN=51898
-AS204865                     configs=    1  ips=    1  ASN=204865
-AS211703                     configs=    1  ips=    1  ASN=211703
-AS206854                     configs=    1  ips=    1  ASN=206854
-AS8595                       configs=    1  ips=    1  ASN=8595
-AS23881                      configs=    1  ips=    1  ASN=23881
-AS44400                      configs=    1  ips=    1  ASN=44400
-AS42910                      configs=    1  ips=    1  ASN=42910
-AS48763                      configs=    1  ips=    1  ASN=48763
-AS203948                     configs=    1  ips=    1  ASN=203948
-AS270564                     configs=    1  ips=    1  ASN=270564
-AS39582                      configs=    1  ips=    1  ASN=39582
-AS1299                       configs=    1  ips=    1  ASN=1299
-AS749                        configs=    1  ips=    1  ASN=749
-AS3356                       configs=    1  ips=    1  ASN=3356
-AS50673                      configs=    1  ips=    1  ASN=50673
-AS215103                     configs=    1  ips=    1  ASN=215103
-AS212165                     configs=    1  ips=    1  ASN=212165
-AS9316                       configs=    1  ips=    1  ASN=9316
-AS17864                      configs=    1  ips=    1  ASN=17864
-AS49870                      configs=    1  ips=    1  ASN=49870
-AS50098                      configs=    1  ips=    1  ASN=50098
-AS272886                     configs=    1  ips=    1  ASN=272886
-AS198926                     configs=    1  ips=    1  ASN=198926
-AS198138                     configs=    1  ips=    1  ASN=198138
-AS209737                     configs=    1  ips=    1  ASN=209737
-AS343                        configs=    1  ips=    1  ASN=343
-AS44947                      configs=    1  ips=    1  ASN=44947
-AS60042                      configs=    1  ips=    1  ASN=60042
-AS137897                     configs=    1  ips=    1  ASN=137897
-AS9946                       configs=    1  ips=    1  ASN=9946
-AS17506                      configs=    1  ips=    1  ASN=17506
-AS42954                      configs=    1  ips=    2  ASN=42954
-AS37004                      configs=    1  ips=    1  ASN=37004
-AS12975                      configs=    1  ips=    1  ASN=12975
+Fastly                       configs= 5881  ips= 1117  ASN=54113
+Microsoft Azure              configs=  323  ips=  157  ASN=8075
+Akamai (Linode)              configs=  600  ips=  295  ASN=63949
+Hetzner                      configs= 3732  ips= 1795  ASN=24940,213230,212317,215859
+OVH                          configs= 3574  ips=  968  ASN=16276
+DigitalOcean                 configs= 1386  ips=  903  ASN=14061,393406
+Oracle Cloud                 configs= 1831  ips=  990  ASN=31898
+Vultr                        configs= 1020  ips=  600  ASN=20473
+Scaleway                     configs=  793  ips=  124  ASN=12876
+Alibaba Cloud                configs= 1813  ips=  604  ASN=45102,37963,134963
+Tencent Cloud                configs=  336  ips=  156  ASN=132203,45090
+Contabo                      configs=  348  ips=  101  ASN=141995,51167,40021
+AS3215 - Orange S.A.         configs= 4396  ips= 1763  ASN=3215
+Unknown                      configs= 3872  ips= 2161  ASN=-
+RAILWAY - Railway            configs= 2844  ips=  346  ASN=400940
+AS-GLOBALTELEHOST - GTHost   configs= 2558  ips=  242  ASN=63023
+Datacamp                     configs= 2078  ips=   75  ASN=212238
+Gcore                        configs=  770  ips=  399  ASN=199524,205196,59245
+TimeWeb-AS - JSC _TIMEWEB_   configs=  700  ips=  354  ASN=9123
+GCS-AS - GLOBAL CONNECTIVITY SOLUTIONS LLP configs=  682  ips=  365  ASN=215540
+AS-GLOBALTELEHOST - GLOBALTELEHOST Corp. configs=  529  ips=   37  ASN=62563
+ONEPROVIDER-AS - BrainStorm Network configs=  522  ips=   83  ASN=136258
+NOVOSERVE-AS - NovoServe B.V. configs=  507  ips=   40  ASN=24875
+Aeza                         configs=  497  ips=  292  ASN=210644,197695
+ARVANCLOUD-CDN-IR - Noyan Abr Arvan Co. ( Private Joint Stock) configs=  494  ips=   55  ASN=205585
+CCT-AS - OOO _Sovremennye setevye tekhnologii_ configs=  490  ips=   41  ASN=34879
+ServHost-AS - SERV.HOST GROUP LTD configs=  475  ips=  232  ASN=207957
+AS-COLOCROSSING - HostPapa   configs=  443  ips=  128  ASN=36352
+AS56971 - CGI GLOBAL LIMITED configs=  407  ips=  197  ASN=56971
+TRELLIAN-AS-AP - Trellian Pty. Limited configs=  405  ips=   29  ASN=133618
+AS-3HCLOUD - Newserverlife LLC configs=  403  ips=   75  ASN=49791
+DDOS-GUARD - DDOS-GUARD LTD  configs=  398  ips=   20  ASN=57724
+Datacamp (CDN77)             configs=  395  ips=  121  ASN=60068
+HOSTKEY-AS - HOSTKEY B.V.    configs=  380  ips=  154  ASN=57043
+HMS-ASN - HEALTH MARKET SCIENCE configs=  377  ips=  198  ASN=14197
+PLAY2GO-NET - PLAY2GO INTERNATIONAL LIMITED configs=  375  ips=  177  ASN=215439
+NetCraftersOU - NetCrafters OU configs=  369  ips=  193  ASN=203273
+PLAY2GO - PLAY2GO - FZCO     configs=  362  ips=   92  ASN=219337
+VK-AS - LLC VK               configs=  362  ips=  250  ASN=47764
+NETLEN - Netlen Internet Hizmetleri Ltd. Sti. configs=  362  ips=   84  ASN=44620
+Hivelocity                   configs=  360  ips=  151  ASN=30058
+LEASEWEB-DE-FRA-10 - Leaseweb Deutschland GmbH configs=  359  ips=   47  ASN=28753
+HINET - Data Communication Business Group configs=  342  ips=  107  ASN=3462
+FORTIS-AS - Ilia Baikov      configs=  341  ips=  152  ASN=41745
+AlexHost - ALEXHOST S.R.L.   configs=  341  ips=   49  ASN=200019
+PEG-SV - PEG TECH INC        configs=  339  ips=  263  ASN=54600
+YOTTASRC - YottaSrc          configs=  331  ips=  145  ASN=213535
+OKOLABS-AS - Oko.Labs LLC    configs=  315  ips=   37  ASN=218656
+OBJX - objx.net              configs=  304  ips=    7  ASN=33333
+VDSINA - SERVERS TECH FZCO   configs=  298  ips=  173  ASN=216071
+UNREDACTED-NOISENET - Unredacted Inc configs=  289  ips=    2  ASN=401401
+KIXS-AS-KR-KR - Korea Telecom configs=  285  ips=  237  ASN=4766
+H2NEXUS-AS - H2NEXUS CLOUD SERVICES - FZCO configs=  281  ips=  171  ASN=215730
+DATAFOREST - dataforest GmbH configs=  270  ips=   84  ASN=58212
+Inception - Inception Hosting Limited configs=  270  ips=   26  ASN=205502
+AbrArvan-AS - Noyan Abr Arvan Co. ( Private Joint Stock) configs=  261  ips=  174  ASN=202468
+YandexCloud - Yandex.Cloud LLC configs=  248  ips=  206  ASN=200350
+H1CLOUD - H1CLOUD LTD        configs=  247  ips=   60  ASN=218736
+RASANA - Aria Shatel PJSC    configs=  239  ips=   48  ASN=31549
+NETLAB-SDN - NetLab Global   configs=  233  ips=   57  ASN=979
+PARKLOGICPTYLTD-AS-AP - ParkLogic Pty Ltd configs=  220  ips=    5  ASN=154653
+LEASEWEB-NL-AMS-01 - LeaseWeb Netherlands B.V. configs=  219  ips=   56  ASN=60781
+CHERRYSERVERS5-AS - UAB _Cherry Servers_ configs=  217  ips=   29  ASN=214159
+CHINAMOBILE-CN - China Mobile Communications Group Co. configs=  214  ips=   71  ASN=9808
+SELECTEL - JSC Selectel      configs=  211  ips=  163  ASN=49505
+Netcup                       configs=  210  ips=  115  ASN=197540
+LIGHT4-AS-AP - LIGHT NODE LIMITED configs=  209  ips=  109  ASN=154177
+RENDER - Render              configs=  206  ips=   55  ASN=397273
+DMIT - DMIT Cloud Services   configs=  203  ips=  123  ASN=906
+CHERRYSERVERS2-AS - UAB _Cherry Servers_ configs=  201  ips=   55  ASN=59642
+CDNetworks - GLOBAL CLOUD NETWORK LLC configs=  198  ips=   70  ASN=204720
+AS274327 - TELECOMUNICACIONES M Y F LIMITADA configs=  198  ips=  198  ASN=274327
+WEYRO - WEYRO LTD            configs=  197  ips=  104  ASN=214716
+Onlyservers - Packet Star Networks Limited configs=  197  ips=   62  ASN=204044
+GHOST - G-Core Labs S.A.     configs=  192  ips=   46  ASN=202422
+OC-NETWORK - OC NETWORKS LIMITED configs=  191  ips=  132  ASN=209693
+MAXKO - MAXKO d.o.o.         configs=  191  ips=   12  ASN=211619
+EXPRESSHOST - ExpressHost Ltd configs=  191  ips=   47  ASN=197574
+ZetServers - INTERKVM HOST SRL configs=  190  ips=   91  ASN=25198
+ZILLION-NETWORK - Zillion Network Inc. configs=  185  ips=    1  ASN=54801
+M247                         configs=  179  ips=  113  ASN=9009
+parsabr - Pars Abr Toseeh Ertebatat LTD configs=  177  ips=   80  ASN=198154
+IT7NET - IT7 Networks Inc    configs=  174  ips=   80  ASN=25820
+webdade - Web Dadeh Paydar Co (Ltd) configs=  173  ips=   34  ASN=49556
+csoft - Cloud Software - FZCO configs=  166  ips=   71  ASN=211273
+CLOUDRU-AS - _Cloud Technologies_ LLC trading as Cloud.ru configs=  166  ips=  107  ASN=208677
+payload-network - Evgenii Konstantinov configs=  165  ips=   27  ASN=219284
+SAKURA-B - SAKURA Internet Inc. configs=  163  ips=   68  ASN=9370
+TWC-EU - Timeweb             configs=  162  ips=   91  ASN=210976
+WEEBLY - Weebly              configs=  162  ips=   59  ASN=27647
+RU-JSCIOT - JSC IOT          configs=  161  ips=   51  ASN=29182
+CHERRYSERVERS1-AS - UAB _Cherry Servers_ configs=  158  ips=  100  ASN=16125
+OUIHEBERG - Ouiheberg SARL   configs=  158  ips=    6  ASN=208226
+GSC - Giti Secure Cloud LLC  configs=  157  ips=   51  ASN=204104
+Akenai-Products-AS - Akenai Products LTD configs=  157  ips=   85  ASN=219064
+ETHALABS-AS-01 - XICOMM LLC  configs=  151  ips=   11  ASN=400341
+Infomaniak-AS - Infomaniak Network SA configs=  150  ips=   86  ASN=29222
+ASNET - Baxet Group Inc.     configs=  148  ips=  101  ASN=26383
+Xtom                         configs=  148  ips=   54  ASN=3214
+PLI-AS - Private Layer INC   configs=  148  ips=   15  ASN=51852
+WAICORE-LTD - WAIcore Ltd    configs=  147  ips=   76  ASN=213887
+BIGCOMMERCE - Bigcommerce Inc. configs=  147  ips=  101  ASN=399566
+SENKO-AS - Senko Digital LLC configs=  147  ips=   67  ASN=213520
+GREENFLOID-AS - ROUTE 95 LLC configs=  144  ips=   40  ASN=204957
+TR_Arvancloud - ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C configs=  142  ips=   51  ASN=57568
+AKARI-NETWORKS-AS-AP - Akari Networks configs=  138  ips=   37  ASN=38136
+SELECTEL-MSK - JSC Selectel  configs=  137  ips=   44  ASN=50340
+ASTRAVPS-AS - Paul Sagov     configs=  134  ips=   65  ASN=219095
+MELBICOM-EU-AS - Melbikomas UAB configs=  133  ips=   46  ASN=56630,8849
+RESPINA-AS - Respina Networks & Beyond PJSC configs=  133  ips=   77  ASN=42337
+PacketExchange - Orion Network Limited configs=  133  ips=   60  ASN=58065
+Sepehr-Sabz-DC-TEH - Atrin Information & Communications Technology Company PJS configs=  131  ips=   37  ASN=204203
+Andris-Jakovlevs - Andris Jakovlevs configs=  131  ips=   99  ASN=218731
+sourena - Sourena Pardazesh Arya Software co. LLC configs=  129  ips=    1  ASN=207796
+DREAMENGINEERING-AS-AP - Dream Engineering configs=  126  ips=  115  ASN=152726
+VEESP-LV-AS - SIA VEESP      configs=  125  ips=   80  ASN=42532
+FairyHosting - RJ Network OU configs=  125  ips=   23  ASN=202759
+CT-HuNan-Changsha-IDC - No.293 configs=  123  ips=    1  ASN=63835
+Varesh-ASN - Varesh Cloud Hosting Limited Liability Company configs=  122  ips=    9  ASN=213727
+XORA-AS - DpkgSoft International Limited configs=  120  ips=   71  ASN=215590
+HKTIMS-AP - HKT Limited      configs=  119  ips=   77  ASN=4760
+ROBOCASHKZ-AS - Mikrofinansovaya organizaciya Robocash.kz LLP configs=  118  ips=   63  ASN=50756
+nodehost-as - NODE HOST LIMITED configs=  117  ips=   52  ASN=198550
+Mtserver - Mtserver          configs=  116  ips=   22  ASN=216169
+PROCLOUD - KVIKTEL LLC       configs=  116  ips=   24  ASN=34959
+ASC-AS - AS Consulting Sp. z o. o. configs=  115  ips=    6  ASN=60645
+GO-DADDY-COM-LLC - GoDaddy.com configs=  115  ips=   99  ASN=398787
+NEAROUTE-AS-AP - Nearoute Limited. configs=  115  ips=    5  ASN=147293
+DEDIK-IO - DEDIK SERVICES LIMITED configs=  114  ips=   55  ASN=207043
+RU-AEZA-AS - Aeza Group LLC  configs=  114  ips=   85  ASN=216246
+XNNET - XNNET LLC            configs=  113  ips=   46  ASN=932,6134
+TERAEXCH - Tcloudnet         configs=  113  ips=   71  ASN=399077
+XTOM-JAPAN - xTom Japan Corporation configs=  112  ips=   60  ASN=3258
+VPSPay-ASN - VPSPay Networks LTD configs=  112  ips=   32  ASN=201988
+UPCLOUD - UpCloud Ltd        configs=  112  ips=   52  ASN=202053
+Fastidc - Zhengzhou Fastidc Technology Co. configs=  112  ips=    1  ASN=56005
+CCT-M9P1 - OOO _Sovremennye setevye tekhnologii_ configs=  110  ips=    2  ASN=204878
+SHARKTECH - Sharktech        configs=  110  ips=   46  ASN=46844
+Private IP                   configs=  110  ips=   19  ASN=-
+AS-26496-GO-DADDY-COM-LLC - GoDaddy.com configs=  108  ips=   86  ASN=26496
+AMARUTU-TECHNOLOGY - Amarutu Technology Ltd configs=  108  ips=    3  ASN=206264
+DreamHost                    configs=  105  ips=   34  ASN=59711
+ACE-AS-AP - ACE              configs=  104  ips=   33  ASN=139341
+SCLOUDPTELTD-AS - Scloud Pte Ltd configs=  103  ips=   18  ASN=142002
+BV-EU-AS - BlueVPS OU        configs=  103  ips=   52  ASN=62005
+ROUTERHOSTING - RouterHosting LLC configs=  101  ips=   46  ASN=14956
+CFHIL-AS-AP - Code For Host Inc Ltd configs=  100  ips=   92  ASN=134494
+CHERRYSERVERS6-AS - UAB _Cherry Servers_ configs=   99  ips=   27  ASN=213896
+AT-CLOUD - Asre Dadeha Asiatech configs=   98  ips=   76  ASN=60077
+AkileCloud - AKILE LTD       configs=   98  ips=   57  ASN=61112
+ROUTE95 - GREEN FLOID LLC    configs=   96  ips=   27  ASN=8254
+Threatoff - Tom Gewiese      configs=   95  ips=   15  ASN=215365
+TURTLEGUARD-CLOUD-AS - Vladislav Doniy configs=   92  ips=   20  ASN=219506
+AliMonfared - Ali Monfared   configs=   92  ips=   12  ASN=210705
+CMNET-V4shanghai-AS-AP - Shanghai Mobile Communications Co. configs=   92  ips=    2  ASN=24400
+PARVASYSTEM - Vandad Vira Hooman LLC configs=   89  ips=   58  ASN=60631
+Q2HOLDINGS - Q2 Software     configs=   88  ips=   54  ASN=62659
+Catixs - Catixs Ltd          configs=   87  ips=    4  ASN=48266
+SAKURA-AS - SAKURA LINK LIMITED configs=   87  ips=   18  ASN=49304
+ANTHROPIC - Anthropic        configs=   86  ips=   61  ASN=399358
+REGXA-CLOUD - Regxa Company for Information Technology Ltd configs=   86  ips=   30  ASN=215311
+SEDO-AS - SEDO GmbH          configs=   86  ips=    7  ASN=47846
+IRTRANSIT1 - Parvaresh Dadeha Co. Private Joint Stock configs=   85  ips=   13  ASN=59703
+LCS-AS-AP - LARUS Limited    configs=   82  ips=   70  ASN=17561
+IONOS-AS - IONOS SE          configs=   81  ips=   30  ASN=8560
+NEEDTG-AS - Need             configs=   81  ips=    9  ASN=198077
+ASGHOSTNET - GHOSTnet GmbH   configs=   80  ips=   28  ASN=12586
+CHINANET-BACKBONE - No.31    configs=   80  ips=   10  ASN=4134
+ZAYMER2-AS - Microcredit Company Zaymer PJSC configs=   79  ips=   51  ASN=201839
+SCALAXY-AS - Scalaxy B.V.    configs=   79  ips=   28  ASN=58061
+MULTA-ASN1 - MULTACOM CORPORATION configs=   77  ips=   51  ASN=35916
+U1DS-AS - U1 DIGITAL SERVICES LTD configs=   77  ips=   49  ASN=213877
+haderan - Parsun Network Solutions PTY LTD configs=   76  ips=   22  ASN=58232
+Mevspace - MEVSPACE sp. z o.o. configs=   76  ips=   16  ASN=201814
+YCCDN - Yandex.Cloud LLC     configs=   75  ips=    7  ASN=215013
+COGENT-174 - Cogent Communications configs=   75  ips=   53  ASN=174
+PODAON - Podaon SIA          configs=   75  ips=   22  ASN=211381
+SNOWD - Snowd Security OU    configs=   74  ips=   44  ASN=213459
+DATA-DELTA-AS - Delta Ltd    configs=   74  ips=   42  ASN=213220
+AS-PIXOOF - PIXOOF TEKNOLOJI ANONIM SIRKETI configs=   73  ips=   41  ASN=51722
+GTT-BACKBONE - GTT Communications Inc. configs=   73  ips=   44  ASN=3257
+Hostiran-Network - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) configs=   72  ips=   37  ASN=59441
+DigiTurunc - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi configs=   72  ips=   15  ASN=48011
+Shayan_Farahmand - Morteza Imani Bidgoli configs=   72  ips=    1  ASN=201309
+NETRACK-AS - Start2 LLC      configs=   72  ips=    7  ASN=61400
+nalmi-as - NALMI LIMITED     configs=   71  ips=   58  ASN=213846
+AS-HOSTINGER - Hostinger International Limited configs=   71  ips=   41  ASN=47583
+finland_cloud - Cloud Software - FZCO configs=   71  ips=   20  ASN=218764
+AS273584 - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE configs=   70  ips=   52  ASN=273584
+PFCLOUD - Pfcloud UG (haftungsbeschrankt) configs=   69  ips=   18  ASN=51396
+BitCommand - BitCommand LLC  configs=   64  ips=   30  ASN=212552,202269
+TehranServer - Fanavaran Mehr Vatan Tehran Server Group LLC configs=   64  ips=   21  ASN=213807
+CHINA169-Backbone - CHINA UNICOM China169 Backbone configs=   63  ips=   35  ASN=4837
+VIP-Host - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) configs=   63  ips=   16  ASN=216054
+IranCell-AS - IranCell-AS    configs=   62  ips=   48  ASN=44244
+WorldStream - WorldStream B.V. configs=   62  ips=   14  ASN=49981
+ASVASHINTPART - LLC _Vash internet partner_ configs=   62  ips=    4  ASN=209881
+LATITUDE-SH - Latitude.sh    configs=   61  ips=    9  ASN=396356
+HOSTES-AS - HOSTES LTD       configs=   61  ips=   69  ASN=213915
+WEDEPLOY-SAS - WEDEPLOY SAS  configs=   61  ips=   28  ASN=210699
+FanAvaran_Mihan_Mizban - FanAvaran_Mihan_Mizban configs=   60  ips=   38  ASN=214922
+ETERNITY-AS - Eternity International Limited configs=   59  ips=   53  ASN=212743
+GRANSY - Gransy s.r.o.       configs=   59  ips=   18  ASN=60592
+CMNET-GuangDong-AP - China Mobile communications corporation configs=   59  ips=   23  ASN=56040
+AMWEB-AM - AMWEB LLC         configs=   57  ips=   53  ASN=199673
+GeodemaGroup - Geodema Group LLC configs=   57  ips=    7  ASN=219268
+VNL25-AS - Vsem Network LLC  configs=   57  ips=   54  ASN=218687
+PORSCHE-AS - Porsche Informatik Gesellschaft m.b.H configs=   56  ips=   33  ASN=29085
+DigitalEra-AS - DigitalEra Tech OU configs=   56  ips=   11  ASN=197354
+MTMBALI-AS-ID - PT MITRA TELEMEDIA MANUNGGAL configs=   56  ips=   54  ASN=136841
+CNSERVERS - CNSERVERS LLC    configs=   55  ips=   48  ASN=40065
+SGP22-AS - Shabalov Grigoriy Pavlovich configs=   55  ips=   21  ASN=218568
+IRINN-NETRANEX-AS-IN - NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED configs=   55  ips=   14  ASN=153914
+GLOBALLAYER - Global Layer B.V. configs=   55  ips=   14  ASN=49453
+IDPerformance-idhosting - Imad Nabil Daher configs=   54  ips=   12  ASN=213693
+PEP-AS - Peyman Ertebatat Pouya Company (Ltd) configs=   53  ips=   25  ASN=213732
+MACARNE - Macarne.com        configs=   53  ips=    4  ASN=64289
+HOSTHATCH - HostHatch        configs=   52  ips=   13  ASN=63473
+WEBDOCK-AS - Webdock.io ApS  configs=   52  ips=   26  ASN=44803
+ITLDC-EU - ROUTE 95 LLC      configs=   52  ips=   25  ASN=21100
+CHERRYSERVERS3-AS - UAB _Cherry Servers_ configs=   52  ips=   13  ASN=204770
+EVOXTSDNBHD-AS-AP - Evoxt Sdn. Bhd. configs=   52  ips=   39  ASN=149440
+NOTION-WEB - Notion Labs     configs=   51  ips=   19  ASN=33191
+Clouvider                    configs=   51  ips=   38  ASN=62240
+BJTPARTNERS-AS - BJT Partners SAS configs=   50  ips=   37  ASN=201188
+TENP - Tejarat Electronic Nojhan Pardazesh LLC configs=   49  ips=    6  ASN=205536
+DyarWeb - DyarWeb            configs=   49  ips=    9  ASN=215496
+DATAPASA-AS - DataPasa Limited configs=   49  ips=    1  ASN=199566
+LandVPS-AS - New Hosting Technologies LLC configs=   48  ips=   40  ASN=216334
+OxinTech - Peimayesh Ertebat Oxin Co.(PJSC) configs=   48  ips=    4  ASN=215671
+iwihost - HOST TELECOM LTD   configs=   48  ips=    9  ASN=214238
+ANTIDDOS-NETWORKS-AS - AntiDDoS Networks LTD configs=   48  ips=   18  ASN=218239
+Nutraver-AS - NUTRAVER LLC   configs=   48  ips=    1  ASN=218439
+MOLDTELECOM-AS - Moldtelecom SA configs=   48  ips=    5  ASN=8926
+EUROBYTE - EuroByte LLC      configs=   48  ips=   34  ASN=210079
+AS-QualityNetwork - Alex Largman configs=   48  ips=   20  ASN=59651
+A1TELEKOM-AT - A1 Telekom Austria AG configs=   47  ips=   27  ASN=8447
+UFO-AS - UFO Hosting LLC     configs=   47  ips=   31  ASN=33993
+FIBERSTATE - FiberState      configs=   47  ips=    8  ASN=26042
+AbrBaranIDC - Abr Baran Information Technologists LLC configs=   47  ips=   17  ASN=215633
+DHOST-AS - Digital Hosting Provider LLC configs=   47  ips=   22  ASN=209207
+ULTAHOST-AS - Ultahost       configs=   46  ips=   30  ASN=214036
+ASIATECH - Asiatech Data Transmission company configs=   45  ips=   33  ASN=43754
+FORNEX-AS - Fornex Hosting S.L. configs=   45  ips=   21  ASN=44051
+NHCO - Toesegaran Shabakeh Arseh Novin Ltd configs=   45  ips=    5  ASN=209836
+PISHGAMAN-DATACENTER - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) configs=   45  ips=   34  ASN=34918
+NETGRID-HOST-LT - NETGRID HOST LTD configs=   44  ips=   28  ASN=202051
+ZHOUYISAT-COMMUNICATIONS - ZhouyiSat Communications configs=   44  ips=   24  ASN=400992
+FIRST-SERVER-EU-AS - FIRST SERVER LIMITED configs=   43  ips=   29  ASN=200740
+KAMATERA - Kamatera          configs=   43  ips=   34  ASN=36007
+Ayande-Cloud - Ayande-Cloud  configs=   43  ips=   13  ASN=215350
+CARRIERDOMAIN-NYC - R&R Managed Telecom Services configs=   43  ips=    3  ASN=19970
+ZEN-ECN - Zenlayer Inc       configs=   42  ips=   20  ASN=21859
+Old Mutual Life Assurance Company (South Africa) Limited - Old Mutual Life Assurance Company (South Africa) Limited configs=   42  ips=   39  ASN=328486
+VDSKA-AS - Anton Levin       configs=   41  ips=   24  ASN=50053
+NAMECHEAP-NET - Namecheap    configs=   41  ips=    4  ASN=22612
+NUXT-AS - INTERNATIONAL HOSTING COMPANY LIMITED configs=   41  ips=   21  ASN=216127
+HSTX - HOSTOX GROUP S.R.L.   configs=   41  ips=   10  ASN=218721
+SERVAONE - SERVA ONE LTD     configs=   41  ips=   15  ASN=199058
+CREANOVA-AS - Oy Crea Nova Hosting Solution Ltd configs=   41  ips=   19  ASN=51765
+ORG-IKEA2-RIPE-AS - Kochedykov Egor Aleksandrovich configs=   41  ips=    9  ASN=219357
+KREMER-AS - Liam Kremer      configs=   41  ips=   12  ASN=216078
+Baidu - Beijing Baidu Netcom Science and Technology Co. configs=   41  ips=    7  ASN=55967,38365
+I-SERVERS-EAST - IHOR HOSTING LTD configs=   41  ips=   37  ASN=209641
+DAInternationalGroup - DA International Group Ltd. configs=   40  ips=   14  ASN=203380
+ULTISOFTASN - ULTIMATE SOFTWARE GROUP configs=   40  ips=   22  ASN=32077
+CLOUDIE-AS-AP - Cloudie Limited configs=   40  ips=   31  ASN=55933
+UXHOST - UXHOST LTD          configs=   40  ips=   24  ASN=206715
+CLODO - CLODO CLOUD SERVICE CO. L.L.C configs=   40  ips=   17  ASN=216154
+WhiteLabel - Fiba Cloud Operation Company configs=   40  ips=   21  ASN=44382
+BlackHOST - Black HOST Ltd   configs=   40  ips=    5  ASN=12989
+DigitalVps - DigitalVps      configs=   40  ips=    6  ASN=214515
+GIGAHOST - Gigahost AS       configs=   40  ips=   19  ASN=56655
+LUCID-AS-AP - LUCIDACLOUD LIMITED configs=   39  ips=   35  ASN=139659
+MASSIVEGRID - MASSIVEGRID LTD configs=   39  ips=   14  ASN=49683
+AFRANET - Afranet            configs=   39  ips=   35  ASN=25184
+PUREVOLTAGE-INC - PureVoltage Hosting Inc. configs=   39  ips=   20  ASN=26548
+INTERNETPORT-AS - Internetport Sweden AB configs=   39  ips=    3  ASN=49770
+EDGE - GCI Network Solutions Limited configs=   38  ips=   23  ASN=8851
+FlorianKolb - Florian Kolb   configs=   38  ips=   16  ASN=58087
+NEKO-AS - NEKOBYTE INTERNATIONAL LIMITED configs=   38  ips=   16  ASN=206134
+RICAWEBSERVICES - Rica Web Services configs=   38  ips=    9  ASN=26832
+retzor-as - Mastersoft S.R.L. configs=   38  ips=   43  ASN=215305
+BTTGROUP-AS - Fast Servers (Pty) Ltd configs=   38  ips=   13  ASN=35830
+RACKHOST-AS - Rackhost Zrt.  configs=   38  ips=   29  ASN=210579
+APPLIEDUK-CLOUD-04 - APPLIED SYSTEMS configs=   37  ips=   24  ASN=4892
+GreenHostApS - GreenHost ApS configs=   37  ips=    1  ASN=49051
+Alwyzon - Hohl IT e.U.       configs=   37  ips=   12  ASN=40994
+MOACKCOLTD-AS-AP - MOACK.Co.LTD configs=   37  ips=   16  ASN=138195
+USG-PROD-WEST01 - ULTIMATE SOFTWARE GROUP configs=   36  ips=   27  ASN=17289
+vpsville-AS - LLC Vpsville   configs=   36  ips=   11  ASN=59504
+BAGE - BAGE CLOUD LLC        configs=   36  ips=   14  ASN=63150
+EDGE-AS - Edge Core FZE      configs=   36  ips=   14  ASN=219359
+EDCL-AS-AP - Eons Data Communications Limited configs=   35  ips=   19  ASN=138997
+SCULK-AS - Sculk Ltd.        configs=   35  ips=   13  ASN=213529
+AS-COLOAM - Colocation America Corporation configs=   35  ips=   28  ASN=21769
+FLY - Fly.io                 configs=   35  ips=    9  ASN=40509
+Catixs-Edge - Catixs Ltd     configs=   35  ips=   10  ASN=213169
+Serverir - Mahdiar Rafiee    configs=   35  ips=    9  ASN=39368
+PIPE-NET - Pipe Networks GmbH configs=   35  ips=    7  ASN=49592
+MYLOC-AS - WIIT AG           configs=   35  ips=   41  ASN=24961
+I-SERVERS-NORTH-EU - IHOR HOSTING LTD configs=   34  ips=   21  ASN=207569
+EDIS-AS-EU - EDIS GmbH       configs=   34  ips=   12  ASN=57169
+HAZI - HFM S.R.L             configs=   34  ips=   17  ASN=57403
+rapidoserver - Sajjad Khazaei configs=   34  ips=   18  ASN=218732
+AS40676 - Psychz Networks    configs=   34  ips=   13  ASN=40676
+KORBANK-AS - Korbank S. A.   configs=   34  ips=   11  ASN=35179
+HOSTLAND - Hostland LTD      configs=   33  ips=    5  ASN=62082
+UNESTY - Collin Schneeweiss trading as Unesty Company configs=   33  ips=   16  ASN=211301
+NTT-DATA-2914 - NTT America  configs=   33  ips=   22  ASN=2914
+ae_netconnect - NetConnect Innovations LLC configs=   32  ips=    7  ASN=200315
+AIYUN-AS-AP - Aiyun (HK) Network configs=   32  ips=   13  ASN=152672
+AS57858 - Angelnet Limited   configs=   32  ips=    8  ASN=57858
+HOSTUP - Hostup AB           configs=   32  ips=   17  ASN=214640
+GIR-AS - GLOBAL INTERNET SOLUTIONS LLC configs=   32  ips=   25  ASN=207713
+BRAINOZA - Brainoza OU       configs=   31  ips=   17  ASN=214790
+NEAROUTE - Nearoute Limited  configs=   31  ips=    8  ASN=51847
+FIRST-SERVER-EUROPE - FIRST SERVER LIMITED configs=   31  ips=   29  ASN=205090
+LIMESTONENETWORKS - Limestone Networks configs=   31  ips=   26  ASN=46475
+SPACECORE - SPACECORE SOLUTION LTD configs=   31  ips=   12  ASN=198037
+CITYTELECOM-MSK - Citytelecom LLC configs=   31  ips=   28  ASN=3175
+AlbHost - Albanian Hosting SH.P.K. configs=   31  ips=   27  ASN=48014
+ROYALE-AS - RoyaleHosting BV configs=   31  ips=   14  ASN=212477
+BEGET-AS - Beget LLC         configs=   30  ips=   23  ASN=198610
+CTGSERVERLIMITED-AS-AP - CTG Server Limited configs=   30  ips=   15  ASN=152194
+BYTEVIRTLLC - ByteVirt LLC   configs=   30  ips=   18  ASN=212336
+HOSTOFF - LLC _HOSTOFF CSL_  configs=   30  ips=   18  ASN=207513
+APHRODITE3-AS - Aphrodite Group Ltd configs=   30  ips=   29  ASN=59406
+Aluy - Julian Achter         configs=   30  ips=   18  ASN=211507
+VERIXI - VERIXI SA           configs=   30  ips=   18  ASN=6696
+ADAPTGROUP - AdaptGroup      configs=   30  ips=   29  ASN=402931
+UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED configs=   29  ips=   15  ASN=135377
+WAVECOM-AS - Aktsiaselts WaveCom configs=   29  ips=   13  ASN=34702
+TornadoDatacenter - Joseph Hofmann trading as _Tornado Datacenter GmbH & Co. KG_ configs=   29  ips=   23  ASN=198983
+ARUBA-ASN - Aruba S.p.A.     configs=   29  ips=   15  ASN=31034
+CAKEHOME-AS - Iryna Maksymiv trading as Cake Home configs=   29  ips=   25  ASN=199915
+IOMART-AS - IOMART CLOUD SERVICES LIMITED configs=   28  ips=   21  ASN=20860
+ASN852 - TELUS Communications Inc. configs=   28  ips=   15  ASN=852
+CloudBlast - CloudBlast LLC  configs=   28  ips=   13  ASN=207847
+VOXILITY - Voxility LLP      configs=   28  ips=   14  ASN=3223
+ADVIN-AS - Advin Services LLC configs=   28  ips=    6  ASN=206216
+AS-DYJIX - Dyjix SAS         configs=   28  ips=   14  ASN=212815
+TWC-US - Timeweb             configs=   28  ips=   10  ASN=204427
+PowerRDP-Network-AS - PowerRDP Network LTD configs=   28  ips=   14  ASN=197283
+Zouter - ZOUTER LIMITED      configs=   28  ips=   10  ASN=205548
+R95-LV - ROUTE 95 LLC        configs=   27  ips=   19  ASN=50979
+HNTCL-HK - HENGTIAN NETWORK TECHNOLOGY CO. configs=   27  ips=    1  ASN=134696
+Sindad - Sindad Network Technology PJSC configs=   26  ips=   11  ASN=48551
+CMNET-Jiangsu-AP - China Mobile communications corporation configs=   26  ips=   22  ASN=56046
+CNSERVER-AP-AS - CNServer LLC configs=   26  ips=   10  ASN=7488
+SYNLINQ - Oliver Horscht trading as _SYNLINQ_ configs=   26  ips=   18  ASN=44486
+PSKZ-AST - PS Internet Company LLP configs=   26  ips=    6  ASN=39318
+HORIZONVPS-AS - Khachatryan Armen Martirosovich configs=   26  ips=   21  ASN=197165
+WRG-AS - 3nt solutions LLP   configs=   26  ips=    5  ASN=50132
+EE - SmartApe OU             configs=   25  ips=   19  ASN=62212
+SEFROYEKPARDAZENG-AS - Sefroyek Pardaz Engineering PJSC configs=   25  ips=   20  ASN=48715
+MivoCloud - MivoCloud SRL    configs=   25  ips=    8  ASN=39798
+Prosto-AS - Prosto Solution LLC configs=   25  ips=   20  ASN=219010
+SUNUCUN - Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti. configs=   25  ips=    8  ASN=197450
+ASBAXET - LLC Baxet          configs=   25  ips=   22  ASN=51659
+UPHOST-AS - UPHOST SOLUTIONS LIMITED configs=   25  ips=   11  ASN=197462
+XZONE - X-ZONE IT SRL        configs=   24  ips=    5  ASN=60982
+MTS-CLOUD - MTS PJSC         configs=   24  ips=   13  ASN=60490
+ESTOXY-OU - ESTOXY OU        configs=   24  ips=   17  ASN=61254
+AminIDC - Asre Pardazeshe Ettelaate Amin Institute configs=   24  ips=   17  ASN=48147
+XTOM - xTom                  configs=   24  ips=   11  ASN=6233,9312
+PONYNET - FranTech Solutions configs=   24  ips=   19  ASN=53667
+Liteserver - The Infrastructure Group B.V. configs=   24  ips=   18  ASN=60404
+ZEN-DPS - Zenlayer Inc       configs=   24  ips=    8  ASN=62610
+PNI-AS-TW - Pittqiao Network Information Co. configs=   23  ips=   16  ASN=131642
+podaon-pl-1 - Podaon SIA     configs=   23  ips=    5  ASN=210895
+SIBERFY-AS-AP - SIBERFY (PRIVATE) LIMITED configs=   23  ips=    4  ASN=135598
+PROTOCOL - Protocol Labs     configs=   23  ips=   13  ASN=40680
+XTOM - xTom Pty Ltd          configs=   23  ips=   14  ASN=8888
+VNPT-AS-VN - VIETNAM POSTS AND TELECOMMUNICATIONS GROUP configs=   23  ips=   16  ASN=135905
+TAKEHOST-AS - TAKEHOST OU    configs=   23  ips=   18  ASN=214639
+SKB-AS-KR - SK Broadband Co Ltd configs=   22  ips=   16  ASN=9318
+TCI - Iran Telecommunication Company PJS configs=   22  ips=   18  ASN=58224
+Dade-Samane-Fanava - Dade Samane Fanava Company (PJS) configs=   22  ips=   12  ASN=62442
+GIGAINFRA - SoftBank Corp.   configs=   22  ips=    3  ASN=17676
+Evolus-Fibre - Evolus IT Solutions GmbH configs=   22  ips=   14  ASN=216416
+CloudWebManage-EU - Kamatera Inc configs=   22  ips=    3  ASN=41436
+IS-AS-1 - Interserver        configs=   22  ips=   11  ASN=19318
+MizbanDadehPardis - Mizban Dadeh Pardis .Ltd configs=   22  ips=   15  ASN=213953
+NEXTTRANSLATE-AS - NEXTTRANSLATE LTD configs=   22  ips=    4  ASN=203614
+SIAMDATA-TH - Siamdata Communication Co. configs=   21  ips=   12  ASN=56309
+feelb - FEELB SARL           configs=   21  ips=   10  ASN=207992
+CHSL-ONE - CHSL ONE LTD      configs=   21  ips=   11  ASN=210546
+DEDICATED-FIBER-COMMUNICATIONS - DedFiberCo configs=   21  ips=    8  ASN=16628
+DATAGIONET-AS - Datagio Systems Ltd. configs=   21  ips=    6  ASN=218914
+TWO-E-Telekom - 2E TELEKOMUNIKASYON LTD STI configs=   21  ips=    4  ASN=209604
+AKARI-NETWORKS - Akari Networks LLC configs=   21  ips=   10  ASN=400951
+FIRSTBYTE-AS - FIRST SERVER LIMITED configs=   21  ips=   19  ASN=204997
+MTFINANCE-AS - MT FINANCE LLC configs=   21  ips=   21  ASN=214822
+HOSTWINDS - Hostwinds LLC.   configs=   20  ips=    7  ASN=54290
+SOULFUL-AS - SOULFUL HOSTING LTD configs=   20  ips=   13  ASN=219288
+RACKFOREST-AS - Rackforest Zrt. configs=   20  ips=    9  ASN=62214
+MF-MGSM-AS - PJSC MegaFon    configs=   20  ips=    2  ASN=31133
+PIC-EXT - Ping Identity Corporation configs=   20  ips=   15  ASN=400797
+INTERNET-CZ - INTERNET CZ    configs=   20  ips=   18  ASN=24806
