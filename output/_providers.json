@@ -3,8 +3,8 @@
     "provider": "Cloudflare",
     "slug": "cloudflare",
     "file": "output/cloudflare.txt",
-    "configs": 56911,
-    "ips": 17907,
+    "configs": 57415,
+    "ips": 17597,
     "asns": [
       13335,
       209242,
@@ -22,8 +22,8 @@
     "provider": "Google",
     "slug": "google",
     "file": "output/google.txt",
-    "configs": 199,
-    "ips": 155,
+    "configs": 196,
+    "ips": 135,
     "asns": [
       15169
     ],
@@ -48,8 +48,8 @@
     "provider": "AWS",
     "slug": "aws",
     "file": "output/aws.txt",
-    "configs": 5398,
-    "ips": 3259,
+    "configs": 5403,
+    "ips": 3265,
     "asns": [
       16509,
       14618,
@@ -69,8 +69,8 @@
     "provider": "Fastly",
     "slug": "fastly",
     "file": "output/fastly.txt",
-    "configs": 5659,
-    "ips": 1123,
+    "configs": 5745,
+    "ips": 1094,
     "asns": [
       54113
     ],
@@ -82,10 +82,11 @@
     "provider": "Microsoft Azure",
     "slug": "microsoft-azure",
     "file": "output/microsoft-azure.txt",
-    "configs": 306,
-    "ips": 152,
+    "configs": 317,
+    "ips": 155,
     "asns": [
-      8075
+      8075,
+      8069
     ],
     "names": [
       "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US"
@@ -98,20 +99,22 @@
     "configs": 8,
     "ips": 5,
     "asns": [
+      20940,
       33905,
-      20940
+      16625
     ],
     "names": [
+      "AKAMAI-ASN1 - Akamai International B.V., NL",
       "AKAMAI-AMS - Akamai International B.V., NL",
-      "AKAMAI-ASN1 - Akamai International B.V., NL"
+      "AKAMAI-AS - Akamai Technologies, Inc., US"
     ]
   },
   {
     "provider": "Akamai (Linode)",
     "slug": "akamai-linode",
     "file": "output/akamai-linode.txt",
-    "configs": 586,
-    "ips": 309,
+    "configs": 567,
+    "ips": 311,
     "asns": [
       63949
     ],
@@ -123,18 +126,18 @@
     "provider": "Hetzner",
     "slug": "hetzner",
     "file": "output/hetzner.txt",
-    "configs": 3883,
-    "ips": 1840,
+    "configs": 3892,
+    "ips": 1826,
     "asns": [
       24940,
-      212317,
       213230,
+      212317,
       215859
     ],
     "names": [
       "HETZNER-AS - Hetzner Online GmbH, DE",
-      "HETZNER-CLOUD3-AS - Hetzner Online GmbH, DE",
       "HETZNER-CLOUD2-AS - Hetzner Online GmbH, DE",
+      "HETZNER-CLOUD3-AS - Hetzner Online GmbH, DE",
       "HETZNER-CLOUD4-AS - Hetzner Online GmbH, DE"
     ]
   },
@@ -142,8 +145,8 @@
     "provider": "OVH",
     "slug": "ovh",
     "file": "output/ovh.txt",
-    "configs": 3698,
-    "ips": 985,
+    "configs": 3747,
+    "ips": 978,
     "asns": [
       16276
     ],
@@ -155,8 +158,8 @@
     "provider": "DigitalOcean",
     "slug": "digitalocean",
     "file": "output/digitalocean.txt",
-    "configs": 1362,
-    "ips": 925,
+    "configs": 1334,
+    "ips": 900,
     "asns": [
       14061,
       393406
@@ -170,8 +173,8 @@
     "provider": "Oracle Cloud",
     "slug": "oracle-cloud",
     "file": "output/oracle-cloud.txt",
-    "configs": 2002,
-    "ips": 997,
+    "configs": 1914,
+    "ips": 996,
     "asns": [
       31898
     ],
@@ -183,8 +186,8 @@
     "provider": "Vultr",
     "slug": "vultr",
     "file": "output/vultr.txt",
-    "configs": 906,
-    "ips": 590,
+    "configs": 898,
+    "ips": 581,
     "asns": [
       20473
     ],
@@ -196,8 +199,8 @@
     "provider": "Scaleway",
     "slug": "scaleway",
     "file": "output/scaleway.txt",
-    "configs": 966,
-    "ips": 125,
+    "configs": 977,
+    "ips": 120,
     "asns": [
       12876
     ],
@@ -209,8 +212,8 @@
     "provider": "Alibaba Cloud",
     "slug": "alibaba-cloud",
     "file": "output/alibaba-cloud.txt",
-    "configs": 1832,
-    "ips": 627,
+    "configs": 1819,
+    "ips": 625,
     "asns": [
       45102,
       37963,
@@ -226,8 +229,8 @@
     "provider": "Tencent Cloud",
     "slug": "tencent-cloud",
     "file": "output/tencent-cloud.txt",
-    "configs": 320,
-    "ips": 164,
+    "configs": 317,
+    "ips": 163,
     "asns": [
       132203,
       45090
@@ -254,17 +257,17 @@
     "provider": "Contabo",
     "slug": "contabo",
     "file": "output/contabo.txt",
-    "configs": 383,
-    "ips": 104,
+    "configs": 380,
+    "ips": 103,
     "asns": [
       141995,
-      40021,
-      51167
+      51167,
+      40021
     ],
     "names": [
       "CAPL-AS-AP - Contabo Asia Private Limited, SG",
-      "CONTABO-40021 - Contabo Inc., US",
-      "CONTABO - Contabo GmbH, DE"
+      "CONTABO - Contabo GmbH, DE",
+      "CONTABO-40021 - Contabo Inc., US"
     ]
   }
 ]
