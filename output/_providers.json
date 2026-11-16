@@ -3,8 +3,8 @@
     "provider": "Cloudflare",
     "slug": "cloudflare",
     "file": "output/cloudflare.txt",
-    "configs": 63357,
-    "ips": 17208,
+    "configs": 66547,
+    "ips": 17238,
     "asns": [
       13335,
       209242,
@@ -22,8 +22,8 @@
     "provider": "Google",
     "slug": "google",
     "file": "output/google.txt",
-    "configs": 185,
-    "ips": 141,
+    "configs": 184,
+    "ips": 123,
     "asns": [
       15169
     ],
@@ -48,8 +48,8 @@
     "provider": "AWS",
     "slug": "aws",
     "file": "output/aws.txt",
-    "configs": 5521,
-    "ips": 3518,
+    "configs": 5586,
+    "ips": 3556,
     "asns": [
       16509,
       14618,
@@ -69,8 +69,8 @@
     "provider": "Fastly",
     "slug": "fastly",
     "file": "output/fastly.txt",
-    "configs": 5452,
-    "ips": 1154,
+    "configs": 5507,
+    "ips": 1149,
     "asns": [
       54113
     ],
@@ -82,8 +82,8 @@
     "provider": "Microsoft Azure",
     "slug": "microsoft-azure",
     "file": "output/microsoft-azure.txt",
-    "configs": 331,
-    "ips": 154,
+    "configs": 340,
+    "ips": 158,
     "asns": [
       8075,
       8069
@@ -96,21 +96,23 @@
     "provider": "Akamai",
     "slug": "akamai",
     "file": "output/akamai.txt",
-    "configs": 7,
-    "ips": 6,
+    "configs": 10,
+    "ips": 7,
     "asns": [
-      20940
+      20940,
+      33905
     ],
     "names": [
-      "AKAMAI-ASN1 - Akamai International B.V., NL"
+      "AKAMAI-ASN1 - Akamai International B.V., NL",
+      "AKAMAI-AMS - Akamai International B.V., NL"
     ]
   },
   {
     "provider": "Akamai (Linode)",
     "slug": "akamai-linode",
     "file": "output/akamai-linode.txt",
-    "configs": 619,
-    "ips": 309,
+    "configs": 652,
+    "ips": 354,
     "asns": [
       63949
     ],
@@ -122,8 +124,8 @@
     "provider": "Hetzner",
     "slug": "hetzner",
     "file": "output/hetzner.txt",
-    "configs": 3753,
-    "ips": 1773,
+    "configs": 3751,
+    "ips": 1779,
     "asns": [
       24940,
       212317,
@@ -141,8 +143,8 @@
     "provider": "OVH",
     "slug": "ovh",
     "file": "output/ovh.txt",
-    "configs": 3738,
-    "ips": 987,
+    "configs": 3679,
+    "ips": 975,
     "asns": [
       16276
     ],
@@ -154,7 +156,7 @@
     "provider": "DigitalOcean",
     "slug": "digitalocean",
     "file": "output/digitalocean.txt",
-    "configs": 1277,
+    "configs": 1274,
     "ips": 853,
     "asns": [
       14061,
@@ -169,7 +171,7 @@
     "provider": "Oracle Cloud",
     "slug": "oracle-cloud",
     "file": "output/oracle-cloud.txt",
-    "configs": 1943,
+    "configs": 1927,
     "ips": 996,
     "asns": [
       31898
@@ -182,8 +184,8 @@
     "provider": "Vultr",
     "slug": "vultr",
     "file": "output/vultr.txt",
-    "configs": 896,
-    "ips": 573,
+    "configs": 906,
+    "ips": 582,
     "asns": [
       20473
     ],
@@ -195,7 +197,7 @@
     "provider": "Scaleway",
     "slug": "scaleway",
     "file": "output/scaleway.txt",
-    "configs": 959,
+    "configs": 963,
     "ips": 128,
     "asns": [
       12876
@@ -208,8 +210,8 @@
     "provider": "Alibaba Cloud",
     "slug": "alibaba-cloud",
     "file": "output/alibaba-cloud.txt",
-    "configs": 1853,
-    "ips": 602,
+    "configs": 1833,
+    "ips": 606,
     "asns": [
       45102,
       37963,
@@ -225,8 +227,8 @@
     "provider": "Tencent Cloud",
     "slug": "tencent-cloud",
     "file": "output/tencent-cloud.txt",
-    "configs": 324,
-    "ips": 159,
+    "configs": 335,
+    "ips": 163,
     "asns": [
       132203,
       45090
@@ -240,8 +242,8 @@
     "provider": "Huawei Cloud",
     "slug": "huawei-cloud",
     "file": "output/huawei-cloud.txt",
-    "configs": 11,
-    "ips": 6,
+    "configs": 10,
+    "ips": 5,
     "asns": [
       136907
     ],
