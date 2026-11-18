@@ -3,18 +3,18 @@
     "provider": "Cloudflare",
     "slug": "cloudflare",
     "file": "output/cloudflare.txt",
-    "configs": 73787,
-    "ips": 17439,
+    "configs": 73899,
+    "ips": 17526,
     "asns": [
-      13335,
       209242,
-      400095,
+      13335,
       14789,
+      400095,
       395747
     ],
     "names": [
-      "CLOUDFLARENET - Cloudflare, Inc., US",
       "CLOUDFLARESPECTRUM - Cloudflare London, LLC, US",
+      "CLOUDFLARENET - Cloudflare, Inc., US",
       "CLOUDFLARENET-SFO05 - Cloudflare, Inc., US"
     ]
   },
@@ -22,8 +22,8 @@
     "provider": "Google",
     "slug": "google",
     "file": "output/google.txt",
-    "configs": 199,
-    "ips": 146,
+    "configs": 201,
+    "ips": 141,
     "asns": [
       15169
     ],
@@ -48,8 +48,8 @@
     "provider": "AWS",
     "slug": "aws",
     "file": "output/aws.txt",
-    "configs": 5337,
-    "ips": 3263,
+    "configs": 5467,
+    "ips": 3301,
     "asns": [
       16509,
       7203,
@@ -69,8 +69,8 @@
     "provider": "Fastly",
     "slug": "fastly",
     "file": "output/fastly.txt",
-    "configs": 5329,
-    "ips": 1087,
+    "configs": 5748,
+    "ips": 1130,
     "asns": [
       54113
     ],
@@ -82,7 +82,7 @@
     "provider": "Microsoft Azure",
     "slug": "microsoft-azure",
     "file": "output/microsoft-azure.txt",
-    "configs": 301,
+    "configs": 303,
     "ips": 160,
     "asns": [
       8075
@@ -95,16 +95,16 @@
     "provider": "Akamai",
     "slug": "akamai",
     "file": "output/akamai.txt",
-    "configs": 9,
-    "ips": 7,
+    "configs": 8,
+    "ips": 5,
     "asns": [
-      20940,
       33905,
+      20940,
       16625
     ],
     "names": [
-      "AKAMAI-ASN1 - Akamai International B.V., NL",
       "AKAMAI-AMS - Akamai International B.V., NL",
+      "AKAMAI-ASN1 - Akamai International B.V., NL",
       "AKAMAI-AS - Akamai Technologies, Inc., US"
     ]
   },
@@ -112,8 +112,8 @@
     "provider": "Akamai (Linode)",
     "slug": "akamai-linode",
     "file": "output/akamai-linode.txt",
-    "configs": 666,
-    "ips": 347,
+    "configs": 632,
+    "ips": 350,
     "asns": [
       63949
     ],
@@ -125,8 +125,8 @@
     "provider": "Hetzner",
     "slug": "hetzner",
     "file": "output/hetzner.txt",
-    "configs": 3841,
-    "ips": 1802,
+    "configs": 3907,
+    "ips": 1819,
     "asns": [
       24940,
       213230,
@@ -144,7 +144,7 @@
     "provider": "OVH",
     "slug": "ovh",
     "file": "output/ovh.txt",
-    "configs": 3585,
+    "configs": 3620,
     "ips": 997,
     "asns": [
       16276
@@ -157,8 +157,8 @@
     "provider": "DigitalOcean",
     "slug": "digitalocean",
     "file": "output/digitalocean.txt",
-    "configs": 1260,
-    "ips": 860,
+    "configs": 1264,
+    "ips": 865,
     "asns": [
       14061,
       393406
@@ -172,8 +172,8 @@
     "provider": "Oracle Cloud",
     "slug": "oracle-cloud",
     "file": "output/oracle-cloud.txt",
-    "configs": 2024,
-    "ips": 859,
+    "configs": 2013,
+    "ips": 860,
     "asns": [
       31898
     ],
@@ -185,8 +185,8 @@
     "provider": "Vultr",
     "slug": "vultr",
     "file": "output/vultr.txt",
-    "configs": 887,
-    "ips": 575,
+    "configs": 881,
+    "ips": 574,
     "asns": [
       20473
     ],
@@ -198,8 +198,8 @@
     "provider": "Scaleway",
     "slug": "scaleway",
     "file": "output/scaleway.txt",
-    "configs": 917,
-    "ips": 129,
+    "configs": 945,
+    "ips": 131,
     "asns": [
       12876
     ],
@@ -211,8 +211,8 @@
     "provider": "Alibaba Cloud",
     "slug": "alibaba-cloud",
     "file": "output/alibaba-cloud.txt",
-    "configs": 1822,
-    "ips": 578,
+    "configs": 1827,
+    "ips": 575,
     "asns": [
       45102,
       37963,
@@ -229,7 +229,7 @@
     "slug": "tencent-cloud",
     "file": "output/tencent-cloud.txt",
     "configs": 315,
-    "ips": 165,
+    "ips": 162,
     "asns": [
       132203,
       45090
@@ -243,8 +243,8 @@
     "provider": "Huawei Cloud",
     "slug": "huawei-cloud",
     "file": "output/huawei-cloud.txt",
-    "configs": 7,
-    "ips": 4,
+    "configs": 6,
+    "ips": 3,
     "asns": [
       136907
     ],
