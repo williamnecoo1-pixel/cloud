@@ -3,8 +3,8 @@
     "provider": "Cloudflare",
     "slug": "cloudflare",
     "file": "output/cloudflare.txt",
-    "configs": 76815,
-    "ips": 17506,
+    "configs": 77543,
+    "ips": 17331,
     "asns": [
       13335,
       209242,
@@ -22,8 +22,8 @@
     "provider": "Google",
     "slug": "google",
     "file": "output/google.txt",
-    "configs": 202,
-    "ips": 141,
+    "configs": 200,
+    "ips": 142,
     "asns": [
       15169
     ],
@@ -48,29 +48,29 @@
     "provider": "AWS",
     "slug": "aws",
     "file": "output/aws.txt",
-    "configs": 5160,
-    "ips": 3230,
+    "configs": 5081,
+    "ips": 3209,
     "asns": [
       16509,
       7203,
+      24544,
       14618,
-      21664,
-      24544
+      21664
     ],
     "names": [
       "AMAZON-02 - Amazon.com, Inc., US",
       "LEASEWEB-USA-SFO - Leaseweb USA, Inc., US",
+      "LAWSCLOUDINFRASTRUCTURELIMITED-AS-HK - Law_s Cloud Infrastructure Limited, HK",
       "AMAZON-AES - Amazon.com, Inc., US",
-      "AMZN-BYOASN - Amazon.com, Inc., US",
-      "LAWSCLOUDINFRASTRUCTURELIMITED-AS-HK - Law_s Cloud Infrastructure Limited, HK"
+      "AMZN-BYOASN - Amazon.com, Inc., US"
     ]
   },
   {
     "provider": "Fastly",
     "slug": "fastly",
     "file": "output/fastly.txt",
-    "configs": 5363,
-    "ips": 1154,
+    "configs": 5355,
+    "ips": 1125,
     "asns": [
       54113
     ],
@@ -83,7 +83,7 @@
     "slug": "microsoft-azure",
     "file": "output/microsoft-azure.txt",
     "configs": 304,
-    "ips": 157,
+    "ips": 162,
     "asns": [
       8075,
       8069
@@ -96,25 +96,25 @@
     "provider": "Akamai",
     "slug": "akamai",
     "file": "output/akamai.txt",
-    "configs": 9,
-    "ips": 6,
+    "configs": 8,
+    "ips": 5,
     "asns": [
-      16625,
       20940,
-      33905
+      33905,
+      16625
     ],
     "names": [
-      "AKAMAI-AS - Akamai Technologies, Inc., US",
       "AKAMAI-ASN1 - Akamai International B.V., NL",
-      "AKAMAI-AMS - Akamai International B.V., NL"
+      "AKAMAI-AMS - Akamai International B.V., NL",
+      "AKAMAI-AS - Akamai Technologies, Inc., US"
     ]
   },
   {
     "provider": "Akamai (Linode)",
     "slug": "akamai-linode",
     "file": "output/akamai-linode.txt",
-    "configs": 675,
-    "ips": 342,
+    "configs": 686,
+    "ips": 345,
     "asns": [
       63949
     ],
@@ -126,8 +126,8 @@
     "provider": "Hetzner",
     "slug": "hetzner",
     "file": "output/hetzner.txt",
-    "configs": 3735,
-    "ips": 1800,
+    "configs": 3818,
+    "ips": 1842,
     "asns": [
       24940,
       213230,
@@ -145,8 +145,8 @@
     "provider": "OVH",
     "slug": "ovh",
     "file": "output/ovh.txt",
-    "configs": 3739,
-    "ips": 997,
+    "configs": 3657,
+    "ips": 987,
     "asns": [
       16276
     ],
@@ -158,8 +158,8 @@
     "provider": "DigitalOcean",
     "slug": "digitalocean",
     "file": "output/digitalocean.txt",
-    "configs": 1317,
-    "ips": 899,
+    "configs": 1329,
+    "ips": 905,
     "asns": [
       14061,
       393406
@@ -173,8 +173,8 @@
     "provider": "Oracle Cloud",
     "slug": "oracle-cloud",
     "file": "output/oracle-cloud.txt",
-    "configs": 1942,
-    "ips": 841,
+    "configs": 1914,
+    "ips": 854,
     "asns": [
       31898
     ],
@@ -186,8 +186,8 @@
     "provider": "Vultr",
     "slug": "vultr",
     "file": "output/vultr.txt",
-    "configs": 901,
-    "ips": 577,
+    "configs": 891,
+    "ips": 568,
     "asns": [
       20473
     ],
@@ -199,8 +199,8 @@
     "provider": "Scaleway",
     "slug": "scaleway",
     "file": "output/scaleway.txt",
-    "configs": 919,
-    "ips": 121,
+    "configs": 913,
+    "ips": 123,
     "asns": [
       12876
     ],
@@ -212,16 +212,16 @@
     "provider": "Alibaba Cloud",
     "slug": "alibaba-cloud",
     "file": "output/alibaba-cloud.txt",
-    "configs": 1743,
-    "ips": 576,
+    "configs": 1686,
+    "ips": 586,
     "asns": [
-      37963,
       45102,
+      37963,
       134963
     ],
     "names": [
-      "ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN",
       "ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN",
+      "ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN",
       "ASEPL-AS-AP - Alibaba Cloud (Singapore) Private Limited, SG"
     ]
   },
@@ -229,8 +229,8 @@
     "provider": "Tencent Cloud",
     "slug": "tencent-cloud",
     "file": "output/tencent-cloud.txt",
-    "configs": 317,
-    "ips": 163,
+    "configs": 305,
+    "ips": 162,
     "asns": [
       132203,
       45090
@@ -244,8 +244,8 @@
     "provider": "Huawei Cloud",
     "slug": "huawei-cloud",
     "file": "output/huawei-cloud.txt",
-    "configs": 8,
-    "ips": 3,
+    "configs": 10,
+    "ips": 5,
     "asns": [
       136907
     ],
@@ -257,8 +257,8 @@
     "provider": "Contabo",
     "slug": "contabo",
     "file": "output/contabo.txt",
-    "configs": 334,
-    "ips": 105,
+    "configs": 335,
+    "ips": 108,
     "asns": [
       141995,
       51167,
