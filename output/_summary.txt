@@ -1,33 +1,33 @@
 IP → PROVIDER CLASSIFICATION
 ============================
-Total configs: 172265
-Classified IPs: 53548
-Providers found: 1540
-Unresolved hosts: 8847
-Invalid configs: 426
-DNS cache: 12971
-ASN cache: 53386
-ASN name cache: 1574
-Duration: 2599.22s
-Finished: 2026-11-20T13:34:26.814Z
+Total configs: 176689
+Classified IPs: 54806
+Providers found: 1614
+Unresolved hosts: 8941
+Invalid configs: 411
+DNS cache: 13229
+ASN cache: 54650
+ASN name cache: 1649
+Duration: 2089.81s
+Finished: 2026-11-20T19:22:03.010Z
 
 BREAKDOWN BY PROVIDER
 ---------------------
-Cloudflare                   configs=77146  ips=15407  ASN=13335,209242,400095,14789,395747
-Google                       configs=  198  ips=  141  ASN=15169
-Google Cloud                 configs=   16  ips=   16  ASN=396982
-AWS                          configs= 4503  ips= 2870  ASN=16509,14618,24544,7203,21664
-Fastly                       configs= 4856  ips=  996  ASN=54113
-Microsoft Azure              configs=  292  ips=  159  ASN=8075,8069
-Akamai                       configs=   10  ips=    6  ASN=20940,16625,33905
-Akamai (Linode)              configs=  675  ips=  314  ASN=63949
-Hetzner                      configs= 3259  ips= 1543  ASN=24940,212317,213230,215859
-OVH                          configs= 3445  ips=  902  ASN=16276
-DigitalOcean                 configs= 1182  ips=  789  ASN=14061,393406
-Oracle Cloud                 configs= 1766  ips=  748  ASN=31898
-Vultr                        configs=  789  ips=  505  ASN=20473
-Scaleway                     configs=  919  ips=  106  ASN=12876
-Alibaba Cloud                configs= 1702  ips=  550  ASN=45102,37963,134963
-Tencent Cloud                configs=  280  ips=  139  ASN=132203,45090
-Huawei Cloud                 configs=    9  ips=    5  ASN=136907
-Contabo                      configs=  321  ips=  102  ASN=51167,141995,40021
+Cloudflare                   configs=81215  ips=17645  ASN=13335,209242,14789,400095,395747
+Google                       configs=  201  ips=  136  ASN=15169
+Google Cloud                 configs=   22  ips=   22  ASN=396982
+AWS                          configs= 5123  ips= 3238  ASN=16509,14618,7203,24544,21664
+Fastly                       configs= 5230  ips= 1136  ASN=54113
+Microsoft Azure              configs=  308  ips=  165  ASN=8075
+Akamai                       configs=    9  ips=    7  ASN=20940,33905,16625
+Akamai (Linode)              configs=  712  ips=  360  ASN=63949
+Hetzner                      configs= 3861  ips= 1873  ASN=24940,212317,213230,215859
+OVH                          configs= 3766  ips=  994  ASN=16276
+DigitalOcean                 configs= 1384  ips=  934  ASN=14061,393406
+Oracle Cloud                 configs= 1917  ips=  843  ASN=31898
+Vultr                        configs=  891  ips=  574  ASN=20473
+Scaleway                     configs= 1082  ips=  122  ASN=12876
+Alibaba Cloud                configs= 1677  ips=  586  ASN=45102,37963,134963
+Tencent Cloud                configs=  308  ips=  161  ASN=132203,45090
+Huawei Cloud                 configs=    8  ips=    4  ASN=136907
+Contabo                      configs=  335  ips=  108  ASN=51167,141995,40021
